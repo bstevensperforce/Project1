@@ -1,0 +1,6 @@
+SCMBranch=Branch1
+SCMRepository=Main SCM/Sub_One
+SCMMainlineUUID={03f14648-acb7-45a6-a3f4-4db87bf769d7}
+SCMBranchRepositoryID=18
+File1.txt;0;1;1522845763;|28|4294967295
+File2.txt;0;1;1522845783;|29|4294967295

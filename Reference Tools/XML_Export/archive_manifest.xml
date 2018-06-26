@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE TestTrackData SYSTEM "TestTrackData.dtd">
+<TestTrackData version="1441793">
+
+<defect>
+	<record-id>13</record-id>
+	<defect-number>4</defect-number>
+	<summary>It would be nice if Product A had an integrated weather feature</summary>
+	<entered-by><last-name>Administrator</last-name><first-name>System</first-name><middle-name></middle-name></entered-by>
+	<date-entered>5/1/2006</date-entered>
+	<type>Crash - Data Loss</type>
+	<product>Product APS</product>
+	<disposition>Need Customer Input</disposition>
+	<priority>Future Release</priority>
+	<severity>No Workaround</severity>
+	<workaround has-formatting="true"><![CDATA[]]></workaround>
+	<custom-field-value field-name="Versions Impacted">
+
+		<multi-select>
+			<multi-select-value>Version 1</multi-select-value>
+		</multi-select>
+	</custom-field-value>		<custom-field-value field-name="Fix Count" field-value="3" />
+		<custom-field-value field-name="Days in Current State" field-value="0.24 Days" />
+		<custom-field-value field-name="Weeks to Close" field-value=" Weeks" />
+		<custom-field-value field-name="Risk Score" field-value="&lt;ERROR&gt;" />
+
+	<scc-file revision-fixed="" date-time-fixed="2016060316:12:46" provider-id="4294967295" change-type="0">Branch 2::duiahduaa/dadasda
+		<user><last-name>Administrator</last-name><first-name>System</first-name><middle-name></middle-name></user>
+	</scc-file>
+	<scc-file revision-fixed="" date-time-fixed="2016061414:59:04" provider-id="4294967295" change-type="0">Branch1::duiahduaa/MSINFO
+		<user><last-name>Administrator</last-name><first-name>System</first-name><middle-name></middle-name></user>
+	</scc-file>
+	<scc-file revision-fixed="" date-time-fixed="2016061415:07:48" provider-id="4294967295" change-type="0">Branch1::duiahduaa/msinfo32-seapine.txt
+		<user><last-name>Administrator</last-name><first-name>System</first-name><middle-name></middle-name></user>
+	</scc-file>
+	<scc-file revision-fixed="1" date-time-fixed="2016061415:09:05" provider-id="4294967295" change-type="0">Branch1::duiahduaa/seapien
+		<user><last-name>Administrator</last-name><first-name>System</first-name><middle-name></middle-name></user>
+	</scc-file>
+	<reported-by-record>
+		<found-by><last-name>Administrator</last-name><first-name>System</first-name><middle-name></middle-name></found-by>
+		<date-found>5/1/2006</date-found>
+		<version-found>Version 1</version-found>			<attachment name="PastedImage.jpeg" last-modified="10/5/2006 3:43:17 PM" creator="????" type="????" filespec="" sizebytes="1300" size="1300" img-width="0" img-height="0" create-date="20061005"/>
+
+		<description has-formatting="true"><![CDATA[<p>Sometimes when I am inputting new defects into the database, I would like to know what the weather is like in Hawaii.  This integrated weather feature would take care of those needs.  It serves no useful purpose, but I can guarantee that no competitors have it in their products.</p>]]></description>
+		<steps-to-reproduce has-formatting="true"><![CDATA[]]></steps-to-reproduce>
+		<computer-config type="users"></computer-config>
+		<other-hardware-and-software has-formatting="true"><![CDATA[]]></other-hardware-and-software>
+	</reported-by-record>
+	<defect-event>
+		<event-name>Fix</event-name>
+		<event-date>6/1/2006 11:59:59 AM</event-date>
+		<event-author><last-name>Manager</last-name><first-name>John</first-name><middle-name>T</middle-name></event-author>
+		<notes>Fixed</notes>
+		<time-spent>-1.00</time-spent>
+		<resulting-state>
+			<state-name>Fixed</state-name>
+			<attribute>Open</attribute>
+		</resulting-state>		<custom-field-value field-name="Fix Affects Documentation" field-value="false" />
+		<custom-field-value field-name="Fix Affects Test Plan" field-value="false" />
+		<custom-field-value field-name="Fix Resolution" field-value="Not Our Bug" />
+		<custom-field-value field-name="Fix Version" field-value="" />
+
+	</defect-event>
+	<defect-event>
+		<event-name>Verify</event-name>
+		<event-date>10/5/2006 11:59:59 AM</event-date>
+		<event-author><last-name>Tester</last-name><first-name>Sherry</first-name><middle-name>A</middle-name></event-author>
+		<notes>Verified failed.</notes>
+		<resulting-state>
+			<state-name>Open (Verify Failed)</state-name>
+			<attribute>Open</attribute>
+		</resulting-state>		<custom-field-value field-name="Verify Version" field-value="" />
+
+	</defect-event>
+	<defect-event>
+		<event-name>Assign</event-name>
+		<event-date>10/5/2006 11:59:59 AM</event-date>
+		<event-author><last-name>Administrator</last-name><first-name>System</first-name><middle-name></middle-name></event-author>
+		<event-assigned-to>
+			<assigned-to-user><last-name>Administrator</last-name><first-name>System</first-name><middle-name></middle-name></assigned-to-user>
+		</event-assigned-to>
+	</defect-event>
+	<defect-event>
+		<event-name>Estimate</event-name>
+		<event-date>2/15/2010 5:24:00 PM</event-date>
+		<event-author><last-name>Administrator</last-name><first-name>System</first-name><middle-name></middle-name></event-author>
+		<time-spent>2.00</time-spent>		<custom-field-value field-name="Estimate Version" field-value="" />
+		<custom-field-value field-name="Estimate Completion Date" field-value="" />
+
+	</defect-event>
+	<defect-event>
+		<event-name>Estimate</event-name>
+		<event-date>8/13/2010 1:56:49 PM</event-date>
+		<event-author><last-name>Administrator</last-name><first-name>System</first-name><middle-name></middle-name></event-author>
+		<time-spent>3.00</time-spent>		<custom-field-value field-name="Estimate Version" field-value="" />
+		<custom-field-value field-name="Estimate Completion Date" field-value="" />
+
+	</defect-event>
+	<defect-event>
+		<event-name>Enter Work</event-name>
+		<event-date>8/13/2010 1:57:03 PM</event-date>
+		<event-author><last-name>Administrator</last-name><first-name>System</first-name><middle-name></middle-name></event-author>
+		<time-spent>3.00</time-spent>		<custom-field-value field-name="Enter Work Remaining Time" field-value="0.00" />
+
+	</defect-event>
+	<defect-event>
+		<event-name>Fix</event-name>
+		<event-date>1/11/2012 5:12:25 PM</event-date>
+		<event-author><last-name>Administrator</last-name><first-name>System</first-name><middle-name></middle-name></event-author>
+		<notes>I wasn't handling errors correctly.</notes>
+		<time-spent>0.00</time-spent>
+		<resulting-state>
+			<state-name>Fixed</state-name>
+			<attribute>Open</attribute>
+		</resulting-state>		<custom-field-value field-name="Fix Affects Documentation" field-value="false" />
+		<custom-field-value field-name="Fix Affects Test Plan" field-value="false" />
+		<custom-field-value field-name="Fix Resolution" field-value="Code Change" />
+		<custom-field-value field-name="Fix Version" field-value="" />
+		<custom-field-value field-name="Fix Remaining Time" field-value="" />
+
+	</defect-event>
+	<defect-event>
+		<event-name>Verify</event-name>
+		<event-date>1/11/2012 5:13:31 PM</event-date>
+		<event-author><last-name>Administrator</last-name><first-name>System</first-name><middle-name></middle-name></event-author>
+		<resulting-state>
+			<state-name>Open (Verify Failed)</state-name>
+			<attribute>Open</attribute>
+		</resulting-state>		<custom-field-value field-name="Verify Version" field-value="" />
+
+	</defect-event>
+	<defect-event>
+		<event-name>Fix</event-name>
+		<event-date>1/11/2012 5:13:43 PM</event-date>
+		<event-author><last-name>Administrator</last-name><first-name>System</first-name><middle-name></middle-name></event-author>
+		<notes>I typed the tag name incorrectly.</notes>
+		<time-spent>0.00</time-spent>
+		<resulting-state>
+			<state-name>Fixed</state-name>
+			<attribute>Open</attribute>
+		</resulting-state>		<custom-field-value field-name="Fix Affects Documentation" field-value="false" />
+		<custom-field-value field-name="Fix Affects Test Plan" field-value="false" />
+		<custom-field-value field-name="Fix Resolution" field-value="Code Change" />
+		<custom-field-value field-name="Fix Version" field-value="" />
+		<custom-field-value field-name="Fix Remaining Time" field-value="" />
+
+	</defect-event>
+	<defect-event>
+		<event-name>Assign</event-name>
+		<event-date>6/8/2016 2:36:52 PM</event-date>
+		<event-author><last-name>Administrator</last-name><first-name>System</first-name><middle-name></middle-name></event-author>
+		<event-assigned-to>
+			<assigned-to-user><last-name>j</last-name><first-name>doe</first-name><middle-name></middle-name></assigned-to-user>
+		</event-assigned-to>
+	</defect-event>
+	<defect-event>
+		<event-name>Verify</event-name>
+		<event-date>6/8/2016 2:37:22 PM</event-date>
+		<event-author><last-name>j</last-name><first-name>doe</first-name><middle-name></middle-name></event-author>
+		<resulting-state>
+			<state-name>Open (Verify Failed)</state-name>
+			<attribute>Open</attribute>
+		</resulting-state>		<custom-field-value field-name="Verify Version" field-value="Version 1" />
+
+	</defect-event>
+	<defect-event>
+		<event-name>Assign</event-name>
+		<event-date>6/8/2016 2:37:28 PM</event-date>
+		<event-author system-user="true"><last-name></last-name><first-name></first-name><middle-name></middle-name></event-author>
+		<notes>System event generated by rule [this]
+Actions:
+Assigned to users: [Administrator, System] using event [Assign]
+</notes>
+		<event-assigned-to>
+			<assigned-to-user><last-name>Administrator</last-name><first-name>System</first-name><middle-name></middle-name></assigned-to-user>
+		</event-assigned-to>
+	</defect-event>
+	<defect-event>
+		<event-name>Estimate</event-name>
+		<event-date>6/8/2016 2:37:41 PM</event-date>
+		<event-author><last-name>j</last-name><first-name>doe</first-name><middle-name></middle-name></event-author>
+		<time-spent>100.00</time-spent>		<custom-field-value field-name="Estimate Version" field-value="" />
+		<custom-field-value field-name="Estimate Completion Date" field-value="10/8/2016" />
+
+	</defect-event>
+	<defect-event>
+		<event-name>Enter Work</event-name>
+		<event-date>6/8/2016 6:05:01 PM</event-date>
+		<event-author><last-name>Administrator</last-name><first-name>System</first-name><middle-name></middle-name></event-author>
+		<time-spent>15.00</time-spent>		<custom-field-value field-name="Enter Work Remaining Time" field-value="0.00" />
+
+	</defect-event>
+	<defect-status>Open (Verify Failed)</defect-status>
+	<currently-assigned-to><last-name>Administrator</last-name><first-name>System</first-name><middle-name></middle-name></currently-assigned-to>
+	<created-by><last-name>Administrator</last-name><first-name>System</first-name><middle-name></middle-name></created-by>
+	<date-created>10/5/2006 3:43:25 PM</date-created>
+	<creation-method>Add window</creation-method>
+	<last-modified-by><last-name>Administrator</last-name><first-name>System</first-name><middle-name></middle-name></last-modified-by>
+	<date-last-modified>6/14/2016 3:09:05 PM</date-last-modified>
+	<historical-event date="10/5/2006 4:32:44 PM" last-name="Administrator" first-name="System" information="Added Fix event (John T Manager - 6/1/2006)"/>
+	<historical-event date="10/5/2006 4:32:57 PM" last-name="Administrator" first-name="System" information="Added Verify event (Sherry A Tester - 10/5/2006)"/>
+	<historical-event date="10/5/2006 4:33:04 PM" last-name="Administrator" first-name="System" information="Added Assign event (System Administrator - 10/5/2006)"/>
+	<historical-event date="10/5/2006 4:35:27 PM" last-name="Administrator" first-name="System" information="Defect was renumbered from #13 to #4"/>
+	<historical-event date="2/15/2010 5:24:04 PM" last-name="Administrator" first-name="System" information="Added Estimate event (System Administrator - 2/15/2010 7:24 PM)"/>
+	<historical-event date="8/9/2010 5:35:44 PM" last-name="Administrator" first-name="System" information="Changed the following fields: Product"/>
+	<historical-event date="8/13/2010 1:56:53 PM" last-name="Administrator" first-name="System" information="Added Estimate event (System Administrator - 8/13/2010 9:56 AM)"/>
+	<historical-event date="8/13/2010 1:57:06 PM" last-name="Administrator" first-name="System" information="Added Enter Work event (System Administrator - 8/13/2010 9:57 AM)"/>
+	<historical-event date="1/10/2012 11:11:06 PM" information="Changed the following fields: Fix Count"/>
+	<historical-event date="1/11/2012 5:13:14 PM" last-name="Administrator" first-name="System" information="Changed the following fields: Fix Count"/>
+	<historical-event date="1/11/2012 5:13:14 PM" last-name="Administrator" first-name="System" information="Added Fix event (System Administrator - 1/11/2012 12:12 PM)"/>
+	<historical-event date="1/11/2012 5:13:37 PM" last-name="Administrator" first-name="System" information="Added Verify event (System Administrator - 1/11/2012 12:13 PM)"/>
+	<historical-event date="1/11/2012 5:14:28 PM" last-name="Administrator" first-name="System" information="Changed the following fields: Fix Count"/>
+	<historical-event date="1/11/2012 5:14:28 PM" last-name="Administrator" first-name="System" information="Added Fix event (System Administrator - 1/11/2012 12:13 PM)"/>
+	<historical-event date="1/11/2012 10:56:57 PM" information="Changed the following fields: Risk Score"/>
+	<historical-event date="1/27/2016 4:55:25 PM" last-name="Administrator" first-name="System" information="Changed the following fields: Type, Risk Score"/>
+	<historical-event date="6/3/2016 4:14:13 PM" last-name="Administrator" first-name="System" information="Changed the following fields: Risk Score"/>
+	<historical-event date="6/3/2016 4:14:13 PM" last-name="Administrator" first-name="System" information="Modified source code control (System Administrator - 6/3/2016) Attached file, Branch 2::duiahduaa/dadasda"/>
+	<historical-event date="6/8/2016 2:36:55 PM" last-name="Administrator" first-name="System" information="Added Assign event (System Administrator - 6/8/2016 10:36 AM)"/>
+	<historical-event date="6/8/2016 2:37:28 PM" last-name="j" first-name="doe" information="Added Verify event (doe j - 6/8/2016 10:37 AM)"/>
+	<historical-event date="6/8/2016 2:37:28 PM" information="Added Assign event (System - 6/8/2016 10:37 AM)"/>
+	<historical-event date="6/8/2016 2:37:49 PM" last-name="j" first-name="doe" information="Added Estimate event (doe j - 6/8/2016 10:37 AM)"/>
+	<historical-event date="6/8/2016 6:05:03 PM" last-name="Administrator" first-name="System" information="Added Enter Work event (System Administrator - 6/8/2016 2:05 PM)"/>
+	<historical-event date="6/14/2016 3:08:46 PM" last-name="Administrator" first-name="System" information="Modified source code control (System Administrator - 6/14/2016) Attached file, Branch1::duiahduaa/MSINFO"/>
+	<historical-event date="6/14/2016 3:08:46 PM" last-name="Administrator" first-name="System" information="Modified source code control (System Administrator - 6/14/2016) Attached file, Branch1::duiahduaa/msinfo32-seapine.txt"/>
+	<historical-event date="6/14/2016 3:09:05 PM" last-name="Administrator" first-name="System" information="Modified source code control (System Administrator - 6/14/2016) Attached file, Branch1::duiahduaa/seapien"/>
+	<folder-path>/Public/Product APS/Release 7.5/Bugs for 7.5</folder-path>
+</defect>
+<link>
+	<link-definition>Requirement Source</link-definition>
+	<link-created-by>System Administrator</link-created-by>
+	<link-date-created>6/15/2016 4:52 PM</link-date-created>
+	<linked-item-list>
+		<linked-item>
+			<relation>Child</relation>
+			<entity-type>1684431732</entity-type>
+			<entity-id>13</entity-id>
+			<text>It would be nice if Product A had an integrated weather feature</text>
+			<suspect-status>not-suspect</suspect-status>
+			<suspect-by-user><last-name/><first-name/><middle-name/></suspect-by-user>
+			<suspect-source-type>0</suspect-source-type>
+			<suspect-source-id>0</suspect-source-id>
+		</linked-item>
+	</linked-item-list>
+</link>
+</TestTrackData>
