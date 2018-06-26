@@ -1,0 +1,127 @@
+2018-06-17 16:00:16 GSM: Server                                                     Saving project history snapshots
+2018-06-17 16:00:16 GSM: Server                                                     Saved project history snapshots in 0.3 seconds.
+2018-06-17 21:00:00 MWN: Server                                                     Performing backup: VersionControl: 0 Incremental: 0 CheckDatabase: 0
+2018-06-17 21:04:19 MWN: Server                                                     The database was backed up to: C:/Program Files (x86)/Hansoft/Project Manager Server/Databases/MWN/Backup/2018-06-17 21.00.00.099
+2018-06-17 22:00:00 WMR: Server                                                     Performing backup: VersionControl: 1 Incremental: 0 CheckDatabase: 0
+2018-06-17 23:00:57 Server                                                          Freezing databases before shadow volume copy
+2018-06-17 23:00:57 Server                                                          Going through database list copy 3
+2018-06-17 23:00:57 Server                                                              Freezing: GSM
+2018-06-17 23:00:57 Server                                                              Freezing: WMR
+2018-06-17 23:30:02 WMR: Server                                                     Saving project history snapshots
+2018-06-17 23:30:02 WMR: Server                                                     Saved project history snapshots in 0.1 seconds.
+2018-06-18 00:00:10 MWN: Server                                                     Starting trends sampling
+2018-06-18 00:00:10 MWN: Server                                                     Trends sampling finished in 0.2 seconds.
+2018-06-18 00:00:14 WMR: Server                                                     Starting sampling of BI history
+2018-06-18 00:00:14 GSM: Server                                                     Starting sampling of BI history
+2018-06-18 00:00:14 MWN: Server                                                     Starting sampling of BI history
+2018-06-18 00:00:14 WMR: Server                                                     Finished sampling of BI history in 0.1033479 seconds
+2018-06-18 00:00:16 GSM: Server                                                     Saving project history snapshots
+2018-06-18 00:00:18 GSM: Server                                                     Saved project history snapshots in 2.4 seconds.
+2018-06-18 00:00:21 GSM: Server                                                     Finished sampling of BI history in 6.9165576 seconds
+2018-06-18 00:00:35 GSM: Server                                                     Starting trends sampling
+2018-06-18 00:00:36 GSM: Server                                                     Trends sampling finished in 0.8 seconds.
+2018-06-18 00:00:58 WMR: Server                                                     Starting trends sampling
+2018-06-18 00:00:58 WMR: Server                                                     Trends sampling finished in 0.3 seconds.
+2018-06-18 00:01:04 MWN: Server                                                     Finished sampling of BI history in 50.3945044 seconds
+2018-06-18 02:00:00 GSM: Server                                                     Performing backup: VersionControl: 1 Incremental: 0 CheckDatabase: 0
+2018-06-18 02:20:58 WMR: Server                                                     The database was backed up to: C:/Program Files (x86)/Hansoft/Project Manager Server/Databases/WMR/Backup/2018-06-17 22.00.00.360.VersionControl
+2018-06-18 02:21:11 Server                                                              Freezing: MWN
+2018-06-18 02:21:11 Server                                                          All databases frozen
+2018-06-18 02:21:11 Server                                                          Unfreezing databases after shadow volume copy
+2018-06-18 02:21:11 Server                                                              Unfreezing: GSM
+2018-06-18 02:21:11 Server                                                              Unfreezing: WMR
+2018-06-18 02:21:11 Server                                                              Unfreezing: MWN
+2018-06-18 02:21:11 Server                                                          All databases unfrozen
+2018-06-18 06:00:03 MWN: Server                                                     Saving project history snapshots
+2018-06-18 06:00:14 WMR: Server                                                     Saving project history snapshots
+2018-06-18 06:00:14 WMR: Server                                                     Saved project history snapshots in 0.1 seconds.
+2018-06-18 06:00:18 MWN: Server                                                     Saved project history snapshots in 15.2 seconds.
+2018-06-18 06:00:21 GSM: Server                                                     Saving project history snapshots
+2018-06-18 06:00:21 GSM: Server                                                     Saved project history snapshots in 0.6 seconds.
+2018-06-18 06:43:26 GSM: Server                                                     The database was backed up to: C:/Program Files (x86)/Hansoft/Project Manager Server/Databases/GSM/Backup/2018-06-18 02.00.00.498.VersionControl
+2018-06-18 16:00:00 GSM: Server                                                     Saving project history snapshots
+2018-06-18 16:00:00 GSM: Server                                                     Saved project history snapshots in 0.4 seconds.
+2018-06-18 21:00:00 MWN: Server                                                     Performing backup: VersionControl: 0 Incremental: 0 CheckDatabase: 0
+2018-06-18 21:16:26 MWN: Server                                                     The database was backed up to: C:/Program Files (x86)/Hansoft/Project Manager Server/Databases/MWN/Backup/2018-06-18 21.00.00.409
+2018-06-18 22:00:00 WMR: Server                                                     Performing backup: VersionControl: 1 Incremental: 0 CheckDatabase: 0
+2018-06-18 23:30:16 WMR: Server                                                     Saving project history snapshots
+2018-06-18 23:30:16 WMR: Server                                                     Saved project history snapshots in 0.4 seconds.
+2018-06-19 00:00:07 WMR: Server                                                     Starting trends sampling
+2018-06-19 00:00:07 WMR: Server                                                     Trends sampling finished in 0.0 seconds.
+2018-06-19 00:00:14 WMR: Server                                                     Starting sampling of BI history
+2018-06-19 00:00:14 GSM: Server                                                     Starting sampling of BI history
+2018-06-19 00:00:14 MWN: Server                                                     Starting sampling of BI history
+2018-06-19 00:00:14 WMR: Server                                                     Finished sampling of BI history in 0.1358414 seconds
+2018-06-19 00:00:23 GSM: Server                                                     Saving project history snapshots
+2018-06-19 00:00:23 GSM: Server                                                     Starting trends sampling
+2018-06-19 00:00:25 GSM: Server                                                     Trends sampling finished in 1.9 seconds.
+2018-06-19 00:00:27 GSM: Server                                                     Saved project history snapshots in 3.3 seconds.
+2018-06-19 00:00:30 GSM: Server                                                     Finished sampling of BI history in 15.9021351 seconds
+2018-06-19 00:00:44 MWN: Server                                                     Starting trends sampling
+2018-06-19 00:00:45 MWN: Server                                                     Trends sampling finished in 0.7 seconds.
+2018-06-19 00:01:14 MWN: Server                                                     Finished sampling of BI history in 59.8002509 seconds
+2018-06-19 01:28:14 WMR: Server                                                     The database was backed up to: C:/Program Files (x86)/Hansoft/Project Manager Server/Databases/WMR/Backup/2018-06-18 22.00.00.614.VersionControl
+2018-06-19 02:00:00 GSM: Server                                                     Performing backup: VersionControl: 1 Incremental: 0 CheckDatabase: 0
+2018-06-19 04:20:15 GSM: Server                                                     The database was backed up to: C:/Program Files (x86)/Hansoft/Project Manager Server/Databases/GSM/Backup/2018-06-19 02.00.00.006.VersionControl
+2018-06-19 06:00:04 MWN: Server                                                     Saving project history snapshots
+2018-06-19 06:00:16 MWN: Server                                                     Saved project history snapshots in 11.9 seconds.
+2018-06-19 06:00:29 GSM: Server                                                     Saving project history snapshots
+2018-06-19 06:00:30 GSM: Server                                                     Saved project history snapshots in 0.4 seconds.
+2018-06-19 16:00:24 GSM: Server                                                     Saving project history snapshots
+2018-06-19 16:00:24 GSM: Server                                                     Saved project history snapshots in 0.3 seconds.
+2018-06-19 21:00:00 MWN: Server                                                     Performing backup: VersionControl: 0 Incremental: 0 CheckDatabase: 0
+2018-06-19 21:10:31 MWN: Server                                                     The database was backed up to: C:/Program Files (x86)/Hansoft/Project Manager Server/Databases/MWN/Backup/2018-06-19 21.00.00.003
+2018-06-19 22:00:00 WMR: Server                                                     Performing backup: VersionControl: 1 Incremental: 0 CheckDatabase: 0
+2018-06-19 23:30:23 WMR: Server                                                     Saving project history snapshots
+2018-06-19 23:30:24 WMR: Server                                                     Saved project history snapshots in 1.1 seconds.
+2018-06-20 00:00:04 WMR: Server                                                     Starting trends sampling
+2018-06-20 00:00:04 WMR: Server                                                     Trends sampling finished in 0.2 seconds.
+2018-06-20 00:00:04 GSM: Server                                                     Saving project history snapshots
+2018-06-20 00:00:07 GSM: Server                                                     Saved project history snapshots in 3.1 seconds.
+2018-06-20 00:00:14 GSM: Server                                                     Starting trends sampling
+2018-06-20 00:00:14 GSM: Server                                                     Trends sampling finished in 0.1 seconds.
+2018-06-20 00:00:15 WMR: Server                                                     Starting sampling of BI history
+2018-06-20 00:00:15 GSM: Server                                                     Starting sampling of BI history
+2018-06-20 00:00:15 MWN: Server                                                     Starting sampling of BI history
+2018-06-20 00:00:15 WMR: Server                                                     Finished sampling of BI history in 0.1196467 seconds
+2018-06-20 00:00:17 MWN: Server                                                     Starting trends sampling
+2018-06-20 00:00:18 MWN: Server                                                     Trends sampling finished in 0.1 seconds.
+2018-06-20 00:00:25 GSM: Server                                                     Finished sampling of BI history in 10.688435 seconds
+2018-06-20 00:00:50 MWN: Server                                                     Finished sampling of BI history in 34.9632635 seconds
+2018-06-20 01:36:19 WMR: Server                                                     The database was backed up to: C:/Program Files (x86)/Hansoft/Project Manager Server/Databases/WMR/Backup/2018-06-19 22.00.00.269.VersionControl
+2018-06-20 02:00:00 GSM: Server                                                     Performing backup: VersionControl: 1 Incremental: 0 CheckDatabase: 0
+2018-06-20 04:27:28 GSM: Server                                                     The database was backed up to: C:/Program Files (x86)/Hansoft/Project Manager Server/Databases/GSM/Backup/2018-06-20 02.00.00.100.VersionControl
+2018-06-20 06:00:21 MWN: Server                                                     Saving project history snapshots
+2018-06-20 06:00:22 GSM: Server                                                     Saving project history snapshots
+2018-06-20 06:00:24 GSM: Server                                                     Saved project history snapshots in 1.1 seconds.
+2018-06-20 06:00:34 MWN: Server                                                     Saved project history snapshots in 13.0 seconds.
+2018-06-20 16:00:21 GSM: Server                                                     Saving project history snapshots
+2018-06-20 16:00:22 GSM: Server                                                     Saved project history snapshots in 0.3 seconds.
+2018-06-20 21:00:00 MWN: Server                                                     Performing backup: VersionControl: 0 Incremental: 0 CheckDatabase: 0
+2018-06-20 21:07:51 MWN: Server                                                     The database was backed up to: C:/Program Files (x86)/Hansoft/Project Manager Server/Databases/MWN/Backup/2018-06-20 21.00.00.233
+2018-06-20 22:00:00 WMR: Server                                                     Performing backup: VersionControl: 1 Incremental: 0 CheckDatabase: 0
+2018-06-20 23:30:27 WMR: Server                                                     Saving project history snapshots
+2018-06-20 23:30:28 WMR: Server                                                     Saved project history snapshots in 1.1 seconds.
+2018-06-21 00:00:03 WMR: Server                                                     Starting trends sampling
+2018-06-21 00:00:03 WMR: Server                                                     Trends sampling finished in 0.0 seconds.
+2018-06-21 00:00:04 GSM: Server                                                     Saving project history snapshots
+2018-06-21 00:00:07 GSM: Server                                                     Saved project history snapshots in 2.6 seconds.
+2018-06-21 00:00:15 WMR: Server                                                     Starting sampling of BI history
+2018-06-21 00:00:15 MWN: Server                                                     Starting sampling of BI history
+2018-06-21 00:00:15 GSM: Server                                                     Starting sampling of BI history
+2018-06-21 00:00:15 WMR: Server                                                     Finished sampling of BI history in 0.1221433 seconds
+2018-06-21 00:00:16 MWN: Server                                                     Starting trends sampling
+2018-06-21 00:00:17 MWN: Server                                                     Trends sampling finished in 0.6 seconds.
+2018-06-21 00:00:30 GSM: Server                                                     Finished sampling of BI history in 15.6492847 seconds
+2018-06-21 00:00:34 GSM: Server                                                     Starting trends sampling
+2018-06-21 00:00:35 GSM: Server                                                     Trends sampling finished in 0.0 seconds.
+2018-06-21 00:01:28 MWN: Server                                                     Finished sampling of BI history in 72.8635209 seconds
+2018-06-21 01:39:10 WMR: Server                                                     The database was backed up to: C:/Program Files (x86)/Hansoft/Project Manager Server/Databases/WMR/Backup/2018-06-20 22.00.00.068.VersionControl
+2018-06-21 02:00:00 GSM: Server                                                     Performing backup: VersionControl: 1 Incremental: 0 CheckDatabase: 0
+2018-06-21 04:35:42 GSM: Server                                                     The database was backed up to: C:/Program Files (x86)/Hansoft/Project Manager Server/Databases/GSM/Backup/2018-06-21 02.00.00.077.VersionControl
+2018-06-21 06:00:14 MWN: Server                                                     Saving project history snapshots
+2018-06-21 06:00:18 GSM: Server                                                     Saving project history snapshots
+2018-06-21 06:00:18 GSM: Server                                                     Saved project history snapshots in 0.5 seconds.
+2018-06-21 06:00:26 MWN: Server                                                     Saved project history snapshots in 11.7 seconds.
+2018-06-21 16:00:02 GSM: Server                                                     Saving project history snapshots
+2018-06-21 16:00:02 GSM: Server                                                     Saved project history snapshots in 0.3 seconds.
