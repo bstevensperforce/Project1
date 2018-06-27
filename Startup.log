@@ -1,0 +1,1978 @@
+
+6/9/2017 12:16:29 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 2.40 GB, Page File = 8.00 GB, Available Page File = 6.35 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.85 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 build - 7600
+06/09/17 12:16:29 <Info>     Low Fragmentation Heap enabled.
+06/09/17 12:16:31 <Info>     Compacting is starting for the SERVER database.
+06/09/17 12:16:31 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+06/09/17 12:16:31 <Info>     Server log startup for Helix ALM 2017.1.0 Build 14 (Windows/x64)
+6/9/2017 12:16:44 Starting [{Largest: 8182.70 GB @ 0x0000000140BF9000}, {Free Blocks: 124}, {Mem Free: 8191.82 GB}, {Mem Rsrv: 55.24 MB}, {Mem Comm: 126.16 MB}]
+06/09/17 12:16:44 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.1.0 Build 14 (Windows/x64)]
+6/9/2017 12:16:48 Sample Project (Helix ALM Native)[{Largest: 8182.70 GB @ 0x0000000140BF9000}, {Free Blocks: 126}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 55.66 MB}, {Mem Comm: 138.78 MB}]
+				DFCT 40	TSTC 46	TSTR 101	RQMT 156	RDMT 6	TASK 0
+				USER 14	UGRP 8	RPRT 33	DFLT 45	LINK 43	MAIL 15
+				FOLDPUB 3	FOLDPVT 0	FOLDTYPE 6	TYPE 5	CUDFDFCT 5	CUDFTSTC 6	CUDFTSTR 7
+				CUDFRQMT 9	CUDFRDMT 3	FLDR 0	TRGRESCL 15	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 7	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/9/2017 12:16:50 Sample Scrum Project (Helix ALM Native)[{Largest: 8182.70 GB @ 0x0000000140BF9000}, {Free Blocks: 128}, {Mem Free: 8191.79 GB}, {Mem Rsrv: 65.30 MB}, {Mem Comm: 145.99 MB}]
+				DFCT 11	TSTC 16	TSTR 16	RQMT 39	RDMT 6	TASK 0
+				USER 8	UGRP 4	RPRT 18	DFLT 22	LINK 36	MAIL 3
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 8	TYPE 2	CUDFDFCT 2	CUDFTSTC 2	CUDFTSTR 2
+				CUDFRQMT 4	CUDFRDMT 0	FLDR 0	TRGRESCL 6	TRGRPREPRE 1	TRGRPREMOD 0
+				TRGRPREEVT 4	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel -       Intel(R) Xeon(R) CPU E5-2407 v2 @ 2.40GHz 
+2 projects that contain a total of 453 records were loaded.
+
+	51 issues
+	195 requirements
+	12 requirement documents
+	62 test cases
+	117 test runs
+	16 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 299.90 GB
+	Available: 282.67 GB
+
+
+6/9/2017 13:5:5 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 3.16 GB, Page File = 8.00 GB, Available Page File = 7.17 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.85 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 build - 7600
+06/09/17 13:05:05 <Info>     Low Fragmentation Heap enabled.
+06/09/17 13:05:06 <Info>     Compacting is starting for the SERVER database.
+06/09/17 13:05:06 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+06/09/17 13:05:06 <Info>     Server log startup for Helix ALM 2017.1.0 Build 14 (Windows/x64)
+6/9/2017 13:5:29 Starting [{Largest: 8182.85 GB @ 0x0000000140FA9000}, {Free Blocks: 118}, {Mem Free: 8191.82 GB}, {Mem Rsrv: 56.11 MB}, {Mem Comm: 125.27 MB}]
+06/09/17 13:05:29 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.1.0 Build 14 (Windows/x64)]
+6/9/2017 13:5:34 Sample Project (Helix ALM Native)[{Largest: 8182.85 GB @ 0x0000000140FA9000}, {Free Blocks: 119}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 55.77 MB}, {Mem Comm: 138.65 MB}]
+				DFCT 40	TSTC 46	TSTR 101	RQMT 156	RDMT 6	TASK 0
+				USER 14	UGRP 8	RPRT 33	DFLT 45	LINK 43	MAIL 15
+				FOLDPUB 3	FOLDPVT 0	FOLDTYPE 6	TYPE 5	CUDFDFCT 5	CUDFTSTC 6	CUDFTSTR 7
+				CUDFRQMT 9	CUDFRDMT 3	FLDR 0	TRGRESCL 15	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 7	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/9/2017 13:5:35 Sample Scrum Project (Helix ALM Native)[{Largest: 8182.85 GB @ 0x0000000140FA9000}, {Free Blocks: 121}, {Mem Free: 8191.79 GB}, {Mem Rsrv: 65.20 MB}, {Mem Comm: 146.06 MB}]
+				DFCT 11	TSTC 16	TSTR 16	RQMT 39	RDMT 6	TASK 0
+				USER 8	UGRP 4	RPRT 18	DFLT 22	LINK 36	MAIL 3
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 8	TYPE 2	CUDFDFCT 2	CUDFTSTC 2	CUDFTSTR 2
+				CUDFRQMT 4	CUDFRDMT 0	FLDR 0	TRGRESCL 6	TRGRPREPRE 1	TRGRPREMOD 0
+				TRGRPREEVT 4	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel -       Intel(R) Xeon(R) CPU E5-2407 v2 @ 2.40GHz 
+2 projects that contain a total of 453 records were loaded.
+
+	51 issues
+	195 requirements
+	12 requirement documents
+	62 test cases
+	117 test runs
+	16 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 299.90 GB
+	Available: 284.54 GB
+
+
+06/09/17 13:14:02 <Warning>  Helix ALM Server is unable to create an application mutex.  The problem could be that another instance of Helix ALM Server is already running.  If this is not the case, then there is a security permission issue.
+06/09/17 13:14:02 <Warning>  Helix ALM Server was not started as an NT service.
+6/9/2017 13:19:8 AST Sandbox Test (Helix ALM Native)[{Largest: 8182.85 GB @ 0x0000000140FA9000}, {Free Blocks: 124}, {Mem Free: 8191.79 GB}, {Mem Rsrv: 60.61 MB}, {Mem Comm: 151.82 MB}]
+				DFCT 0	TSTC 0	TSTR 0	RQMT 0	RDMT 0	TASK 0
+				USER 1	UGRP 1	RPRT 0	DFLT 0	LINK 0	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 3	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 0	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+06/09/17 13:55:25 <Warning>  Helix ALM Server is unable to create an application mutex.  The problem could be that another instance of Helix ALM Server is already running.  If this is not the case, then there is a security permission issue.
+06/09/17 13:55:25 <Warning>  Helix ALM Server was not started as an NT service.
+
+06/09/17 13:56:49 <Warning>  Helix ALM Server is unable to create an application mutex.  The problem could be that another instance of Helix ALM Server is already running.  If this is not the case, then there is a security permission issue.
+06/09/17 13:56:49 <Warning>  Helix ALM Server was not started as an NT service.
+
+6/12/2017 14:8:31 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 3.18 GB, Page File = 8.00 GB, Available Page File = 7.19 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.85 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 build - 7600
+06/12/17 14:08:31 <Info>     Low Fragmentation Heap enabled.
+06/12/17 14:08:32 <Info>     Compacting is starting for the SERVER database.
+06/12/17 14:08:32 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+06/12/17 14:08:32 <Info>     Server log startup for Helix ALM 2017.1.0 Build 14 (Windows/x64)
+6/12/2017 14:8:51 Starting [{Largest: 8182.86 GB @ 0x0000000140AF9000}, {Free Blocks: 121}, {Mem Free: 8191.82 GB}, {Mem Rsrv: 55.99 MB}, {Mem Comm: 129.22 MB}]
+06/12/17 14:08:51 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.1.0 Build 14 (Windows/x64)]
+6/12/2017 14:8:55 Sample Project (Helix ALM Native)[{Largest: 8182.86 GB @ 0x0000000140AF9000}, {Free Blocks: 123}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 55.61 MB}, {Mem Comm: 142.63 MB}]
+				DFCT 40	TSTC 46	TSTR 101	RQMT 156	RDMT 6	TASK 0
+				USER 14	UGRP 8	RPRT 33	DFLT 45	LINK 43	MAIL 15
+				FOLDPUB 3	FOLDPVT 0	FOLDTYPE 6	TYPE 5	CUDFDFCT 5	CUDFTSTC 6	CUDFTSTR 7
+				CUDFRQMT 9	CUDFRDMT 3	FLDR 0	TRGRESCL 15	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 7	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/12/2017 14:8:56 Sample Scrum Project (Helix ALM Native)[{Largest: 8182.86 GB @ 0x0000000140AF9000}, {Free Blocks: 125}, {Mem Free: 8191.79 GB}, {Mem Rsrv: 65.23 MB}, {Mem Comm: 149.87 MB}]
+				DFCT 11	TSTC 16	TSTR 16	RQMT 39	RDMT 6	TASK 0
+				USER 8	UGRP 4	RPRT 18	DFLT 22	LINK 36	MAIL 3
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 8	TYPE 2	CUDFDFCT 2	CUDFTSTC 2	CUDFTSTR 2
+				CUDFRQMT 4	CUDFRDMT 0	FLDR 0	TRGRESCL 6	TRGRPREPRE 1	TRGRPREMOD 0
+				TRGRPREEVT 4	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel -       Intel(R) Xeon(R) CPU E5-2407 v2 @ 2.40GHz 
+2 projects that contain a total of 453 records were loaded.
+
+	51 issues
+	195 requirements
+	12 requirement documents
+	62 test cases
+	117 test runs
+	16 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 36.23 GB
+	Available: 20.09 GB
+
+06/12/17 14:17:49 <Warning>  Helix ALM Server is already running.  An attempt to start a second instance of the server was discarded.
+
+6/12/2017 14:21:44 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 2.85 GB, Page File = 8.00 GB, Available Page File = 6.80 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.85 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 build - 7600
+06/12/17 14:21:44 <Info>     Low Fragmentation Heap enabled.
+06/12/17 14:21:45 <Info>     Compacting is starting for the SERVER database.
+06/12/17 14:21:45 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+06/12/17 14:21:45 <Info>     Server log startup for Helix ALM 2017.1.0 Build 14 (Windows/x64)
+6/12/2017 14:21:49 Starting [{Largest: 8182.67 GB @ 0x0000000140BA9000}, {Free Blocks: 125}, {Mem Free: 8191.82 GB}, {Mem Rsrv: 55.20 MB}, {Mem Comm: 130.00 MB}]
+06/12/17 14:21:49 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.1.0 Build 14 (Windows/x64)]
+6/12/2017 14:21:50 Sample Project (Helix ALM Native)[{Largest: 8182.67 GB @ 0x0000000140BA9000}, {Free Blocks: 126}, {Mem Free: 8191.79 GB}, {Mem Rsrv: 71.16 MB}, {Mem Comm: 142.89 MB}]
+				DFCT 40	TSTC 46	TSTR 101	RQMT 156	RDMT 6	TASK 0
+				USER 14	UGRP 8	RPRT 33	DFLT 45	LINK 43	MAIL 15
+				FOLDPUB 3	FOLDPVT 0	FOLDTYPE 6	TYPE 5	CUDFDFCT 5	CUDFTSTC 6	CUDFTSTR 7
+				CUDFRQMT 9	CUDFRDMT 3	FLDR 0	TRGRESCL 15	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 7	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/12/2017 14:21:50 Sample Scrum Project (Helix ALM Native)[{Largest: 8182.67 GB @ 0x0000000140BA9000}, {Free Blocks: 127}, {Mem Free: 8191.79 GB}, {Mem Rsrv: 65.08 MB}, {Mem Comm: 150.02 MB}]
+				DFCT 11	TSTC 16	TSTR 16	RQMT 39	RDMT 6	TASK 0
+				USER 8	UGRP 4	RPRT 18	DFLT 22	LINK 36	MAIL 3
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 8	TYPE 2	CUDFDFCT 2	CUDFTSTC 2	CUDFTSTR 2
+				CUDFRQMT 4	CUDFRDMT 0	FLDR 0	TRGRESCL 6	TRGRPREPRE 1	TRGRPREMOD 0
+				TRGRPREEVT 4	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel -       Intel(R) Xeon(R) CPU E5-2407 v2 @ 2.40GHz 
+2 projects that contain a total of 453 records were loaded.
+
+	51 issues
+	195 requirements
+	12 requirement documents
+	62 test cases
+	117 test runs
+	16 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 36.23 GB
+	Available: 20.08 GB
+
+
+6/12/2017 14:33:30 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 3.46 GB, Page File = 8.00 GB, Available Page File = 7.47 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.85 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 build - 7600
+06/12/17 14:33:30 <Info>     Low Fragmentation Heap enabled.
+06/12/17 14:33:30 <Info>     Compacting is starting for the SERVER database.
+06/12/17 14:33:30 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+06/12/17 14:33:31 <Info>     Server log startup for Helix ALM 2017.1.0 Build 14 (Windows/x64)
+6/12/2017 14:33:43 Starting [{Largest: 8182.85 GB @ 0x0000000140F29000}, {Free Blocks: 119}, {Mem Free: 8191.82 GB}, {Mem Rsrv: 54.16 MB}, {Mem Comm: 129.44 MB}]
+06/12/17 14:33:43 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.1.0 Build 14 (Windows/x64)]
+6/12/2017 14:33:46 Sample Project (Helix ALM Native)[{Largest: 8182.85 GB @ 0x0000000140F29000}, {Free Blocks: 120}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 54.50 MB}, {Mem Comm: 142.14 MB}]
+				DFCT 40	TSTC 46	TSTR 101	RQMT 156	RDMT 6	TASK 0
+				USER 14	UGRP 8	RPRT 33	DFLT 45	LINK 43	MAIL 15
+				FOLDPUB 3	FOLDPVT 0	FOLDTYPE 6	TYPE 5	CUDFDFCT 5	CUDFTSTC 6	CUDFTSTR 7
+				CUDFRQMT 9	CUDFRDMT 3	FLDR 0	TRGRESCL 15	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 7	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/12/2017 14:33:47 Sample Scrum Project (Helix ALM Native)[{Largest: 8182.85 GB @ 0x0000000140F29000}, {Free Blocks: 122}, {Mem Free: 8191.79 GB}, {Mem Rsrv: 64.25 MB}, {Mem Comm: 149.23 MB}]
+				DFCT 11	TSTC 16	TSTR 16	RQMT 39	RDMT 6	TASK 0
+				USER 8	UGRP 4	RPRT 18	DFLT 22	LINK 36	MAIL 3
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 8	TYPE 2	CUDFDFCT 2	CUDFTSTC 2	CUDFTSTR 2
+				CUDFRQMT 4	CUDFRDMT 0	FLDR 0	TRGRESCL 6	TRGRPREPRE 1	TRGRPREMOD 0
+				TRGRPREEVT 4	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel -       Intel(R) Xeon(R) CPU E5-2407 v2 @ 2.40GHz 
+2 projects that contain a total of 453 records were loaded.
+
+	51 issues
+	195 requirements
+	12 requirement documents
+	62 test cases
+	117 test runs
+	16 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 36.23 GB
+	Available: 20.36 GB
+
+
+6/12/2017 14:37:49 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 3.50 GB, Page File = 8.00 GB, Available Page File = 7.51 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.85 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 build - 7600
+06/12/17 14:37:49 <Info>     Low Fragmentation Heap enabled.
+06/12/17 14:37:50 <Info>     Compacting is starting for the SERVER database.
+06/12/17 14:37:50 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+06/12/17 14:37:50 <Info>     Server log startup for Helix ALM 2017.1.0 Build 14 (Windows/x64)
+6/12/2017 14:38:1 Starting [{Largest: 8182.86 GB @ 0x0000000141059000}, {Free Blocks: 117}, {Mem Free: 8191.82 GB}, {Mem Rsrv: 54.21 MB}, {Mem Comm: 129.39 MB}]
+06/12/17 14:38:01 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.1.0 Build 14 (Windows/x64)]
+6/12/2017 14:38:5 Sample Project (Helix ALM Native)[{Largest: 8182.86 GB @ 0x0000000141059000}, {Free Blocks: 119}, {Mem Free: 8191.79 GB}, {Mem Rsrv: 70.09 MB}, {Mem Comm: 142.36 MB}]
+				DFCT 40	TSTC 46	TSTR 101	RQMT 156	RDMT 6	TASK 0
+				USER 14	UGRP 8	RPRT 33	DFLT 45	LINK 43	MAIL 15
+				FOLDPUB 3	FOLDPVT 0	FOLDTYPE 6	TYPE 5	CUDFDFCT 5	CUDFTSTC 6	CUDFTSTR 7
+				CUDFRQMT 9	CUDFRDMT 3	FLDR 0	TRGRESCL 15	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 7	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/12/2017 14:38:6 Sample Scrum Project (Helix ALM Native)[{Largest: 8182.86 GB @ 0x0000000141059000}, {Free Blocks: 121}, {Mem Free: 8191.79 GB}, {Mem Rsrv: 64.27 MB}, {Mem Comm: 149.21 MB}]
+				DFCT 11	TSTC 16	TSTR 16	RQMT 39	RDMT 6	TASK 0
+				USER 8	UGRP 4	RPRT 18	DFLT 22	LINK 36	MAIL 3
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 8	TYPE 2	CUDFDFCT 2	CUDFTSTC 2	CUDFTSTR 2
+				CUDFRQMT 4	CUDFRDMT 0	FLDR 0	TRGRESCL 6	TRGRPREPRE 1	TRGRPREMOD 0
+				TRGRPREEVT 4	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel -       Intel(R) Xeon(R) CPU E5-2407 v2 @ 2.40GHz 
+2 projects that contain a total of 453 records were loaded.
+
+	51 issues
+	195 requirements
+	12 requirement documents
+	62 test cases
+	117 test runs
+	16 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 36.23 GB
+	Available: 21.09 GB
+
+6/12/2017 14:44:52 nate test (Helix ALM Native)[{Largest: 8182.86 GB @ 0x0000000141059000}, {Free Blocks: 123}, {Mem Free: 8191.79 GB}, {Mem Rsrv: 59.05 MB}, {Mem Comm: 155.48 MB}]
+				DFCT 0	TSTC 0	TSTR 0	RQMT 0	RDMT 0	TASK 0
+				USER 1	UGRP 1	RPRT 0	DFLT 0	LINK 0	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 3	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 0	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/12/2017 16:8:6 AST Sandbox Test (Helix ALM Native)[{Largest: 8182.86 GB @ 0x0000000141059000}, {Free Blocks: 124}, {Mem Free: 8191.77 GB}, {Mem Rsrv: 71.07 MB}, {Mem Comm: 160.30 MB}]
+				DFCT 0	TSTC 0	TSTR 0	RQMT 0	RDMT 0	TASK 0
+				USER 1	UGRP 1	RPRT 0	DFLT 0	LINK 0	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 3	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 0	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/12/2017 16:8:19 Derek Project (Helix ALM Native)[{Largest: 8182.86 GB @ 0x0000000141059000}, {Free Blocks: 126}, {Mem Free: 8191.77 GB}, {Mem Rsrv: 67.50 MB}, {Mem Comm: 164.91 MB}]
+				DFCT 0	TSTC 0	TSTR 0	RQMT 0	RDMT 0	TASK 0
+				USER 2	UGRP 1	RPRT 0	DFLT 0	LINK 0	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 3	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 0	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/12/2017 16:8:38 Life Sciences 2015 Demo (Helix ALM Native)[{Largest: 8182.86 GB @ 0x0000000141059000}, {Free Blocks: 128}, {Mem Free: 8191.76 GB}, {Mem Rsrv: 65.01 MB}, {Mem Comm: 184.25 MB}]
+				DFCT 31	TSTC 40	TSTR 71	RQMT 462	RDMT 16	TASK 0
+				USER 45	UGRP 16	RPRT 22	DFLT 104	LINK 332	MAIL 2
+				FOLDPUB 1	FOLDPVT 3	FOLDTYPE 5	TYPE 41	CUDFDFCT 11	CUDFTSTC 10	CUDFTSTR 9
+				CUDFRQMT 61	CUDFRDMT 6	FLDR 10	TRGRESCL 16	TRGRPREPRE 5	TRGRPREMOD 1
+				TRGRPREEVT 13	TRGRPRENOTFY 10	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/13/2017 11:51:25 AST Sandbox (Helix ALM Native)[{Largest: 8182.83 GB @ 0x0000000141059000}, {Free Blocks: 137}, {Mem Free: 8191.76 GB}, {Mem Rsrv: 61.57 MB}, {Mem Comm: 188.48 MB}]
+				DFCT 1	TSTC 0	TSTR 0	RQMT 0	RDMT 0	TASK 0
+				USER 3	UGRP 3	RPRT 0	DFLT 0	LINK 0	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 4	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/19/2017 11:36:46 AST (Helix ALM Native)[{Largest: 8182.83 GB @ 0x0000000141059000}, {Free Blocks: 139}, {Mem Free: 8191.75 GB}, {Mem Rsrv: 62.50 MB}, {Mem Comm: 188.58 MB}]
+				DFCT 0	TSTC 0	TSTR 0	RQMT 0	RDMT 0	TASK 0
+				USER 3	UGRP 3	RPRT 1	DFLT 0	LINK 0	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 5	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+6/21/2017 16:50:32 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 3.37 GB, Page File = 8.00 GB, Available Page File = 7.34 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.85 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+06/21/17 16:50:32 <Info>     Low Fragmentation Heap enabled.
+06/21/17 16:50:34 <Info>     Compacting is starting for the SERVER database.
+06/21/17 16:50:34 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+06/21/17 16:50:35 <Info>     Server log startup for Helix ALM 2017.1.0 Build 14 (Windows/x64)
+6/21/2017 16:51:4 Starting [{Largest: 8182.84 GB @ 0x0000000141479000}, {Free Blocks: 116}, {Mem Free: 8191.82 GB}, {Mem Rsrv: 54.97 MB}, {Mem Comm: 124.80 MB}]
+06/21/17 16:51:04 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.1.0 Build 14 (Windows/x64)]
+6/21/2017 16:51:17 Sample Project (Helix ALM Native)[{Largest: 8182.84 GB @ 0x0000000141479000}, {Free Blocks: 118}, {Mem Free: 8191.80 GB}, {Mem Rsrv: 69.81 MB}, {Mem Comm: 138.82 MB}]
+				DFCT 40	TSTC 46	TSTR 101	RQMT 156	RDMT 6	TASK 0
+				USER 14	UGRP 8	RPRT 33	DFLT 45	LINK 43	MAIL 15
+				FOLDPUB 3	FOLDPVT 0	FOLDTYPE 6	TYPE 5	CUDFDFCT 5	CUDFTSTC 6	CUDFTSTR 7
+				CUDFRQMT 9	CUDFRDMT 3	FLDR 0	TRGRESCL 15	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 7	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/21/2017 16:51:17 Sample Scrum Project (Helix ALM Native)[{Largest: 8182.84 GB @ 0x0000000141479000}, {Free Blocks: 120}, {Mem Free: 8191.79 GB}, {Mem Rsrv: 64.27 MB}, {Mem Comm: 145.40 MB}]
+				DFCT 11	TSTC 16	TSTR 16	RQMT 39	RDMT 6	TASK 0
+				USER 8	UGRP 4	RPRT 18	DFLT 22	LINK 36	MAIL 3
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 8	TYPE 2	CUDFDFCT 2	CUDFTSTC 2	CUDFTSTR 2
+				CUDFRQMT 4	CUDFRDMT 0	FLDR 0	TRGRESCL 6	TRGRPREPRE 1	TRGRPREMOD 0
+				TRGRPREEVT 4	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/21/2017 16:51:55 SQL query "select idRecord, ProjectID, ParentID, idCustRec, CustValue, HasError from CSREQVAL where ProjectID = ?  order by ParentID ASC" took 5408 milliseconds. Parameters:
+	[ProjectID]=1
+6/21/2017 16:52:0 Life Sciences 2015 Demo (Helix ALM Native)[{Largest: 8182.84 GB @ 0x0000000141479000}, {Free Blocks: 123}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 61.04 MB}, {Mem Comm: 165.48 MB}]
+				DFCT 31	TSTC 40	TSTR 71	RQMT 462	RDMT 16	TASK 0
+				USER 45	UGRP 16	RPRT 22	DFLT 104	LINK 332	MAIL 2
+				FOLDPUB 1	FOLDPVT 3	FOLDTYPE 5	TYPE 41	CUDFDFCT 11	CUDFTSTC 10	CUDFTSTR 9
+				CUDFRQMT 61	CUDFRDMT 6	FLDR 10	TRGRESCL 16	TRGRPREPRE 5	TRGRPREMOD 1
+				TRGRPREEVT 13	TRGRPRENOTFY 10	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/21/2017 16:52:4 AST Sandbox (Helix ALM Native)[{Largest: 8182.84 GB @ 0x0000000141479000}, {Free Blocks: 125}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 57.46 MB}, {Mem Comm: 170.10 MB}]
+				DFCT 28	TSTC 0	TSTR 0	RQMT 6	RDMT 3	TASK 0
+				USER 3	UGRP 3	RPRT 1	DFLT 0	LINK 4	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 5	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/21/2017 16:52:5 AST (Helix ALM Native)[{Largest: 8182.84 GB @ 0x0000000141479000}, {Free Blocks: 127}, {Mem Free: 8191.76 GB}, {Mem Rsrv: 69.21 MB}, {Mem Comm: 175.20 MB}]
+				DFCT 26	TSTC 0	TSTR 0	RQMT 100	RDMT 8	TASK 0
+				USER 3	UGRP 3	RPRT 1	DFLT 0	LINK 0	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 5	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel -       Intel(R) Xeon(R) CPU E5-2407 v2 @ 2.40GHz 
+5 projects that contain a total of 1291 records were loaded.
+
+	136 issues
+	763 requirements
+	39 requirement documents
+	102 test cases
+	188 test runs
+	63 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 36.23 GB
+	Available: 12.73 GB
+
+
+6/21/2017 22:49:47 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 3.43 GB, Page File = 8.00 GB, Available Page File = 7.38 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.84 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+06/21/17 22:49:47 <Info>     Low Fragmentation Heap enabled.
+06/21/17 22:49:50 <Info>     Compacting is starting for the SERVER database.
+06/21/17 22:49:50 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+06/21/17 22:49:50 <Info>     Server log startup for Helix ALM 2017.1.0 Build 14 (Windows/x64)
+6/21/2017 22:50:23 Starting [{Largest: 8182.86 GB @ 0x0000000140939000}, {Free Blocks: 119}, {Mem Free: 8191.82 GB}, {Mem Rsrv: 54.13 MB}, {Mem Comm: 133.40 MB}]
+06/21/17 22:50:23 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.1.0 Build 14 (Windows/x64)]
+6/21/2017 22:50:33 Sample Project (Helix ALM Native)[{Largest: 8182.86 GB @ 0x0000000140939000}, {Free Blocks: 122}, {Mem Free: 8191.79 GB}, {Mem Rsrv: 69.78 MB}, {Mem Comm: 146.60 MB}]
+				DFCT 40	TSTC 46	TSTR 101	RQMT 156	RDMT 6	TASK 0
+				USER 14	UGRP 8	RPRT 33	DFLT 45	LINK 43	MAIL 15
+				FOLDPUB 3	FOLDPVT 0	FOLDTYPE 6	TYPE 5	CUDFDFCT 5	CUDFTSTC 6	CUDFTSTR 7
+				CUDFRQMT 9	CUDFRDMT 3	FLDR 0	TRGRESCL 15	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 7	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/21/2017 22:50:33 Sample Scrum Project (Helix ALM Native)[{Largest: 8182.86 GB @ 0x0000000140939000}, {Free Blocks: 124}, {Mem Free: 8191.79 GB}, {Mem Rsrv: 64.06 MB}, {Mem Comm: 153.36 MB}]
+				DFCT 11	TSTC 16	TSTR 16	RQMT 39	RDMT 6	TASK 0
+				USER 8	UGRP 4	RPRT 18	DFLT 22	LINK 36	MAIL 3
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 8	TYPE 2	CUDFDFCT 2	CUDFTSTC 2	CUDFTSTR 2
+				CUDFRQMT 4	CUDFRDMT 0	FLDR 0	TRGRESCL 6	TRGRPREPRE 1	TRGRPREMOD 0
+				TRGRPREEVT 4	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/21/2017 22:51:06 SQL query "select idRecord, ProjectID, ParentID, idCustRec, CustValue, HasError from CSREQVAL where ProjectID = ?  order by ParentID ASC" took 4357 milliseconds. Parameters:
+	[ProjectID]=1
+6/21/2017 22:51:11 Life Sciences 2015 Demo (Helix ALM Native)[{Largest: 8182.86 GB @ 0x0000000140939000}, {Free Blocks: 125}, {Mem Free: 8191.77 GB}, {Mem Rsrv: 60.19 MB}, {Mem Comm: 173.08 MB}]
+				DFCT 31	TSTC 40	TSTR 71	RQMT 462	RDMT 16	TASK 0
+				USER 45	UGRP 16	RPRT 22	DFLT 104	LINK 332	MAIL 2
+				FOLDPUB 1	FOLDPVT 3	FOLDTYPE 5	TYPE 41	CUDFDFCT 11	CUDFTSTC 10	CUDFTSTR 9
+				CUDFRQMT 61	CUDFRDMT 6	FLDR 10	TRGRESCL 16	TRGRPREPRE 5	TRGRPREMOD 1
+				TRGRPREEVT 13	TRGRPRENOTFY 10	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/21/2017 22:51:13 AST Sandbox (Helix ALM Native)[{Largest: 8182.86 GB @ 0x0000000140939000}, {Free Blocks: 127}, {Mem Free: 8191.76 GB}, {Mem Rsrv: 71.98 MB}, {Mem Comm: 178.14 MB}]
+				DFCT 28	TSTC 0	TSTR 0	RQMT 6	RDMT 3	TASK 0
+				USER 3	UGRP 3	RPRT 1	DFLT 0	LINK 4	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 5	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/21/2017 22:51:16 AST (Helix ALM Native)[{Largest: 8182.86 GB @ 0x0000000140939000}, {Free Blocks: 130}, {Mem Free: 8191.75 GB}, {Mem Rsrv: 69.27 MB}, {Mem Comm: 182.89 MB}]
+				DFCT 26	TSTC 0	TSTR 0	RQMT 100	RDMT 8	TASK 0
+				USER 3	UGRP 3	RPRT 1	DFLT 0	LINK 0	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 5	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel -       Intel(R) Xeon(R) CPU E5-2407 v2 @ 2.40GHz 
+5 projects that contain a total of 1291 records were loaded.
+
+	136 issues
+	763 requirements
+	39 requirement documents
+	102 test cases
+	188 test runs
+	63 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 36.23 GB
+	Available: 12.24 GB
+
+
+6/26/2017 15:47:59 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 1.83 GB, Page File = 8.00 GB, Available Page File = 5.69 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.85 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+06/26/17 15:47:59 <Info>     Low Fragmentation Heap enabled.
+06/26/17 15:47:59 <Info>     Compacting is starting for the SERVER database.
+06/26/17 15:47:59 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+06/26/17 15:47:59 <Info>     Server log startup for Helix ALM 2017.1.1 Build 18 (Windows/x64)
+6/26/2017 15:48:6 Starting [{Largest: 8182.77 GB @ 0x00000001411B7000}, {Free Blocks: 120}, {Mem Free: 8191.82 GB}, {Mem Rsrv: 54.01 MB}, {Mem Comm: 125.84 MB}]
+06/26/17 15:48:06 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.1.1 Build 18 (Windows/x64)]
+6/26/2017 15:48:8 Sample Project (Helix ALM Native)[{Largest: 8182.77 GB @ 0x00000001411B7000}, {Free Blocks: 120}, {Mem Free: 8191.80 GB}, {Mem Rsrv: 69.66 MB}, {Mem Comm: 139.05 MB}]
+				DFCT 40	TSTC 46	TSTR 101	RQMT 156	RDMT 6	TASK 0
+				USER 14	UGRP 8	RPRT 33	DFLT 45	LINK 43	MAIL 15
+				FOLDPUB 3	FOLDPVT 0	FOLDTYPE 6	TYPE 5	CUDFDFCT 5	CUDFTSTC 6	CUDFTSTR 7
+				CUDFRQMT 9	CUDFRDMT 3	FLDR 0	TRGRESCL 15	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 7	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/26/2017 15:48:9 Sample Scrum Project (Helix ALM Native)[{Largest: 8182.77 GB @ 0x00000001411B7000}, {Free Blocks: 122}, {Mem Free: 8191.79 GB}, {Mem Rsrv: 63.86 MB}, {Mem Comm: 145.89 MB}]
+				DFCT 11	TSTC 16	TSTR 16	RQMT 39	RDMT 6	TASK 0
+				USER 8	UGRP 4	RPRT 18	DFLT 22	LINK 36	MAIL 3
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 8	TYPE 2	CUDFDFCT 2	CUDFTSTC 2	CUDFTSTR 2
+				CUDFRQMT 4	CUDFRDMT 0	FLDR 0	TRGRESCL 6	TRGRPREPRE 1	TRGRPREMOD 0
+				TRGRPREEVT 4	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/26/2017 15:48:18 Life Sciences 2015 Demo (Helix ALM Native)[{Largest: 8182.77 GB @ 0x00000001411B7000}, {Free Blocks: 123}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 60.87 MB}, {Mem Comm: 165.73 MB}]
+				DFCT 31	TSTC 40	TSTR 71	RQMT 462	RDMT 16	TASK 0
+				USER 45	UGRP 16	RPRT 22	DFLT 104	LINK 332	MAIL 2
+				FOLDPUB 1	FOLDPVT 3	FOLDTYPE 5	TYPE 41	CUDFDFCT 11	CUDFTSTC 10	CUDFTSTR 9
+				CUDFRQMT 61	CUDFRDMT 6	FLDR 10	TRGRESCL 16	TRGRPREPRE 5	TRGRPREMOD 1
+				TRGRPREEVT 13	TRGRPRENOTFY 10	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/26/2017 15:48:19 AST Sandbox (Helix ALM Native)[{Largest: 8182.77 GB @ 0x00000001411B7000}, {Free Blocks: 125}, {Mem Free: 8191.76 GB}, {Mem Rsrv: 73.64 MB}, {Mem Comm: 170.82 MB}]
+				DFCT 29	TSTC 0	TSTR 0	RQMT 6	RDMT 3	TASK 0
+				USER 3	UGRP 3	RPRT 1	DFLT 0	LINK 4	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 5	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/26/2017 15:48:20 AST (Helix ALM Native)[{Largest: 8182.77 GB @ 0x00000001411B7000}, {Free Blocks: 126}, {Mem Free: 8191.76 GB}, {Mem Rsrv: 69.76 MB}, {Mem Comm: 175.74 MB}]
+				DFCT 26	TSTC 0	TSTR 0	RQMT 100	RDMT 8	TASK 0
+				USER 3	UGRP 3	RPRT 1	DFLT 0	LINK 0	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 5	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel -       Intel(R) Xeon(R) CPU E5-2407 v2 @ 2.40GHz 
+5 projects that contain a total of 1292 records were loaded.
+
+	137 issues
+	763 requirements
+	39 requirement documents
+	102 test cases
+	188 test runs
+	63 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 36.23 GB
+	Available: 6.10 GB
+
+
+6/27/2017 6:50:30 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 3.39 GB, Page File = 8.00 GB, Available Page File = 7.34 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.85 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+06/27/17 06:50:30 <Info>     Low Fragmentation Heap enabled.
+06/27/17 06:50:32 <Info>     Compacting is starting for the SERVER database.
+06/27/17 06:50:32 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+06/27/17 06:50:32 <Info>     Server log startup for Helix ALM 2017.1.1 Build 18 (Windows/x64)
+6/27/2017 6:51:9 Starting [{Largest: 8182.84 GB @ 0x00000001415F7000}, {Free Blocks: 119}, {Mem Free: 8191.82 GB}, {Mem Rsrv: 54.95 MB}, {Mem Comm: 124.88 MB}]
+06/27/17 06:51:09 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.1.1 Build 18 (Windows/x64)]
+6/27/2017 6:51:55 Sample Project (Helix ALM Native)[{Largest: 8182.84 GB @ 0x00000001415F7000}, {Free Blocks: 122}, {Mem Free: 8191.80 GB}, {Mem Rsrv: 68.64 MB}, {Mem Comm: 139.04 MB}]
+				DFCT 40	TSTC 46	TSTR 101	RQMT 156	RDMT 6	TASK 0
+				USER 14	UGRP 8	RPRT 33	DFLT 45	LINK 43	MAIL 15
+				FOLDPUB 3	FOLDPVT 0	FOLDTYPE 6	TYPE 5	CUDFDFCT 5	CUDFTSTC 6	CUDFTSTR 7
+				CUDFRQMT 9	CUDFRDMT 3	FLDR 0	TRGRESCL 15	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 7	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/27/2017 6:51:57 Sample Scrum Project (Helix ALM Native)[{Largest: 8182.84 GB @ 0x00000001415F7000}, {Free Blocks: 123}, {Mem Free: 8191.80 GB}, {Mem Rsrv: 62.98 MB}, {Mem Comm: 145.73 MB}]
+				DFCT 11	TSTC 16	TSTR 16	RQMT 39	RDMT 6	TASK 0
+				USER 8	UGRP 4	RPRT 18	DFLT 22	LINK 36	MAIL 3
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 8	TYPE 2	CUDFDFCT 2	CUDFTSTC 2	CUDFTSTR 2
+				CUDFRQMT 4	CUDFRDMT 0	FLDR 0	TRGRESCL 6	TRGRPREPRE 1	TRGRPREMOD 0
+				TRGRPREEVT 4	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/27/2017 6:52:48 Life Sciences 2015 Demo (Helix ALM Native)[{Largest: 8182.84 GB @ 0x00000001415F7000}, {Free Blocks: 125}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 60.76 MB}, {Mem Comm: 165.82 MB}]
+				DFCT 31	TSTC 40	TSTR 71	RQMT 462	RDMT 16	TASK 0
+				USER 45	UGRP 16	RPRT 22	DFLT 104	LINK 332	MAIL 2
+				FOLDPUB 1	FOLDPVT 3	FOLDTYPE 5	TYPE 41	CUDFDFCT 11	CUDFTSTC 10	CUDFTSTR 9
+				CUDFRQMT 61	CUDFRDMT 6	FLDR 10	TRGRESCL 16	TRGRPREPRE 5	TRGRPREMOD 1
+				TRGRPREEVT 13	TRGRPRENOTFY 10	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/27/2017 6:52:50 AST Sandbox (Helix ALM Native)[{Largest: 8182.84 GB @ 0x00000001415F7000}, {Free Blocks: 127}, {Mem Free: 8191.76 GB}, {Mem Rsrv: 72.69 MB}, {Mem Comm: 170.73 MB}]
+				DFCT 29	TSTC 0	TSTR 0	RQMT 6	RDMT 3	TASK 0
+				USER 3	UGRP 3	RPRT 1	DFLT 0	LINK 4	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 5	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/27/2017 6:52:52 AST (Helix ALM Native)[{Largest: 8182.84 GB @ 0x00000001415F7000}, {Free Blocks: 129}, {Mem Free: 8191.76 GB}, {Mem Rsrv: 68.62 MB}, {Mem Comm: 175.84 MB}]
+				DFCT 26	TSTC 0	TSTR 0	RQMT 100	RDMT 8	TASK 0
+				USER 3	UGRP 3	RPRT 1	DFLT 0	LINK 0	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 5	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel -       Intel(R) Xeon(R) CPU E5-2407 v2 @ 2.40GHz 
+5 projects that contain a total of 1292 records were loaded.
+
+	137 issues
+	763 requirements
+	39 requirement documents
+	102 test cases
+	188 test runs
+	63 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 36.23 GB
+	Available: 11.40 GB
+
+
+6/27/2017 6:56:25 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 3.39 GB, Page File = 8.00 GB, Available Page File = 7.34 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.85 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+06/27/17 06:56:25 <Info>     Low Fragmentation Heap enabled.
+06/27/17 06:56:27 <Info>     Compacting is starting for the SERVER database.
+06/27/17 06:56:27 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+06/27/17 06:56:27 <Info>     Server log startup for Helix ALM 2017.1.1 Build 18 (Windows/x64)
+6/27/2017 6:57:5 Starting [{Largest: 8182.85 GB @ 0x0000000140917000}, {Free Blocks: 115}, {Mem Free: 8191.82 GB}, {Mem Rsrv: 54.12 MB}, {Mem Comm: 125.71 MB}]
+06/27/17 06:57:06 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.1.1 Build 18 (Windows/x64)]
+6/27/2017 6:57:45 Sample Project (Helix ALM Native)[{Largest: 8182.85 GB @ 0x0000000140917000}, {Free Blocks: 117}, {Mem Free: 8191.80 GB}, {Mem Rsrv: 68.81 MB}, {Mem Comm: 138.87 MB}]
+				DFCT 40	TSTC 46	TSTR 101	RQMT 156	RDMT 6	TASK 0
+				USER 14	UGRP 8	RPRT 33	DFLT 45	LINK 43	MAIL 15
+				FOLDPUB 3	FOLDPVT 0	FOLDTYPE 6	TYPE 5	CUDFDFCT 5	CUDFTSTC 6	CUDFTSTR 7
+				CUDFRQMT 9	CUDFRDMT 3	FLDR 0	TRGRESCL 15	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 7	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/27/2017 6:57:45 Sample Scrum Project (Helix ALM Native)[{Largest: 8182.85 GB @ 0x0000000140917000}, {Free Blocks: 118}, {Mem Free: 8191.80 GB}, {Mem Rsrv: 63.27 MB}, {Mem Comm: 145.44 MB}]
+				DFCT 11	TSTC 16	TSTR 16	RQMT 39	RDMT 6	TASK 0
+				USER 8	UGRP 4	RPRT 18	DFLT 22	LINK 36	MAIL 3
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 8	TYPE 2	CUDFDFCT 2	CUDFTSTC 2	CUDFTSTR 2
+				CUDFRQMT 4	CUDFRDMT 0	FLDR 0	TRGRESCL 6	TRGRPREPRE 1	TRGRPREMOD 0
+				TRGRPREEVT 4	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/27/2017 6:58:47 SQL query "select idRecord, ProjectID, ParentID, idCustRec, CustValue, HasError from CSREQVAL where ProjectID = ?  order by ParentID ASC" took 6280 milliseconds. Parameters:
+	[ProjectID]=1
+6/27/2017 6:58:56 Life Sciences 2015 Demo (Helix ALM Native)[{Largest: 8182.85 GB @ 0x0000000140917000}, {Free Blocks: 121}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 60.88 MB}, {Mem Comm: 165.70 MB}]
+				DFCT 31	TSTC 40	TSTR 71	RQMT 462	RDMT 16	TASK 0
+				USER 45	UGRP 16	RPRT 22	DFLT 104	LINK 332	MAIL 2
+				FOLDPUB 1	FOLDPVT 3	FOLDTYPE 5	TYPE 41	CUDFDFCT 11	CUDFTSTC 10	CUDFTSTR 9
+				CUDFRQMT 61	CUDFRDMT 6	FLDR 10	TRGRESCL 16	TRGRPREPRE 5	TRGRPREMOD 1
+				TRGRPREEVT 13	TRGRPRENOTFY 10	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/27/2017 6:58:56 AST Sandbox (Helix ALM Native)[{Largest: 8182.85 GB @ 0x0000000140917000}, {Free Blocks: 123}, {Mem Free: 8191.76 GB}, {Mem Rsrv: 72.83 MB}, {Mem Comm: 170.60 MB}]
+				DFCT 29	TSTC 0	TSTR 0	RQMT 6	RDMT 3	TASK 0
+				USER 3	UGRP 3	RPRT 1	DFLT 0	LINK 4	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 5	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/27/2017 6:58:57 AST (Helix ALM Native)[{Largest: 8182.85 GB @ 0x0000000140917000}, {Free Blocks: 124}, {Mem Free: 8191.76 GB}, {Mem Rsrv: 68.72 MB}, {Mem Comm: 175.74 MB}]
+				DFCT 26	TSTC 0	TSTR 0	RQMT 100	RDMT 8	TASK 0
+				USER 3	UGRP 3	RPRT 1	DFLT 0	LINK 0	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 5	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel -       Intel(R) Xeon(R) CPU E5-2407 v2 @ 2.40GHz 
+5 projects that contain a total of 1292 records were loaded.
+
+	137 issues
+	763 requirements
+	39 requirement documents
+	102 test cases
+	188 test runs
+	63 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 36.23 GB
+	Available: 11.41 GB
+
+
+6/27/2017 15:58:46 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 1.83 GB, Page File = 8.00 GB, Available Page File = 5.59 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.85 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+06/27/17 15:58:46 <Info>     Low Fragmentation Heap enabled.
+06/27/17 15:58:47 <Info>     Compacting is starting for the SERVER database.
+06/27/17 15:58:47 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+06/27/17 15:58:47 <Info>     Server log startup for Helix ALM 2017.1.1 Build 18 (Windows/x64)
+6/27/2017 15:58:55 Starting [{Largest: 8182.84 GB @ 0x00000001412B7000}, {Free Blocks: 119}, {Mem Free: 8191.82 GB}, {Mem Rsrv: 54.98 MB}, {Mem Comm: 124.88 MB}]
+06/27/17 15:58:55 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.1.1 Build 18 (Windows/x64)]
+6/27/2017 15:58:57 Sample Project (Helix ALM Native)[{Largest: 8182.84 GB @ 0x00000001412B7000}, {Free Blocks: 120}, {Mem Free: 8191.80 GB}, {Mem Rsrv: 69.80 MB}, {Mem Comm: 138.91 MB}]
+				DFCT 40	TSTC 46	TSTR 101	RQMT 156	RDMT 6	TASK 0
+				USER 14	UGRP 8	RPRT 33	DFLT 45	LINK 43	MAIL 15
+				FOLDPUB 3	FOLDPVT 0	FOLDTYPE 6	TYPE 5	CUDFDFCT 5	CUDFTSTC 6	CUDFTSTR 7
+				CUDFRQMT 9	CUDFRDMT 3	FLDR 0	TRGRESCL 15	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 7	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/27/2017 15:58:58 Sample Scrum Project (Helix ALM Native)[{Largest: 8182.84 GB @ 0x00000001412B7000}, {Free Blocks: 122}, {Mem Free: 8191.79 GB}, {Mem Rsrv: 63.86 MB}, {Mem Comm: 145.89 MB}]
+				DFCT 11	TSTC 16	TSTR 16	RQMT 39	RDMT 6	TASK 0
+				USER 8	UGRP 4	RPRT 18	DFLT 22	LINK 36	MAIL 3
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 8	TYPE 2	CUDFDFCT 2	CUDFTSTC 2	CUDFTSTR 2
+				CUDFRQMT 4	CUDFRDMT 0	FLDR 0	TRGRESCL 6	TRGRPREPRE 1	TRGRPREMOD 0
+				TRGRPREEVT 4	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/27/2017 15:59:8 Life Sciences 2015 Demo (Helix ALM Native)[{Largest: 8182.84 GB @ 0x00000001412B7000}, {Free Blocks: 124}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 61.04 MB}, {Mem Comm: 165.57 MB}]
+				DFCT 31	TSTC 40	TSTR 71	RQMT 462	RDMT 16	TASK 0
+				USER 45	UGRP 16	RPRT 22	DFLT 104	LINK 332	MAIL 2
+				FOLDPUB 1	FOLDPVT 3	FOLDTYPE 5	TYPE 41	CUDFDFCT 11	CUDFTSTC 10	CUDFTSTR 9
+				CUDFRQMT 61	CUDFRDMT 6	FLDR 10	TRGRESCL 16	TRGRPREPRE 5	TRGRPREMOD 1
+				TRGRPREEVT 13	TRGRPRENOTFY 10	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/27/2017 15:59:8 AST Sandbox (Helix ALM Native)[{Largest: 8182.84 GB @ 0x00000001412B7000}, {Free Blocks: 125}, {Mem Free: 8191.76 GB}, {Mem Rsrv: 72.74 MB}, {Mem Comm: 170.71 MB}]
+				DFCT 29	TSTC 0	TSTR 0	RQMT 6	RDMT 3	TASK 0
+				USER 4	UGRP 4	RPRT 1	DFLT 0	LINK 4	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 5	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/27/2017 15:59:9 AST (Helix ALM Native)[{Largest: 8182.84 GB @ 0x00000001412B7000}, {Free Blocks: 127}, {Mem Free: 8191.76 GB}, {Mem Rsrv: 68.98 MB}, {Mem Comm: 175.52 MB}]
+				DFCT 29	TSTC 0	TSTR 0	RQMT 100	RDMT 8	TASK 0
+				USER 3	UGRP 3	RPRT 1	DFLT 0	LINK 0	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 5	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel -       Intel(R) Xeon(R) CPU E5-2407 v2 @ 2.40GHz 
+5 projects that contain a total of 1295 records were loaded.
+
+	140 issues
+	763 requirements
+	39 requirement documents
+	102 test cases
+	188 test runs
+	63 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 36.23 GB
+	Available: 11.90 GB
+
+
+7/6/2017 10:1:20 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 3.40 GB, Page File = 8.00 GB, Available Page File = 7.35 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.85 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+07/06/17 10:01:20 <Info>     Low Fragmentation Heap enabled.
+07/06/17 10:01:23 <Info>     Compacting is starting for the SERVER database.
+07/06/17 10:01:23 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+07/06/17 10:01:23 <Info>     Server log startup for Helix ALM 2017.1.1 Build 18 (Windows/x64)
+7/6/2017 10:2:7 Starting [{Largest: 8182.84 GB @ 0x00000001417C7000}, {Free Blocks: 118}, {Mem Free: 8191.82 GB}, {Mem Rsrv: 54.26 MB}, {Mem Comm: 125.57 MB}]
+07/06/17 10:02:07 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.1.1 Build 18 (Windows/x64)]
+7/6/2017 10:2:44 Sample Project (Helix ALM Native)[{Largest: 8182.84 GB @ 0x00000001417C7000}, {Free Blocks: 121}, {Mem Free: 8191.80 GB}, {Mem Rsrv: 68.20 MB}, {Mem Comm: 139.47 MB}]
+				DFCT 40	TSTC 46	TSTR 101	RQMT 156	RDMT 6	TASK 0
+				USER 14	UGRP 8	RPRT 33	DFLT 45	LINK 43	MAIL 15
+				FOLDPUB 3	FOLDPVT 0	FOLDTYPE 6	TYPE 5	CUDFDFCT 5	CUDFTSTC 6	CUDFTSTR 7
+				CUDFRQMT 9	CUDFRDMT 3	FLDR 0	TRGRESCL 15	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 7	TRGRPREEXE 0	TRGRPOSTEXE 0
+7/6/2017 10:2:45 Sample Scrum Project (Helix ALM Native)[{Largest: 8182.84 GB @ 0x00000001417C7000}, {Free Blocks: 122}, {Mem Free: 8191.80 GB}, {Mem Rsrv: 62.70 MB}, {Mem Comm: 146.02 MB}]
+				DFCT 11	TSTC 16	TSTR 16	RQMT 39	RDMT 6	TASK 0
+				USER 8	UGRP 4	RPRT 18	DFLT 22	LINK 36	MAIL 3
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 8	TYPE 2	CUDFDFCT 2	CUDFTSTC 2	CUDFTSTR 2
+				CUDFRQMT 4	CUDFRDMT 0	FLDR 0	TRGRESCL 6	TRGRPREPRE 1	TRGRPREMOD 0
+				TRGRPREEVT 4	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+7/6/2017 10:03:39 SQL query "select idRecord, ProjectID, ParentID, idCustRec, CustValue, HasError from CSREQVAL where ProjectID = ?  order by ParentID ASC" took 4367 milliseconds. Parameters:
+	[ProjectID]=1
+7/6/2017 10:3:44 Life Sciences 2015 Demo (Helix ALM Native)[{Largest: 8182.84 GB @ 0x00000001417C7000}, {Free Blocks: 125}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 61.08 MB}, {Mem Comm: 165.49 MB}]
+				DFCT 31	TSTC 40	TSTR 71	RQMT 462	RDMT 16	TASK 0
+				USER 45	UGRP 16	RPRT 22	DFLT 104	LINK 332	MAIL 2
+				FOLDPUB 1	FOLDPVT 3	FOLDTYPE 5	TYPE 41	CUDFDFCT 11	CUDFTSTC 10	CUDFTSTR 9
+				CUDFRQMT 61	CUDFRDMT 6	FLDR 10	TRGRESCL 16	TRGRPREPRE 5	TRGRPREMOD 1
+				TRGRPREEVT 13	TRGRPRENOTFY 10	TRGRPREEXE 0	TRGRPOSTEXE 0
+7/6/2017 10:3:45 AST Sandbox (Helix ALM Native)[{Largest: 8182.84 GB @ 0x00000001417C7000}, {Free Blocks: 127}, {Mem Free: 8191.76 GB}, {Mem Rsrv: 72.23 MB}, {Mem Comm: 171.20 MB}]
+				DFCT 29	TSTC 0	TSTR 0	RQMT 6	RDMT 3	TASK 0
+				USER 4	UGRP 4	RPRT 1	DFLT 0	LINK 4	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 5	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+7/6/2017 10:3:46 AST (Helix ALM Native)[{Largest: 8182.84 GB @ 0x00000001417C7000}, {Free Blocks: 129}, {Mem Free: 8191.76 GB}, {Mem Rsrv: 68.07 MB}, {Mem Comm: 176.39 MB}]
+				DFCT 31	TSTC 0	TSTR 0	RQMT 100	RDMT 8	TASK 0
+				USER 3	UGRP 3	RPRT 1	DFLT 0	LINK 0	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 5	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel -       Intel(R) Xeon(R) CPU E5-2407 v2 @ 2.40GHz 
+5 projects that contain a total of 1297 records were loaded.
+
+	142 issues
+	763 requirements
+	39 requirement documents
+	102 test cases
+	188 test runs
+	63 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 36.23 GB
+	Available: 11.75 GB
+
+7/6/2017 10:05:04 SQL query "insert into TRIGLOG(idRecord, ProjectID, EntityID, RuleName, TriggerID, MsgDate, RuleType, Msg) values(?, ?, ?, ?, ?, ?, ?, ?)" took 3578 milliseconds. Parameters:
+	[idRecord]=109
+	[ProjectID]=1
+	[EntityID]=1684431732
+	[RuleName]=Notify if Defects in fixed state for over 2 weeks
+	[TriggerID]=9
+	[MsgDate]=2017-07-06T14:05:00Z
+	[RuleType]=4
+	[Msg]=Cannot send email because it is not configured.
+
+7/12/2017 18:42:41 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 3.42 GB, Page File = 8.00 GB, Available Page File = 7.33 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.84 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+07/12/17 18:42:41 <Info>     Low Fragmentation Heap enabled.
+07/12/17 18:42:43 <Info>     Compacting is starting for the SERVER database.
+07/12/17 18:42:44 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+07/12/17 18:42:44 <Info>     Server log startup for Helix ALM 2017.1.1 Build 18 (Windows/x64)
+7/12/2017 18:43:20 Starting [{Largest: 8182.84 GB @ 0x0000000141087000}, {Free Blocks: 115}, {Mem Free: 8191.82 GB}, {Mem Rsrv: 54.90 MB}, {Mem Comm: 131.15 MB}]
+07/12/17 18:43:20 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.1.1 Build 18 (Windows/x64)]
+7/12/2017 18:43:25 Sample Project (Helix ALM Native)[{Largest: 8182.84 GB @ 0x0000000141087000}, {Free Blocks: 117}, {Mem Free: 8191.79 GB}, {Mem Rsrv: 68.79 MB}, {Mem Comm: 146.11 MB}]
+				DFCT 40	TSTC 46	TSTR 101	RQMT 156	RDMT 6	TASK 0
+				USER 14	UGRP 8	RPRT 33	DFLT 45	LINK 43	MAIL 15
+				FOLDPUB 3	FOLDPVT 0	FOLDTYPE 6	TYPE 5	CUDFDFCT 5	CUDFTSTC 6	CUDFTSTR 7
+				CUDFRQMT 9	CUDFRDMT 3	FLDR 0	TRGRESCL 15	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 7	TRGRPREEXE 0	TRGRPOSTEXE 0
+7/12/2017 18:43:26 Sample Scrum Project (Helix ALM Native)[{Largest: 8182.84 GB @ 0x0000000141087000}, {Free Blocks: 119}, {Mem Free: 8191.79 GB}, {Mem Rsrv: 63.59 MB}, {Mem Comm: 152.36 MB}]
+				DFCT 11	TSTC 16	TSTR 16	RQMT 39	RDMT 6	TASK 0
+				USER 8	UGRP 4	RPRT 18	DFLT 22	LINK 36	MAIL 3
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 8	TYPE 2	CUDFDFCT 2	CUDFTSTC 2	CUDFTSTR 2
+				CUDFRQMT 4	CUDFRDMT 0	FLDR 0	TRGRESCL 6	TRGRPREPRE 1	TRGRPREMOD 0
+				TRGRPREEVT 4	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+7/12/2017 18:44:12 SQL query "select idRecord, ProjectID, ParentID, idCustRec, CustValue, HasError from CSREQVAL where ProjectID = ?  order by ParentID ASC" took 3230 milliseconds. Parameters:
+	[ProjectID]=1
+7/12/2017 18:44:14 Life Sciences 2015 Demo (Helix ALM Native)[{Largest: 8182.84 GB @ 0x0000000141087000}, {Free Blocks: 121}, {Mem Free: 8191.77 GB}, {Mem Rsrv: 59.96 MB}, {Mem Comm: 172.84 MB}]
+				DFCT 31	TSTC 40	TSTR 71	RQMT 462	RDMT 16	TASK 0
+				USER 45	UGRP 16	RPRT 22	DFLT 104	LINK 332	MAIL 2
+				FOLDPUB 1	FOLDPVT 3	FOLDTYPE 5	TYPE 41	CUDFDFCT 11	CUDFTSTC 10	CUDFTSTR 9
+				CUDFRQMT 61	CUDFRDMT 6	FLDR 10	TRGRESCL 16	TRGRPREPRE 5	TRGRPREMOD 1
+				TRGRPREEVT 13	TRGRPRENOTFY 10	TRGRPREEXE 0	TRGRPOSTEXE 0
+7/12/2017 18:44:17 AST Sandbox (Helix ALM Native)[{Largest: 8182.84 GB @ 0x0000000141087000}, {Free Blocks: 123}, {Mem Free: 8191.76 GB}, {Mem Rsrv: 71.73 MB}, {Mem Comm: 177.91 MB}]
+				DFCT 29	TSTC 0	TSTR 0	RQMT 6	RDMT 3	TASK 0
+				USER 4	UGRP 4	RPRT 1	DFLT 0	LINK 4	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 5	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+7/12/2017 18:44:21 AST (Helix ALM Native)[{Largest: 8182.84 GB @ 0x0000000141087000}, {Free Blocks: 123}, {Mem Free: 8191.75 GB}, {Mem Rsrv: 67.10 MB}, {Mem Comm: 183.59 MB}]
+				DFCT 38	TSTC 0	TSTR 0	RQMT 101	RDMT 8	TASK 0
+				USER 5	UGRP 3	RPRT 1	DFLT 1	LINK 0	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 5	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel -       Intel(R) Xeon(R) CPU E5-2407 v2 @ 2.40GHz 
+5 projects that contain a total of 1305 records were loaded.
+
+	149 issues
+	764 requirements
+	39 requirement documents
+	102 test cases
+	188 test runs
+	63 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 36.23 GB
+	Available: 11.79 GB
+
+
+7/14/2017 11:11:26 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 3.41 GB, Page File = 8.00 GB, Available Page File = 7.35 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.84 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+07/14/17 11:11:26 <Info>     Low Fragmentation Heap enabled.
+07/14/17 11:11:27 <Info>     Compacting is starting for the SERVER database.
+07/14/17 11:11:27 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+07/14/17 11:11:28 <Info>     Server log startup for Helix ALM 2017.1.1 Build 18 (Windows/x64)
+7/14/2017 11:12:10 Starting [{Largest: 8182.85 GB @ 0x0000000140B67000}, {Free Blocks: 116}, {Mem Free: 8191.82 GB}, {Mem Rsrv: 54.79 MB}, {Mem Comm: 131.26 MB}]
+07/14/17 11:12:10 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.1.1 Build 18 (Windows/x64)]
+7/14/2017 11:12:39 Sample Project (Helix ALM Native)[{Largest: 8182.85 GB @ 0x0000000140B67000}, {Free Blocks: 119}, {Mem Free: 8191.79 GB}, {Mem Rsrv: 67.57 MB}, {Mem Comm: 146.33 MB}]
+				DFCT 40	TSTC 46	TSTR 101	RQMT 156	RDMT 6	TASK 0
+				USER 14	UGRP 8	RPRT 33	DFLT 45	LINK 43	MAIL 15
+				FOLDPUB 3	FOLDPVT 0	FOLDTYPE 6	TYPE 5	CUDFDFCT 5	CUDFTSTC 6	CUDFTSTR 7
+				CUDFRQMT 9	CUDFRDMT 3	FLDR 0	TRGRESCL 15	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 7	TRGRPREEXE 0	TRGRPOSTEXE 0
+7/14/2017 11:12:44 Sample Scrum Project (Helix ALM Native)[{Largest: 8182.85 GB @ 0x0000000140B67000}, {Free Blocks: 119}, {Mem Free: 8191.79 GB}, {Mem Rsrv: 62.75 MB}, {Mem Comm: 152.19 MB}]
+				DFCT 11	TSTC 16	TSTR 16	RQMT 39	RDMT 6	TASK 0
+				USER 8	UGRP 4	RPRT 18	DFLT 22	LINK 36	MAIL 3
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 8	TYPE 2	CUDFDFCT 2	CUDFTSTC 2	CUDFTSTR 2
+				CUDFRQMT 4	CUDFRDMT 0	FLDR 0	TRGRESCL 6	TRGRPREPRE 1	TRGRPREMOD 0
+				TRGRPREEVT 4	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+7/14/2017 11:13:44 SQL query "select idRecord, ProjectID, ParentID, idCustRec, CustValue, HasError from CSREQVAL where ProjectID = ?  order by ParentID ASC" took 4603 milliseconds. Parameters:
+	[ProjectID]=1
+7/14/2017 11:13:50 Life Sciences 2015 Demo (Helix ALM Native)[{Largest: 8182.85 GB @ 0x0000000140B67000}, {Free Blocks: 122}, {Mem Free: 8191.77 GB}, {Mem Rsrv: 60.73 MB}, {Mem Comm: 173.07 MB}]
+				DFCT 31	TSTC 40	TSTR 71	RQMT 462	RDMT 16	TASK 0
+				USER 45	UGRP 16	RPRT 22	DFLT 104	LINK 332	MAIL 2
+				FOLDPUB 1	FOLDPVT 3	FOLDTYPE 5	TYPE 41	CUDFDFCT 11	CUDFTSTC 10	CUDFTSTR 9
+				CUDFRQMT 61	CUDFRDMT 6	FLDR 10	TRGRESCL 16	TRGRPREPRE 5	TRGRPREMOD 1
+				TRGRPREEVT 13	TRGRPRENOTFY 10	TRGRPREEXE 0	TRGRPOSTEXE 0
+7/14/2017 11:13:56 AST Sandbox (Helix ALM Native)[{Largest: 8182.85 GB @ 0x0000000140B67000}, {Free Blocks: 124}, {Mem Free: 8191.75 GB}, {Mem Rsrv: 72.56 MB}, {Mem Comm: 178.09 MB}]
+				DFCT 29	TSTC 0	TSTR 0	RQMT 6	RDMT 3	TASK 0
+				USER 4	UGRP 4	RPRT 1	DFLT 0	LINK 4	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 5	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+7/14/2017 11:14:0 AST (Helix ALM Native)[{Largest: 8182.85 GB @ 0x0000000140B67000}, {Free Blocks: 126}, {Mem Free: 8191.75 GB}, {Mem Rsrv: 67.24 MB}, {Mem Comm: 184.45 MB}]
+				DFCT 38	TSTC 0	TSTR 0	RQMT 108	RDMT 8	TASK 0
+				USER 6	UGRP 4	RPRT 2	DFLT 2	LINK 0	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 5	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel -       Intel(R) Xeon(R) CPU E5-2407 v2 @ 2.40GHz 
+5 projects that contain a total of 1312 records were loaded.
+
+	149 issues
+	771 requirements
+	39 requirement documents
+	102 test cases
+	188 test runs
+	63 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 36.23 GB
+	Available: 11.77 GB
+
+
+************************************************
+Server Status Report
+************************************************
+07/21/17 09:05:02
+Databases: 5 Global Users: 8
+Memory:
+[{Largest: 8182.79 GB}, {Free Blocks: 141}, {Mem Free: 8191.75 GB}, {Mem Rsrv: 82.23 MB}, {Mem Comm: 172.66 MB}]
+
+Threads:
+Number of threads: 1    Web Requests: 1561
+ Socket: 1036 [::1] Thread: 4872  Rqsts[2612]  Session [0xb2f81426]  Busy [697 : 1.000000 secs]  Bfrd: 0
+
+Thread Status Report Time: 00:00:00
+
+Sessions:
+Number of Stateless Sessions: 0 
+
+Session Status Report Time: 00:00:17
+
+Server Maint Thread: 2704; Status: End
+Proj: AST Sandbox; Maint Thread: 2876; Esc. Thread: 0; Status: StartLoop
+Proj: AST; Maint Thread: 1160; Esc. Thread: 0; Status: StartLoop
+
+Status Report Time: 00:00:25
+
+************************************************
+
+
+9/10/2017 10:30:20 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 3.02 GB, Page File = 8.00 GB, Available Page File = 6.96 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.85 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+09/10/17 10:30:20 <Info>     Low Fragmentation Heap enabled.
+09/10/17 10:30:22 <Info>     Compacting is starting for the SERVER database.
+09/10/17 10:30:22 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+09/10/17 10:30:22 <Info>     Server log startup for Helix ALM 2017.1.1 Build 18 (Windows/x64)
+9/10/2017 10:31:27 Starting [{Largest: 8182.77 GB @ 0x0000000141007000}, {Free Blocks: 124}, {Mem Free: 8191.82 GB}, {Mem Rsrv: 59.46 MB}, {Mem Comm: 126.02 MB}]
+09/10/17 10:31:27 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.1.1 Build 18 (Windows/x64)]
+9/10/2017 10:31:37 AST Sandbox (Helix ALM Native)[{Largest: 8182.77 GB @ 0x0000000141007000}, {Free Blocks: 127}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 62.27 MB}, {Mem Comm: 131.24 MB}]
+				DFCT 29	TSTC 0	TSTR 0	RQMT 6	RDMT 3	TASK 0
+				USER 4	UGRP 4	RPRT 1	DFLT 0	LINK 4	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 5	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+9/10/2017 10:31:45 AST (Helix ALM Native)[{Largest: 8182.77 GB @ 0x0000000141007000}, {Free Blocks: 128}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 56.50 MB}, {Mem Comm: 138.05 MB}]
+				DFCT 63	TSTC 0	TSTR 0	RQMT 183	RDMT 8	TASK 0
+				USER 11	UGRP 4	RPRT 2	DFLT 2	LINK 3	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 5	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel -       Intel(R) Xeon(R) CPU E5-2407 v2 @ 2.40GHz 
+2 projects that contain a total of 292 records were loaded.
+
+	92 issues
+	189 requirements
+	11 requirement documents
+	0 test cases
+	0 test runs
+	0 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 36.23 GB
+	Available: 8.38 GB
+
+
+9/10/2017 15:45:51 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 2.97 GB, Page File = 8.00 GB, Available Page File = 6.90 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.85 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+09/10/17 15:45:51 <Info>     Low Fragmentation Heap enabled.
+09/10/17 15:45:53 <Info>     Compacting is starting for the SERVER database.
+09/10/17 15:45:53 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+09/10/17 15:45:53 <Info>     Server log startup for Helix ALM 2017.1.1 Build 18 (Windows/x64)
+9/10/2017 15:46:30 Starting [{Largest: 8182.77 GB @ 0x0000000141587000}, {Free Blocks: 121}, {Mem Free: 8191.82 GB}, {Mem Rsrv: 55.52 MB}, {Mem Comm: 125.96 MB}]
+09/10/17 15:46:30 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.1.1 Build 18 (Windows/x64)]
+9/10/2017 15:46:39 AST Sandbox (Helix ALM Native)[{Largest: 8182.77 GB @ 0x0000000141587000}, {Free Blocks: 123}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 63.25 MB}, {Mem Comm: 131.27 MB}]
+				DFCT 29	TSTC 0	TSTR 0	RQMT 6	RDMT 3	TASK 0
+				USER 4	UGRP 4	RPRT 1	DFLT 0	LINK 4	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 5	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+9/10/2017 15:46:52 AST (Helix ALM Native)[{Largest: 8182.77 GB @ 0x0000000141587000}, {Free Blocks: 124}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 57.51 MB}, {Mem Comm: 138.05 MB}]
+				DFCT 63	TSTC 0	TSTR 0	RQMT 183	RDMT 8	TASK 0
+				USER 11	UGRP 4	RPRT 2	DFLT 2	LINK 3	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 5	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel -       Intel(R) Xeon(R) CPU E5-2407 v2 @ 2.40GHz 
+2 projects that contain a total of 292 records were loaded.
+
+	92 issues
+	189 requirements
+	11 requirement documents
+	0 test cases
+	0 test runs
+	0 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 36.23 GB
+	Available: 2.73 GB
+
+
+9/10/2017 19:14:35 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 3.00 GB, Page File = 8.00 GB, Available Page File = 6.94 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.85 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+09/10/17 19:14:35 <Info>     Low Fragmentation Heap enabled.
+09/10/17 19:14:37 <Info>     Compacting is starting for the SERVER database.
+09/10/17 19:14:37 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+09/10/17 19:14:37 <Info>     Server log startup for Helix ALM 2017.1.1 Build 18 (Windows/x64)
+9/10/2017 19:15:31 Starting [{Largest: 8182.76 GB @ 0x0000000141777000}, {Free Blocks: 123}, {Mem Free: 8191.82 GB}, {Mem Rsrv: 55.52 MB}, {Mem Comm: 125.96 MB}]
+09/10/17 19:15:31 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.1.1 Build 18 (Windows/x64)]
+9/10/2017 19:15:44 AST Sandbox (Helix ALM Native)[{Largest: 8182.76 GB @ 0x0000000141777000}, {Free Blocks: 124}, {Mem Free: 8191.82 GB}, {Mem Rsrv: 54.49 MB}, {Mem Comm: 131.02 MB}]
+				DFCT 29	TSTC 0	TSTR 0	RQMT 6	RDMT 3	TASK 0
+				USER 4	UGRP 4	RPRT 1	DFLT 0	LINK 4	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 5	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+9/10/2017 19:15:48 AST (Helix ALM Native)[{Largest: 8182.76 GB @ 0x0000000141777000}, {Free Blocks: 125}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 56.39 MB}, {Mem Comm: 138.16 MB}]
+				DFCT 63	TSTC 0	TSTR 0	RQMT 183	RDMT 8	TASK 0
+				USER 11	UGRP 4	RPRT 2	DFLT 2	LINK 3	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 5	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel -       Intel(R) Xeon(R) CPU E5-2407 v2 @ 2.40GHz 
+2 projects that contain a total of 292 records were loaded.
+
+	92 issues
+	189 requirements
+	11 requirement documents
+	0 test cases
+	0 test runs
+	0 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 36.23 GB
+	Available: 2.73 GB
+
+
+9/10/2017 19:54:9 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 2.97 GB, Page File = 8.00 GB, Available Page File = 6.90 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.85 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+09/10/17 19:54:09 <Info>     Low Fragmentation Heap enabled.
+09/10/17 19:54:13 <Info>     Compacting is starting for the SERVER database.
+09/10/17 19:54:14 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+09/10/17 19:54:14 <Info>     Server log startup for Helix ALM 2017.1.1 Build 18 (Windows/x64)
+9/10/2017 19:55:56 Starting [{Largest: 8182.74 GB @ 0x00000001412A7000}, {Free Blocks: 126}, {Mem Free: 8191.82 GB}, {Mem Rsrv: 55.54 MB}, {Mem Comm: 125.94 MB}]
+09/10/17 19:55:56 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.1.1 Build 18 (Windows/x64)]
+9/10/2017 19:56:2 AST Sandbox (Helix ALM Native)[{Largest: 8182.74 GB @ 0x00000001412A7000}, {Free Blocks: 128}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 63.23 MB}, {Mem Comm: 131.29 MB}]
+				DFCT 29	TSTC 0	TSTR 0	RQMT 6	RDMT 3	TASK 0
+				USER 4	UGRP 4	RPRT 1	DFLT 0	LINK 4	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 5	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+9/10/2017 19:56:5 AST (Helix ALM Native)[{Largest: 8182.74 GB @ 0x00000001412A7000}, {Free Blocks: 130}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 57.49 MB}, {Mem Comm: 138.07 MB}]
+				DFCT 63	TSTC 0	TSTR 0	RQMT 183	RDMT 8	TASK 0
+				USER 11	UGRP 4	RPRT 2	DFLT 2	LINK 3	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 5	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel -       Intel(R) Xeon(R) CPU E5-2407 v2 @ 2.40GHz 
+2 projects that contain a total of 292 records were loaded.
+
+	92 issues
+	189 requirements
+	11 requirement documents
+	0 test cases
+	0 test runs
+	0 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 36.23 GB
+	Available: 2.38 GB
+
+
+09/11/17 10:14:48 <Warning>  Helix ALM Server is unable to create an application mutex.  The problem could be that another instance of Helix ALM Server is already running.  If this is not the case, then there is a security permission issue.
+
+10/9/2017 20:27:46 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 2.97 GB, Page File = 8.00 GB, Available Page File = 6.92 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.85 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+10/09/17 20:27:46 <Info>     Low Fragmentation Heap enabled.
+10/09/17 20:27:47 <Info>     Compacting is starting for the SERVER database.
+10/09/17 20:27:48 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+10/09/17 20:27:48 <Info>     Server log startup for Helix ALM 2017.1.1 Build 18 (Windows/x64)
+10/9/2017 20:29:2 Starting [{Largest: 8182.79 GB @ 0x0000000140C87000}, {Free Blocks: 123}, {Mem Free: 8191.82 GB}, {Mem Rsrv: 58.34 MB}, {Mem Comm: 126.13 MB}]
+10/09/17 20:29:02 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.1.1 Build 18 (Windows/x64)]
+10/9/2017 20:29:13 AST Sandbox (Helix ALM Native)[{Largest: 8182.79 GB @ 0x0000000140C87000}, {Free Blocks: 126}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 63.28 MB}, {Mem Comm: 131.23 MB}]
+				DFCT 29	TSTC 0	TSTR 0	RQMT 6	RDMT 3	TASK 0
+				USER 4	UGRP 4	RPRT 1	DFLT 0	LINK 4	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 5	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+10/9/2017 20:29:19 AST (Helix ALM Native)[{Largest: 8182.79 GB @ 0x0000000140C87000}, {Free Blocks: 128}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 57.44 MB}, {Mem Comm: 138.12 MB}]
+				DFCT 63	TSTC 0	TSTR 0	RQMT 196	RDMT 8	TASK 0
+				USER 11	UGRP 4	RPRT 2	DFLT 2	LINK 3	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 5	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel -       Intel(R) Xeon(R) CPU E5-2407 v2 @ 2.40GHz 
+2 projects that contain a total of 305 records were loaded.
+
+	92 issues
+	202 requirements
+	11 requirement documents
+	0 test cases
+	0 test runs
+	0 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 36.23 GB
+	Available: 2.03 GB
+
+
+10/9/2017 21:3:18 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 2.90 GB, Page File = 8.00 GB, Available Page File = 6.85 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.85 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+10/09/17 21:03:18 <Info>     Low Fragmentation Heap enabled.
+10/09/17 21:03:19 <Info>     Compacting is starting for the SERVER database.
+10/09/17 21:03:20 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+10/09/17 21:03:20 <Info>     Server log startup for Helix ALM 2017.1.1 Build 18 (Windows/x64)
+10/9/2017 21:4:32 Starting [{Largest: 8182.79 GB @ 0x00000001409C7000}, {Free Blocks: 123}, {Mem Free: 8191.82 GB}, {Mem Rsrv: 54.64 MB}, {Mem Comm: 125.83 MB}]
+10/09/17 21:04:32 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.1.1 Build 18 (Windows/x64)]
+10/9/2017 21:4:42 AST Sandbox (Helix ALM Native)[{Largest: 8182.79 GB @ 0x00000001409C7000}, {Free Blocks: 124}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 62.35 MB}, {Mem Comm: 131.16 MB}]
+				DFCT 29	TSTC 0	TSTR 0	RQMT 6	RDMT 3	TASK 0
+				USER 4	UGRP 4	RPRT 1	DFLT 0	LINK 4	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 5	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+10/9/2017 21:4:45 AST (Helix ALM Native)[{Largest: 8182.79 GB @ 0x00000001409C7000}, {Free Blocks: 126}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 56.39 MB}, {Mem Comm: 138.15 MB}]
+				DFCT 63	TSTC 0	TSTR 0	RQMT 196	RDMT 8	TASK 0
+				USER 11	UGRP 4	RPRT 2	DFLT 2	LINK 3	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 5	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel -       Intel(R) Xeon(R) CPU E5-2407 v2 @ 2.40GHz 
+2 projects that contain a total of 305 records were loaded.
+
+	92 issues
+	202 requirements
+	11 requirement documents
+	0 test cases
+	0 test runs
+	0 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 36.23 GB
+	Available: 1.69 GB
+
+
+11/18/2017 18:57:51 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 3.07 GB, Page File = 8.00 GB, Available Page File = 6.99 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.85 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+11/18/17 18:57:51 <Info>     Low Fragmentation Heap enabled.
+11/18/17 18:57:53 <Info>     Compacting is starting for the SERVER database.
+11/18/17 18:57:53 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+11/18/17 18:57:53 <Info>     Server log startup for Helix ALM 2017.1.1 Build 18 (Windows/x64)
+11/18/2017 18:59:8 Starting [{Largest: 8182.76 GB @ 0x0000000141747000}, {Free Blocks: 121}, {Mem Free: 8191.82 GB}, {Mem Rsrv: 57.50 MB}, {Mem Comm: 126.98 MB}]
+11/18/17 18:59:08 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.1.1 Build 18 (Windows/x64)]
+11/18/2017 18:59:19 AST Sandbox (Helix ALM Native)[{Largest: 8182.76 GB @ 0x0000000141747000}, {Free Blocks: 123}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 62.54 MB}, {Mem Comm: 131.98 MB}]
+				DFCT 29	TSTC 0	TSTR 0	RQMT 6	RDMT 3	TASK 0
+				USER 4	UGRP 4	RPRT 1	DFLT 0	LINK 4	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 6	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+11/18/2017 18:59:21 AST (Helix ALM Native)[{Largest: 8182.76 GB @ 0x0000000141747000}, {Free Blocks: 125}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 56.45 MB}, {Mem Comm: 139.11 MB}]
+				DFCT 64	TSTC 0	TSTR 0	RQMT 199	RDMT 9	TASK 0
+				USER 11	UGRP 4	RPRT 3	DFLT 3	LINK 4	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 6	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 14	CUDFRDMT 3	FLDR 0	TRGRESCL 1	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel -       Intel(R) Xeon(R) CPU E5-2407 v2 @ 2.40GHz 
+2 projects that contain a total of 310 records were loaded.
+
+	93 issues
+	205 requirements
+	12 requirement documents
+	0 test cases
+	0 test runs
+	0 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 36.23 GB
+	Available: 2.44 GB
+
+
+11/20/2017 20:10:46 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 2.94 GB, Page File = 8.00 GB, Available Page File = 6.89 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.85 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+11/20/17 20:10:46 <Info>     Low Fragmentation Heap enabled.
+11/20/17 20:10:48 <Info>     Compacting is starting for the SERVER database.
+11/20/17 20:10:49 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+11/20/17 20:10:49 <Info>     Server log startup for Helix ALM 2017.1.1 Build 18 (Windows/x64)
+11/20/2017 20:12:43 Starting [{Largest: 8182.76 GB @ 0x00000001417C7000}, {Free Blocks: 125}, {Mem Free: 8191.82 GB}, {Mem Rsrv: 58.43 MB}, {Mem Comm: 127.05 MB}]
+11/20/17 20:12:43 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.1.1 Build 18 (Windows/x64)]
+11/20/2017 20:12:54 AST Sandbox (Helix ALM Native)[{Largest: 8182.76 GB @ 0x00000001417C7000}, {Free Blocks: 126}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 62.64 MB}, {Mem Comm: 131.88 MB}]
+				DFCT 29	TSTC 0	TSTR 0	RQMT 6	RDMT 3	TASK 0
+				USER 4	UGRP 4	RPRT 1	DFLT 0	LINK 4	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 6	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+11/20/2017 20:12:58 AST (Helix ALM Native)[{Largest: 8182.76 GB @ 0x00000001417C7000}, {Free Blocks: 128}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 56.47 MB}, {Mem Comm: 139.09 MB}]
+				DFCT 64	TSTC 0	TSTR 0	RQMT 199	RDMT 9	TASK 0
+				USER 11	UGRP 4	RPRT 3	DFLT 3	LINK 4	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 6	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 14	CUDFRDMT 3	FLDR 0	TRGRESCL 1	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel -       Intel(R) Xeon(R) CPU E5-2407 v2 @ 2.40GHz 
+2 projects that contain a total of 310 records were loaded.
+
+	93 issues
+	205 requirements
+	12 requirement documents
+	0 test cases
+	0 test runs
+	0 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 36.23 GB
+	Available: 1.07 GB
+
+01/23/18 09:48:11 <Error>    database or disk is full Unable to fetch row
+    DbDir=Server Database
+
+1/23/2018 14:48:3 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 1.47 GB, Page File = 8.00 GB, Available Page File = 5.02 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.85 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+01/23/18 14:48:03 <Info>     Low Fragmentation Heap enabled.
+01/23/18 14:48:05 <Info>     Compacting is starting for the SERVER database.
+01/23/18 14:48:05 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+01/23/18 14:48:05 <Info>     Server log startup for Helix ALM 2017.3.0 Build 8 (Windows/x64)
+1/23/2018 14:48:15 Starting [{Largest: 8182.80 GB @ 0x0000000141310000}, {Free Blocks: 122}, {Mem Free: 8191.82 GB}, {Mem Rsrv: 55.47 MB}, {Mem Comm: 129.05 MB}]
+01/23/18 14:48:15 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.3.0 Build 8 (Windows/x64)]
+
+
+CPU: GenuineIntel -       Intel(R) Xeon(R) CPU E5-2407 v2 @ 2.40GHz 
+0 projects that contain a total of 0 records were loaded.
+
+	0 issues
+	0 requirements
+	0 requirement documents
+	0 test cases
+	0 test runs
+	0 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 75.08 GB
+	Available: 38.07 GB
+
+1/23/2018 14:48:28 AST (Helix ALM Native)[{Largest: 8182.80 GB @ 0x0000000141310000}, {Free Blocks: 125}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 60.25 MB}, {Mem Comm: 137.30 MB}]
+				DFCT 64	TSTC 0	TSTR 0	RQMT 210	RDMT 11	TASK 0
+				USER 11	UGRP 4	RPRT 3	DFLT 4	LINK 4	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 6	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 14	CUDFRDMT 3	FLDR 0	TRGRESCL 1	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+1/23/2018 14:48:29 AST Sandbox (Helix ALM Native)[{Largest: 8182.80 GB @ 0x0000000141310000}, {Free Blocks: 127}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 56.68 MB}, {Mem Comm: 141.91 MB}]
+				DFCT 29	TSTC 0	TSTR 0	RQMT 7	RDMT 3	TASK 0
+				USER 4	UGRP 4	RPRT 1	DFLT 0	LINK 4	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 6	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+2/27/2018 14:38:15 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 3.02 GB, Page File = 8.00 GB, Available Page File = 6.96 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.85 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+02/27/18 14:38:15 <Info>     Low Fragmentation Heap enabled.
+02/27/18 14:38:17 <Info>     Compacting is starting for the SERVER database.
+02/27/18 14:38:17 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+02/27/18 14:38:17 <Info>     Server log startup for Helix ALM 2017.3.0 Build 8 (Windows/x64)
+2/27/2018 14:39:17 Starting [{Largest: 8182.76 GB @ 0x0000000140BD0000}, {Free Blocks: 123}, {Mem Free: 8191.82 GB}, {Mem Rsrv: 54.61 MB}, {Mem Comm: 129.91 MB}]
+02/27/18 14:39:17 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.3.0 Build 8 (Windows/x64)]
+2/27/2018 14:39:24 AST (Helix ALM Native)[{Largest: 8182.76 GB @ 0x0000000140BD0000}, {Free Blocks: 124}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 58.93 MB}, {Mem Comm: 137.62 MB}]
+				DFCT 77	TSTC 0	TSTR 0	RQMT 299	RDMT 12	TASK 0
+				USER 15	UGRP 5	RPRT 3	DFLT 5	LINK 12	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 6	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 14	CUDFRDMT 3	FLDR 0	TRGRESCL 1	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+2/27/2018 14:39:26 AST Sandbox (Helix ALM Native)[{Largest: 8182.76 GB @ 0x0000000140BD0000}, {Free Blocks: 125}, {Mem Free: 8191.79 GB}, {Mem Rsrv: 70.31 MB}, {Mem Comm: 143.09 MB}]
+				DFCT 29	TSTC 0	TSTR 0	RQMT 7	RDMT 3	TASK 0
+				USER 4	UGRP 4	RPRT 1	DFLT 0	LINK 4	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 6	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel -       Intel(R) Xeon(R) CPU E5-2407 v2 @ 2.40GHz 
+2 projects that contain a total of 427 records were loaded.
+
+	106 issues
+	306 requirements
+	15 requirement documents
+	0 test cases
+	0 test runs
+	0 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 75.08 GB
+	Available: 31.43 GB
+
+3/15/2018 9:54:24 AST Agile (Helix ALM Native)[{Largest: 8182.75 GB @ 0x0000000140BD0000}, {Free Blocks: 134}, {Mem Free: 8191.79 GB}, {Mem Rsrv: 67.37 MB}, {Mem Comm: 150.75 MB}]
+				DFCT 0	TSTC 0	TSTR 0	RQMT 0	RDMT 0	TASK 0
+				USER 8	UGRP 4	RPRT 18	DFLT 22	LINK 0	MAIL 0
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 8	TYPE 2	CUDFDFCT 2	CUDFTSTC 2	CUDFTSTR 2
+				CUDFRQMT 4	CUDFRDMT 0	FLDR 0	TRGRESCL 6	TRGRPREPRE 1	TRGRPREMOD 0
+				TRGRPREEVT 4	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+3/25/2018 8:29:21 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 3.01 GB, Page File = 8.00 GB, Available Page File = 6.93 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.85 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+03/25/18 08:29:21 <Info>     Low Fragmentation Heap enabled.
+03/25/18 08:29:22 <Info>     Compacting is starting for the SERVER database.
+03/25/18 08:29:22 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+03/25/18 08:29:22 <Info>     Server log startup for Helix ALM 2017.3.0 Build 8 (Windows/x64)
+3/25/2018 8:29:48 Starting [{Largest: 8182.76 GB @ 0x0000000141AC0000}, {Free Blocks: 120}, {Mem Free: 8191.82 GB}, {Mem Rsrv: 55.52 MB}, {Mem Comm: 129.00 MB}]
+03/25/18 08:29:48 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.3.0 Build 8 (Windows/x64)]
+3/25/2018 8:29:51 AST (Helix ALM Native)[{Largest: 8182.76 GB @ 0x0000000141AC0000}, {Free Blocks: 122}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 60.02 MB}, {Mem Comm: 137.54 MB}]
+				DFCT 79	TSTC 0	TSTR 0	RQMT 299	RDMT 12	TASK 0
+				USER 15	UGRP 5	RPRT 3	DFLT 5	LINK 12	MAIL 0
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 6	TYPE 6	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 14	CUDFRDMT 3	FLDR 0	TRGRESCL 1	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+3/25/2018 8:29:57 AST Sandbox (Helix ALM Native)[{Largest: 8182.76 GB @ 0x0000000141AC0000}, {Free Blocks: 123}, {Mem Free: 8191.79 GB}, {Mem Rsrv: 71.31 MB}, {Mem Comm: 143.09 MB}]
+				DFCT 29	TSTC 0	TSTR 0	RQMT 21	RDMT 4	TASK 0
+				USER 5	UGRP 5	RPRT 1	DFLT 0	LINK 5	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 6	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+3/25/2018 8:29:58 AST Agile (Helix ALM Native)[{Largest: 8182.76 GB @ 0x0000000141AC0000}, {Free Blocks: 124}, {Mem Free: 8191.79 GB}, {Mem Rsrv: 67.13 MB}, {Mem Comm: 148.32 MB}]
+				DFCT 0	TSTC 0	TSTR 0	RQMT 1	RDMT 0	TASK 0
+				USER 10	UGRP 4	RPRT 18	DFLT 22	LINK 0	MAIL 0
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 8	TYPE 2	CUDFDFCT 2	CUDFTSTC 2	CUDFTSTR 2
+				CUDFRQMT 4	CUDFRDMT 0	FLDR 0	TRGRESCL 6	TRGRPREPRE 1	TRGRPREMOD 0
+				TRGRPREEVT 4	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel - Intel(R) Xeon(R) Silver 4112 CPU @ 2.60GHz 
+3 projects that contain a total of 455 records were loaded.
+
+	108 issues
+	321 requirements
+	16 requirement documents
+	0 test cases
+	0 test runs
+	10 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 75.08 GB
+	Available: 25.27 GB
+
+
+3/25/2018 14:32:58 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 2.99 GB, Page File = 8.00 GB, Available Page File = 6.93 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.85 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+03/25/18 14:32:58 <Info>     Low Fragmentation Heap enabled.
+03/25/18 14:32:59 <Info>     Compacting is starting for the SERVER database.
+03/25/18 14:32:59 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+03/25/18 14:32:59 <Info>     Server log startup for Helix ALM 2017.3.0 Build 8 (Windows/x64)
+3/25/2018 14:33:32 Starting [{Largest: 8182.77 GB @ 0x0000000141260000}, {Free Blocks: 125}, {Mem Free: 8191.82 GB}, {Mem Rsrv: 55.35 MB}, {Mem Comm: 129.16 MB}]
+03/25/18 14:33:32 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.3.0 Build 8 (Windows/x64)]
+3/25/2018 14:33:36 AST (Helix ALM Native)[{Largest: 8182.77 GB @ 0x0000000141260000}, {Free Blocks: 126}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 59.84 MB}, {Mem Comm: 137.72 MB}]
+				DFCT 79	TSTC 0	TSTR 0	RQMT 299	RDMT 12	TASK 0
+				USER 15	UGRP 5	RPRT 3	DFLT 5	LINK 12	MAIL 0
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 6	TYPE 6	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 14	CUDFRDMT 3	FLDR 0	TRGRESCL 1	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+3/25/2018 14:33:36 AST Sandbox (Helix ALM Native)[{Largest: 8182.77 GB @ 0x0000000141260000}, {Free Blocks: 128}, {Mem Free: 8191.79 GB}, {Mem Rsrv: 71.61 MB}, {Mem Comm: 142.79 MB}]
+				DFCT 29	TSTC 0	TSTR 0	RQMT 21	RDMT 4	TASK 0
+				USER 5	UGRP 5	RPRT 1	DFLT 0	LINK 5	MAIL 0
+				FOLDPUB 0	FOLDPVT 0	FOLDTYPE 5	TYPE 6	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+3/25/2018 14:33:37 AST Agile (Helix ALM Native)[{Largest: 8182.77 GB @ 0x0000000141260000}, {Free Blocks: 128}, {Mem Free: 8191.79 GB}, {Mem Rsrv: 66.97 MB}, {Mem Comm: 148.48 MB}]
+				DFCT 0	TSTC 0	TSTR 0	RQMT 1	RDMT 0	TASK 0
+				USER 10	UGRP 4	RPRT 18	DFLT 22	LINK 0	MAIL 0
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 8	TYPE 2	CUDFDFCT 2	CUDFTSTC 2	CUDFTSTR 2
+				CUDFRQMT 4	CUDFRDMT 0	FLDR 0	TRGRESCL 6	TRGRPREPRE 1	TRGRPREMOD 0
+				TRGRPREEVT 4	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel - Intel(R) Xeon(R) Silver 4112 CPU @ 2.60GHz 
+3 projects that contain a total of 455 records were loaded.
+
+	108 issues
+	321 requirements
+	16 requirement documents
+	0 test cases
+	0 test runs
+	10 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 75.08 GB
+	Available: 25.26 GB
+
+
+3/30/2018 12:28:7 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 2.93 GB, Page File = 8.00 GB, Available Page File = 6.86 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.85 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+03/30/18 12:28:07 <Info>     Low Fragmentation Heap enabled.
+03/30/18 12:28:08 <Info>     Compacting is starting for the SERVER database.
+03/30/18 12:28:08 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+03/30/18 12:28:08 <Info>     Server log startup for Helix ALM 2017.3.0 Build 8 (Windows/x64)
+3/30/2018 12:28:31 Starting [{Largest: 8182.77 GB @ 0x0000000140F00000}, {Free Blocks: 124}, {Mem Free: 8191.82 GB}, {Mem Rsrv: 55.59 MB}, {Mem Comm: 128.89 MB}]
+03/30/18 12:28:31 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.3.0 Build 8 (Windows/x64)]
+3/30/2018 12:28:36 AST (Helix ALM Native)[{Largest: 8182.77 GB @ 0x0000000140F00000}, {Free Blocks: 126}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 59.75 MB}, {Mem Comm: 137.77 MB}]
+				DFCT 79	TSTC 0	TSTR 0	RQMT 299	RDMT 12	TASK 0
+				USER 15	UGRP 5	RPRT 3	DFLT 5	LINK 12	MAIL 0
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 6	TYPE 6	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 14	CUDFRDMT 3	FLDR 0	TRGRESCL 1	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+3/30/2018 12:28:38 AST Sandbox (Helix ALM Native)[{Largest: 8182.77 GB @ 0x0000000140F00000}, {Free Blocks: 128}, {Mem Free: 8191.79 GB}, {Mem Rsrv: 70.97 MB}, {Mem Comm: 143.40 MB}]
+				DFCT 29	TSTC 0	TSTR 0	RQMT 23	RDMT 4	TASK 0
+				USER 24	UGRP 5	RPRT 1	DFLT 0	LINK 6	MAIL 0
+				FOLDPUB 2	FOLDPVT 0	FOLDTYPE 5	TYPE 8	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+3/30/2018 12:28:41 AST Agile (Helix ALM Native)[{Largest: 8182.77 GB @ 0x0000000140F00000}, {Free Blocks: 129}, {Mem Free: 8191.79 GB}, {Mem Rsrv: 66.57 MB}, {Mem Comm: 148.84 MB}]
+				DFCT 0	TSTC 0	TSTR 0	RQMT 1	RDMT 0	TASK 0
+				USER 10	UGRP 4	RPRT 18	DFLT 22	LINK 0	MAIL 0
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 8	TYPE 2	CUDFDFCT 2	CUDFTSTC 2	CUDFTSTR 2
+				CUDFRQMT 4	CUDFRDMT 0	FLDR 0	TRGRESCL 6	TRGRPREPRE 1	TRGRPREMOD 0
+				TRGRPREEVT 4	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel - Intel(R) Xeon(R) Silver 4112 CPU @ 2.60GHz 
+3 projects that contain a total of 459 records were loaded.
+
+	108 issues
+	323 requirements
+	16 requirement documents
+	0 test cases
+	0 test runs
+	12 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 75.08 GB
+	Available: 22.98 GB
+
+4/19/2018 13:19:27 SQL query "insert into MSGLOG(idRecord, logdate, loglevel, message, errornum, dbname, username) values(?, ?, ?, ?, ?, ?, ?)" took 2638 milliseconds. Parameters:
+	[idRecord]=3000
+	[logdate]=2018-04-19T17:19:22Z
+	[loglevel]=3
+	[message]=Saving tab filters took 672 milliseconds.
+	[errornum]=0
+	[dbname]=
+	[username]=
+4/26/2018 13:54:26 AST Risk Sandbox (Helix ALM Native)[{Largest: 8182.77 GB @ 0x0000000140F00000}, {Free Blocks: 145}, {Mem Free: 8191.77 GB}, {Mem Rsrv: 71.59 MB}, {Mem Comm: 165.05 MB}]
+				DFCT 0	TSTC 0	TSTR 0	RQMT 0	RDMT 0	TASK 0
+				USER 24	UGRP 6	RPRT 3	DFLT 14	LINK 0	MAIL 0
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 6	TYPE 7	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 14	CUDFRDMT 3	FLDR 0	TRGRESCL 1	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+5/1/2018 20:15:58 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 2.99 GB, Page File = 8.00 GB, Available Page File = 6.92 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.84 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+05/01/18 20:15:58 <Info>     Low Fragmentation Heap enabled.
+05/01/18 20:15:58 <Info>     Compacting is starting for the SERVER database.
+05/01/18 20:15:58 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+05/01/18 20:15:58 <Info>     Server log startup for Helix ALM 2017.3.0 Build 8 (Windows/x64)
+5/1/2018 20:16:37 Starting [{Largest: 8182.76 GB @ 0x0000000141B50000}, {Free Blocks: 124}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 54.65 MB}, {Mem Comm: 137.10 MB}]
+05/01/18 20:16:37 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.3.0 Build 8 (Windows/x64)]
+5/1/2018 20:16:45 AST (Helix ALM Native)[{Largest: 8182.76 GB @ 0x0000000141B50000}, {Free Blocks: 126}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 69.11 MB}, {Mem Comm: 151.49 MB}]
+				DFCT 80	TSTC 0	TSTR 0	RQMT 1283	RDMT 15	TASK 0
+				USER 28	UGRP 7	RPRT 3	DFLT 14	LINK 18	MAIL 0
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 6	TYPE 9	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 14	CUDFRDMT 3	FLDR 0	TRGRESCL 1	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 1	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+5/1/2018 20:16:49 AST Sandbox (Helix ALM Native)[{Largest: 8182.76 GB @ 0x0000000141B50000}, {Free Blocks: 127}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 62.92 MB}, {Mem Comm: 158.72 MB}]
+				DFCT 29	TSTC 0	TSTR 0	RQMT 23	RDMT 4	TASK 0
+				USER 24	UGRP 5	RPRT 1	DFLT 0	LINK 6	MAIL 0
+				FOLDPUB 2	FOLDPVT 0	FOLDTYPE 5	TYPE 8	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+5/1/2018 20:16:50 AST Agile (Helix ALM Native)[{Largest: 8182.76 GB @ 0x0000000141B50000}, {Free Blocks: 129}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 58.37 MB}, {Mem Comm: 164.31 MB}]
+				DFCT 0	TSTC 0	TSTR 0	RQMT 3	RDMT 0	TASK 0
+				USER 10	UGRP 4	RPRT 18	DFLT 22	LINK 0	MAIL 0
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 8	TYPE 2	CUDFDFCT 2	CUDFTSTC 2	CUDFTSTR 2
+				CUDFRQMT 4	CUDFRDMT 0	FLDR 0	TRGRESCL 6	TRGRPREPRE 1	TRGRPREMOD 0
+				TRGRPREEVT 4	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+5/1/2018 20:16:52 AST Risk Sandbox (Helix ALM Native)[{Largest: 8182.76 GB @ 0x0000000141B50000}, {Free Blocks: 130}, {Mem Free: 8191.77 GB}, {Mem Rsrv: 69.78 MB}, {Mem Comm: 169.75 MB}]
+				DFCT 0	TSTC 0	TSTR 0	RQMT 17	RDMT 2	TASK 0
+				USER 24	UGRP 6	RPRT 3	DFLT 17	LINK 2	MAIL 0
+				FOLDPUB 1	FOLDPVT 1	FOLDTYPE 6	TYPE 8	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 25	CUDFRDMT 3	FLDR 1	TRGRESCL 1	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel - Intel(R) Xeon(R) Silver 4112 CPU @ 2.60GHz 
+4 projects that contain a total of 1473 records were loaded.
+
+	109 issues
+	1326 requirements
+	21 requirement documents
+	0 test cases
+	0 test runs
+	17 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 75.08 GB
+	Available: 14.48 GB
+
+
+5/1/2018 20:24:52 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 2.96 GB, Page File = 8.00 GB, Available Page File = 6.90 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.84 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+05/01/18 20:24:52 <Info>     Low Fragmentation Heap enabled.
+05/01/18 20:24:53 <Info>     Compacting is starting for the SERVER database.
+05/01/18 20:24:53 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+05/01/18 20:24:53 <Info>     Server log startup for Helix ALM 2017.3.0 Build 8 (Windows/x64)
+5/1/2018 20:25:38 Starting [{Largest: 8182.76 GB @ 0x00000001419D0000}, {Free Blocks: 126}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 55.41 MB}, {Mem Comm: 136.34 MB}]
+05/01/18 20:25:38 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.3.0 Build 8 (Windows/x64)]
+5/1/2018 20:25:44 AST (Helix ALM Native)[{Largest: 8182.76 GB @ 0x00000001419D0000}, {Free Blocks: 126}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 69.10 MB}, {Mem Comm: 151.50 MB}]
+				DFCT 80	TSTC 0	TSTR 0	RQMT 1283	RDMT 15	TASK 0
+				USER 28	UGRP 7	RPRT 3	DFLT 14	LINK 18	MAIL 0
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 6	TYPE 9	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 14	CUDFRDMT 3	FLDR 0	TRGRESCL 1	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 1	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+5/1/2018 20:25:45 AST Sandbox (Helix ALM Native)[{Largest: 8182.76 GB @ 0x00000001419D0000}, {Free Blocks: 128}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 62.51 MB}, {Mem Comm: 159.13 MB}]
+				DFCT 29	TSTC 0	TSTR 0	RQMT 23	RDMT 4	TASK 0
+				USER 24	UGRP 5	RPRT 1	DFLT 0	LINK 6	MAIL 0
+				FOLDPUB 2	FOLDPVT 0	FOLDTYPE 5	TYPE 8	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+5/1/2018 20:25:46 AST Agile (Helix ALM Native)[{Largest: 8182.76 GB @ 0x00000001419D0000}, {Free Blocks: 130}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 58.66 MB}, {Mem Comm: 164.01 MB}]
+				DFCT 0	TSTC 0	TSTR 0	RQMT 3	RDMT 0	TASK 0
+				USER 10	UGRP 4	RPRT 18	DFLT 22	LINK 0	MAIL 0
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 8	TYPE 2	CUDFDFCT 2	CUDFTSTC 2	CUDFTSTR 2
+				CUDFRQMT 4	CUDFRDMT 0	FLDR 0	TRGRESCL 6	TRGRPREPRE 1	TRGRPREMOD 0
+				TRGRPREEVT 4	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+5/1/2018 20:25:47 AST Risk Sandbox (Helix ALM Native)[{Largest: 8182.76 GB @ 0x00000001419D0000}, {Free Blocks: 131}, {Mem Free: 8191.77 GB}, {Mem Rsrv: 70.42 MB}, {Mem Comm: 169.11 MB}]
+				DFCT 0	TSTC 0	TSTR 0	RQMT 17	RDMT 2	TASK 0
+				USER 24	UGRP 6	RPRT 3	DFLT 17	LINK 2	MAIL 0
+				FOLDPUB 1	FOLDPVT 1	FOLDTYPE 6	TYPE 8	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 25	CUDFRDMT 3	FLDR 1	TRGRESCL 1	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel - Intel(R) Xeon(R) Silver 4112 CPU @ 2.60GHz 
+4 projects that contain a total of 1473 records were loaded.
+
+	109 issues
+	1326 requirements
+	21 requirement documents
+	0 test cases
+	0 test runs
+	17 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 75.08 GB
+	Available: 14.28 GB
+
+
+5/1/2018 20:37:17 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 2.96 GB, Page File = 8.00 GB, Available Page File = 6.90 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.84 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+05/01/18 20:37:17 <Info>     Low Fragmentation Heap enabled.
+05/01/18 20:37:18 <Info>     Compacting is starting for the SERVER database.
+05/01/18 20:37:18 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+05/01/18 20:37:18 <Info>     Server log startup for Helix ALM 2017.3.0 Build 8 (Windows/x64)
+5/1/2018 20:38:27 Starting [{Largest: 8182.78 GB @ 0x0000000140FB0000}, {Free Blocks: 120}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 54.41 MB}, {Mem Comm: 136.32 MB}]
+05/01/18 20:38:27 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.3.0 Build 8 (Windows/x64)]
+5/1/2018 20:38:46 AST (Helix ALM Native)[{Largest: 8182.78 GB @ 0x0000000140FB0000}, {Free Blocks: 123}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 69.14 MB}, {Mem Comm: 151.46 MB}]
+				DFCT 80	TSTC 0	TSTR 0	RQMT 1283	RDMT 15	TASK 0
+				USER 28	UGRP 7	RPRT 3	DFLT 14	LINK 18	MAIL 0
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 6	TYPE 9	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 14	CUDFRDMT 3	FLDR 0	TRGRESCL 1	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 1	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+5/1/2018 20:38:47 AST Sandbox (Helix ALM Native)[{Largest: 8182.78 GB @ 0x0000000140FB0000}, {Free Blocks: 124}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 63.14 MB}, {Mem Comm: 158.50 MB}]
+				DFCT 29	TSTC 0	TSTR 0	RQMT 23	RDMT 4	TASK 0
+				USER 24	UGRP 5	RPRT 1	DFLT 0	LINK 6	MAIL 0
+				FOLDPUB 2	FOLDPVT 0	FOLDTYPE 5	TYPE 8	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+5/1/2018 20:38:48 AST Agile (Helix ALM Native)[{Largest: 8182.78 GB @ 0x0000000140FB0000}, {Free Blocks: 126}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 58.48 MB}, {Mem Comm: 164.19 MB}]
+				DFCT 0	TSTC 0	TSTR 0	RQMT 3	RDMT 0	TASK 0
+				USER 10	UGRP 4	RPRT 18	DFLT 22	LINK 0	MAIL 0
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 8	TYPE 2	CUDFDFCT 2	CUDFTSTC 2	CUDFTSTR 2
+				CUDFRQMT 4	CUDFRDMT 0	FLDR 0	TRGRESCL 6	TRGRPREPRE 1	TRGRPREMOD 0
+				TRGRPREEVT 4	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+5/1/2018 20:38:50 AST Risk Sandbox (Helix ALM Native)[{Largest: 8182.78 GB @ 0x0000000140FB0000}, {Free Blocks: 128}, {Mem Free: 8191.77 GB}, {Mem Rsrv: 69.82 MB}, {Mem Comm: 169.71 MB}]
+				DFCT 0	TSTC 0	TSTR 0	RQMT 17	RDMT 2	TASK 0
+				USER 24	UGRP 6	RPRT 3	DFLT 17	LINK 2	MAIL 0
+				FOLDPUB 1	FOLDPVT 1	FOLDTYPE 6	TYPE 8	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 25	CUDFRDMT 3	FLDR 1	TRGRESCL 1	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel - Intel(R) Xeon(R) Silver 4112 CPU @ 2.60GHz 
+4 projects that contain a total of 1473 records were loaded.
+
+	109 issues
+	1326 requirements
+	21 requirement documents
+	0 test cases
+	0 test runs
+	17 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 75.08 GB
+	Available: 14.29 GB
+
+
+5/1/2018 21:24:46 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 2.98 GB, Page File = 8.00 GB, Available Page File = 6.90 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.84 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+05/01/18 21:24:46 <Info>     Low Fragmentation Heap enabled.
+05/01/18 21:24:47 <Info>     Compacting is starting for the SERVER database.
+05/01/18 21:24:47 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+05/01/18 21:24:47 <Info>     Server log startup for Helix ALM 2017.3.0 Build 8 (Windows/x64)
+5/1/2018 21:25:33 Starting [{Largest: 8182.76 GB @ 0x0000000141B00000}, {Free Blocks: 124}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 59.21 MB}, {Mem Comm: 136.54 MB}]
+05/01/18 21:25:33 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.3.0 Build 8 (Windows/x64)]
+5/1/2018 21:25:45 AST (Helix ALM Native)[{Largest: 8182.76 GB @ 0x0000000141B00000}, {Free Blocks: 126}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 69.32 MB}, {Mem Comm: 151.28 MB}]
+				DFCT 80	TSTC 0	TSTR 0	RQMT 1283	RDMT 15	TASK 0
+				USER 28	UGRP 7	RPRT 3	DFLT 14	LINK 18	MAIL 0
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 6	TYPE 9	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 14	CUDFRDMT 3	FLDR 0	TRGRESCL 1	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 1	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+5/1/2018 21:25:45 AST Sandbox (Helix ALM Native)[{Largest: 8182.76 GB @ 0x0000000141B00000}, {Free Blocks: 128}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 63.12 MB}, {Mem Comm: 158.52 MB}]
+				DFCT 29	TSTC 0	TSTR 0	RQMT 23	RDMT 4	TASK 0
+				USER 24	UGRP 5	RPRT 1	DFLT 0	LINK 6	MAIL 0
+				FOLDPUB 2	FOLDPVT 0	FOLDTYPE 5	TYPE 8	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+5/1/2018 21:25:47 AST Agile (Helix ALM Native)[{Largest: 8182.76 GB @ 0x0000000141B00000}, {Free Blocks: 130}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 58.56 MB}, {Mem Comm: 164.12 MB}]
+				DFCT 0	TSTC 0	TSTR 0	RQMT 3	RDMT 0	TASK 0
+				USER 10	UGRP 4	RPRT 18	DFLT 22	LINK 0	MAIL 0
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 8	TYPE 2	CUDFDFCT 2	CUDFTSTC 2	CUDFTSTR 2
+				CUDFRQMT 4	CUDFRDMT 0	FLDR 0	TRGRESCL 6	TRGRPREPRE 1	TRGRPREMOD 0
+				TRGRPREEVT 4	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+5/1/2018 21:25:49 AST Risk Sandbox (Helix ALM Native)[{Largest: 8182.76 GB @ 0x0000000141B00000}, {Free Blocks: 132}, {Mem Free: 8191.77 GB}, {Mem Rsrv: 69.98 MB}, {Mem Comm: 169.55 MB}]
+				DFCT 0	TSTC 0	TSTR 0	RQMT 17	RDMT 2	TASK 0
+				USER 24	UGRP 6	RPRT 3	DFLT 17	LINK 2	MAIL 0
+				FOLDPUB 1	FOLDPVT 1	FOLDTYPE 6	TYPE 8	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 25	CUDFRDMT 3	FLDR 1	TRGRESCL 1	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel - Intel(R) Xeon(R) Silver 4112 CPU @ 2.60GHz 
+4 projects that contain a total of 1473 records were loaded.
+
+	109 issues
+	1326 requirements
+	21 requirement documents
+	0 test cases
+	0 test runs
+	17 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 75.08 GB
+	Available: 14.29 GB
+
+
+5/2/2018 6:36:21 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 2.99 GB, Page File = 8.00 GB, Available Page File = 6.91 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.84 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+05/02/18 06:36:21 <Info>     Low Fragmentation Heap enabled.
+05/02/18 06:36:22 <Info>     Compacting is starting for the SERVER database.
+05/02/18 06:36:22 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+05/02/18 06:36:22 <Info>     Server log startup for Helix ALM 2017.3.0 Build 8 (Windows/x64)
+5/2/2018 6:36:53 Starting [{Largest: 8182.77 GB @ 0x00000001416D0000}, {Free Blocks: 127}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 55.54 MB}, {Mem Comm: 136.20 MB}]
+05/02/18 06:36:53 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.3.0 Build 8 (Windows/x64)]
+5/2/2018 6:37:15 AST (Helix ALM Native)[{Largest: 8182.77 GB @ 0x00000001416D0000}, {Free Blocks: 128}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 68.62 MB}, {Mem Comm: 151.98 MB}]
+				DFCT 80	TSTC 0	TSTR 0	RQMT 1283	RDMT 15	TASK 0
+				USER 28	UGRP 7	RPRT 3	DFLT 14	LINK 18	MAIL 0
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 6	TYPE 9	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 14	CUDFRDMT 3	FLDR 0	TRGRESCL 1	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 1	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+5/2/2018 6:37:16 AST Sandbox (Helix ALM Native)[{Largest: 8182.77 GB @ 0x00000001416D0000}, {Free Blocks: 130}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 62.76 MB}, {Mem Comm: 158.88 MB}]
+				DFCT 29	TSTC 0	TSTR 0	RQMT 23	RDMT 4	TASK 0
+				USER 24	UGRP 5	RPRT 1	DFLT 0	LINK 6	MAIL 0
+				FOLDPUB 2	FOLDPVT 0	FOLDTYPE 5	TYPE 8	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+5/2/2018 6:37:18 AST Agile (Helix ALM Native)[{Largest: 8182.77 GB @ 0x00000001416D0000}, {Free Blocks: 131}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 58.65 MB}, {Mem Comm: 164.02 MB}]
+				DFCT 0	TSTC 0	TSTR 0	RQMT 3	RDMT 0	TASK 0
+				USER 10	UGRP 4	RPRT 18	DFLT 22	LINK 0	MAIL 0
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 8	TYPE 2	CUDFDFCT 2	CUDFTSTC 2	CUDFTSTR 2
+				CUDFRQMT 4	CUDFRDMT 0	FLDR 0	TRGRESCL 6	TRGRPREPRE 1	TRGRPREMOD 0
+				TRGRPREEVT 4	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+5/2/2018 6:37:19 AST Risk Sandbox (Helix ALM Native)[{Largest: 8182.77 GB @ 0x00000001416D0000}, {Free Blocks: 133}, {Mem Free: 8191.77 GB}, {Mem Rsrv: 70.47 MB}, {Mem Comm: 169.06 MB}]
+				DFCT 0	TSTC 0	TSTR 0	RQMT 17	RDMT 2	TASK 0
+				USER 24	UGRP 6	RPRT 3	DFLT 17	LINK 2	MAIL 0
+				FOLDPUB 1	FOLDPVT 1	FOLDTYPE 6	TYPE 8	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 25	CUDFRDMT 3	FLDR 1	TRGRESCL 1	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel - Intel(R) Xeon(R) Silver 4112 CPU @ 2.60GHz 
+4 projects that contain a total of 1473 records were loaded.
+
+	109 issues
+	1326 requirements
+	21 requirement documents
+	0 test cases
+	0 test runs
+	17 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 75.08 GB
+	Available: 14.29 GB
+
+
+5/6/2018 10:48:33 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 3.03 GB, Page File = 8.00 GB, Available Page File = 6.95 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.84 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+05/06/18 10:48:33 <Info>     Low Fragmentation Heap enabled.
+05/06/18 10:48:34 <Info>     Compacting is starting for the SERVER database.
+05/06/18 10:48:34 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+05/06/18 10:48:34 <Info>     Server log startup for Helix ALM 2017.3.0 Build 8 (Windows/x64)
+5/6/2018 10:49:39 Starting [{Largest: 8182.77 GB @ 0x0000000141130000}, {Free Blocks: 123}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 55.43 MB}, {Mem Comm: 136.32 MB}]
+05/06/18 10:49:39 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.3.0 Build 8 (Windows/x64)]
+5/6/2018 10:50:15 AST (Helix ALM Native)[{Largest: 8182.77 GB @ 0x0000000141130000}, {Free Blocks: 124}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 68.29 MB}, {Mem Comm: 152.30 MB}]
+				DFCT 80	TSTC 0	TSTR 0	RQMT 1382	RDMT 16	TASK 0
+				USER 28	UGRP 7	RPRT 4	DFLT 15	LINK 83	MAIL 0
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 6	TYPE 10	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 14	CUDFRDMT 3	FLDR 0	TRGRESCL 1	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 1	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+5/6/2018 10:50:22 AST Sandbox (Helix ALM Native)[{Largest: 8182.77 GB @ 0x0000000141130000}, {Free Blocks: 125}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 62.05 MB}, {Mem Comm: 159.59 MB}]
+				DFCT 29	TSTC 0	TSTR 0	RQMT 23	RDMT 4	TASK 0
+				USER 24	UGRP 5	RPRT 1	DFLT 0	LINK 6	MAIL 0
+				FOLDPUB 2	FOLDPVT 0	FOLDTYPE 5	TYPE 8	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+5/6/2018 10:50:25 AST Agile (Helix ALM Native)[{Largest: 8182.77 GB @ 0x0000000141130000}, {Free Blocks: 127}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 58.11 MB}, {Mem Comm: 164.57 MB}]
+				DFCT 0	TSTC 0	TSTR 0	RQMT 3	RDMT 0	TASK 0
+				USER 10	UGRP 4	RPRT 18	DFLT 22	LINK 0	MAIL 0
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 8	TYPE 2	CUDFDFCT 2	CUDFTSTC 2	CUDFTSTR 2
+				CUDFRQMT 4	CUDFRDMT 0	FLDR 0	TRGRESCL 6	TRGRPREPRE 1	TRGRPREMOD 0
+				TRGRPREEVT 4	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+5/6/2018 10:50:28 AST Risk Sandbox (Helix ALM Native)[{Largest: 8182.77 GB @ 0x0000000141130000}, {Free Blocks: 129}, {Mem Free: 8191.77 GB}, {Mem Rsrv: 69.05 MB}, {Mem Comm: 170.48 MB}]
+				DFCT 0	TSTC 0	TSTR 0	RQMT 40	RDMT 3	TASK 0
+				USER 24	UGRP 6	RPRT 3	DFLT 18	LINK 2	MAIL 0
+				FOLDPUB 1	FOLDPVT 1	FOLDTYPE 6	TYPE 9	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 27	CUDFRDMT 3	FLDR 2	TRGRESCL 1	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel - Intel(R) Xeon(R) Silver 4112 CPU @ 2.60GHz 
+4 projects that contain a total of 1597 records were loaded.
+
+	109 issues
+	1448 requirements
+	23 requirement documents
+	0 test cases
+	0 test runs
+	17 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 75.08 GB
+	Available: 13.47 GB
+
+
+6/1/2018 13:57:11 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 2.91 GB, Page File = 8.00 GB, Available Page File = 6.84 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.84 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+06/01/18 13:57:11 <Info>     Low Fragmentation Heap enabled.
+06/01/18 13:57:13 <Info>     Compacting is starting for the SERVER database.
+06/01/18 13:57:13 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+06/01/18 13:57:13 <Info>     Server log startup for Helix ALM 2017.3.0 Build 8 (Windows/x64)
+06/01/18 13:57:45 <Error>    The Helix ALM Server was unable to establish a connection with License Server on initialization.
+6/1/2018 13:58:3 Starting [{Largest: 8182.72 GB @ 0x0000000141750000}, {Free Blocks: 124}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 55.79 MB}, {Mem Comm: 135.95 MB}]
+06/01/18 13:58:03 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.3.0 Build 8 (Windows/x64)]
+
+6/2/2018 18:54:18 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 2.04 GB, Page File = 8.00 GB, Available Page File = 5.89 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.84 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+06/02/18 18:54:18 <Info>     Low Fragmentation Heap enabled.
+06/02/18 18:54:21 <Error>    CSeapineServerDB::ObtainServerIDDatabaseLock was unable to obtain a database lock because the server reference ID didn't match.
+    DbDir=Server Database
+06/02/18 18:54:21 <Info>     Compacting is starting for the SERVER database.
+06/02/18 18:54:21 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+06/02/18 18:54:21 <Info>     Server log startup for Helix ALM 2017.3.0 Build 8 (Windows/x64)
+06/02/18 18:54:48 <Error>    The external integration service cannot start. module.js:471     throw err;     ^  Error: Cannot find module 'is-posix-bracket'     at Function.Module._resolveFilename (module.js:469:15)     at Function.Module._load (module.js:417:25)     at Module.require (module.js:497:17)     at require (internal/module.js:20:19)     at Object.<anonymous> (C:\Program Files\Perforce\Helix ALM\ExternalIntegrationService\node_modules\forever\node_modules\forever-monitor\node_modules\chokidar\node_modules\anymatch\node_modules\micromatch\node_modules\expand-brackets\index.js:10:22)     at Module._compile (module.js:570:32)     at Object.Module._extensions..js (module.js:579:10)     at Module.load (module.js:487:32)     at tryModuleLoad (module.js:446:12)     at Function.Module._load (module.js:438:3) 
+06/02/18 18:54:59 <Error>    The Helix ALM Server was unable to establish a connection with License Server on initialization.
+6/2/2018 18:54:59 Starting [{Largest: 8182.68 GB @ 0x0000000141180000}, {Free Blocks: 121}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 54.85 MB}, {Mem Comm: 136.90 MB}]
+06/02/18 18:54:59 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.3.0 Build 8 (Windows/x64)]
+
+6/2/2018 19:5:58 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 2.95 GB, Page File = 8.00 GB, Available Page File = 6.88 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.84 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+06/02/18 19:05:58 <Info>     Low Fragmentation Heap enabled.
+06/02/18 19:06:00 <Error>    CSeapineServerDB::ObtainServerIDDatabaseLock was unable to obtain a database lock because the server reference ID didn't match.
+    DbDir=Server Database
+06/02/18 19:06:00 <Info>     Compacting is starting for the SERVER database.
+06/02/18 19:06:00 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+06/02/18 19:06:00 <Info>     Server log startup for Helix ALM 2017.3.0 Build 8 (Windows/x64)
+06/02/18 19:06:30 <Error>    The external integration service cannot start. module.js:471     throw err;     ^  Error: Cannot find module 'is-posix-bracket'     at Function.Module._resolveFilename (module.js:469:15)     at Function.Module._load (module.js:417:25)     at Module.require (module.js:497:17)     at require (internal/module.js:20:19)     at Object.<anonymous> (C:\Program Files\Perforce\Helix ALM\ExternalIntegrationService\node_modules\forever\node_modules\forever-monitor\node_modules\chokidar\node_modules\anymatch\node_modules\micromatch\node_modules\expand-brackets\index.js:10:22)     at Module._compile (module.js:570:32)     at Object.Module._extensions..js (module.js:579:10)     at Module.load (module.js:487:32)     at tryModuleLoad (module.js:446:12)     at Function.Module._load (module.js:438:3) 
+6/2/2018 19:6:56 Starting [{Largest: 8182.60 GB @ 0x0000000141830000}, {Free Blocks: 125}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 56.36 MB}, {Mem Comm: 136.40 MB}]
+06/02/18 19:06:56 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.3.0 Build 8 (Windows/x64)]
+6/2/2018 19:7:22 AST (Helix ALM Native)[{Largest: 8182.60 GB @ 0x0000000141830000}, {Free Blocks: 128}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 67.75 MB}, {Mem Comm: 152.84 MB}]
+				DFCT 80	TSTC 0	TSTR 0	RQMT 1382	RDMT 16	TASK 0
+				USER 28	UGRP 7	RPRT 4	DFLT 15	LINK 83	MAIL 0
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 6	TYPE 10	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 14	CUDFRDMT 3	FLDR 0	TRGRESCL 1	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 1	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/2/2018 19:7:28 AST Sandbox (Helix ALM Native)[{Largest: 8182.60 GB @ 0x0000000141830000}, {Free Blocks: 130}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 62.73 MB}, {Mem Comm: 159.92 MB}]
+				DFCT 29	TSTC 0	TSTR 0	RQMT 23	RDMT 4	TASK 0
+				USER 24	UGRP 5	RPRT 1	DFLT 0	LINK 6	MAIL 0
+				FOLDPUB 2	FOLDPVT 0	FOLDTYPE 5	TYPE 8	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/2/2018 19:7:33 AST Agile (Helix ALM Native)[{Largest: 8182.60 GB @ 0x0000000141830000}, {Free Blocks: 131}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 57.67 MB}, {Mem Comm: 165.01 MB}]
+				DFCT 0	TSTC 0	TSTR 0	RQMT 3	RDMT 0	TASK 0
+				USER 10	UGRP 4	RPRT 18	DFLT 22	LINK 0	MAIL 0
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 8	TYPE 2	CUDFDFCT 2	CUDFTSTC 2	CUDFTSTR 2
+				CUDFRQMT 4	CUDFRDMT 0	FLDR 0	TRGRESCL 6	TRGRPREPRE 1	TRGRPREMOD 0
+				TRGRPREEVT 4	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/2/2018 19:7:39 AST Risk Sandbox (Helix ALM Native)[{Largest: 8182.60 GB @ 0x0000000141830000}, {Free Blocks: 133}, {Mem Free: 8191.77 GB}, {Mem Rsrv: 69.01 MB}, {Mem Comm: 170.52 MB}]
+				DFCT 0	TSTC 0	TSTR 0	RQMT 40	RDMT 3	TASK 0
+				USER 24	UGRP 6	RPRT 3	DFLT 18	LINK 2	MAIL 0
+				FOLDPUB 1	FOLDPVT 1	FOLDTYPE 6	TYPE 9	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 27	CUDFRDMT 3	FLDR 2	TRGRESCL 1	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel - Intel(R) Xeon(R) Silver 4112 CPU @ 2.60GHz 
+4 projects that contain a total of 1597 records were loaded.
+
+	109 issues
+	1448 requirements
+	23 requirement documents
+	0 test cases
+	0 test runs
+	17 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 75.08 GB
+	Available: 25.22 GB
+
+
+6/2/2018 19:14:14 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 3.05 GB, Page File = 8.00 GB, Available Page File = 6.98 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.84 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+06/02/18 19:14:14 <Info>     Low Fragmentation Heap enabled.
+06/02/18 19:14:17 <Error>    CSeapineServerDB::ObtainServerIDDatabaseLock was unable to obtain a database lock because the server reference ID didn't match.
+    DbDir=Server Database
+06/02/18 19:14:17 <Info>     Compacting is starting for the SERVER database.
+06/02/18 19:14:17 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+06/02/18 19:14:17 <Info>     Server log startup for Helix ALM 2017.3.0 Build 8 (Windows/x64)
+06/02/18 19:14:46 <Error>    The external integration service cannot start. module.js:471     throw err;     ^  Error: Cannot find module 'is-posix-bracket'     at Function.Module._resolveFilename (module.js:469:15)     at Function.Module._load (module.js:417:25)     at Module.require (module.js:497:17)     at require (internal/module.js:20:19)     at Object.<anonymous> (C:\Program Files\Perforce\Helix ALM\ExternalIntegrationService\node_modules\forever\node_modules\forever-monitor\node_modules\chokidar\node_modules\anymatch\node_modules\micromatch\node_modules\expand-brackets\index.js:10:22)     at Module._compile (module.js:570:32)     at Object.Module._extensions..js (module.js:579:10)     at Module.load (module.js:487:32)     at tryModuleLoad (module.js:446:12)     at Function.Module._load (module.js:438:3) 
+6/2/2018 19:15:23 Starting [{Largest: 8182.76 GB @ 0x0000000141AD0000}, {Free Blocks: 120}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 54.40 MB}, {Mem Comm: 136.34 MB}]
+06/02/18 19:15:23 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.3.0 Build 8 (Windows/x64)]
+6/2/2018 19:15:40 AST (Helix ALM Native)[{Largest: 8182.76 GB @ 0x0000000141AD0000}, {Free Blocks: 121}, {Mem Free: 8191.79 GB}, {Mem Rsrv: 66.73 MB}, {Mem Comm: 152.86 MB}]
+				DFCT 80	TSTC 0	TSTR 0	RQMT 1382	RDMT 16	TASK 0
+				USER 28	UGRP 7	RPRT 4	DFLT 15	LINK 83	MAIL 0
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 6	TYPE 10	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 14	CUDFRDMT 3	FLDR 0	TRGRESCL 1	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 1	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/2/2018 19:15:45 AST Sandbox (Helix ALM Native)[{Largest: 8182.76 GB @ 0x0000000141AD0000}, {Free Blocks: 122}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 61.77 MB}, {Mem Comm: 159.86 MB}]
+				DFCT 29	TSTC 0	TSTR 0	RQMT 23	RDMT 4	TASK 0
+				USER 24	UGRP 5	RPRT 1	DFLT 0	LINK 6	MAIL 0
+				FOLDPUB 2	FOLDPVT 0	FOLDTYPE 5	TYPE 8	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/2/2018 19:15:53 AST Agile (Helix ALM Native)[{Largest: 8182.76 GB @ 0x0000000141AD0000}, {Free Blocks: 123}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 57.64 MB}, {Mem Comm: 165.04 MB}]
+				DFCT 0	TSTC 0	TSTR 0	RQMT 3	RDMT 0	TASK 0
+				USER 10	UGRP 4	RPRT 18	DFLT 22	LINK 0	MAIL 0
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 8	TYPE 2	CUDFDFCT 2	CUDFTSTC 2	CUDFTSTR 2
+				CUDFRQMT 4	CUDFRDMT 0	FLDR 0	TRGRESCL 6	TRGRPREPRE 1	TRGRPREMOD 0
+				TRGRPREEVT 4	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/2/2018 19:15:59 AST Risk Sandbox (Helix ALM Native)[{Largest: 8182.76 GB @ 0x0000000141AD0000}, {Free Blocks: 125}, {Mem Free: 8191.77 GB}, {Mem Rsrv: 68.84 MB}, {Mem Comm: 170.69 MB}]
+				DFCT 0	TSTC 0	TSTR 0	RQMT 40	RDMT 3	TASK 0
+				USER 24	UGRP 6	RPRT 3	DFLT 18	LINK 2	MAIL 0
+				FOLDPUB 1	FOLDPVT 1	FOLDTYPE 6	TYPE 9	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 27	CUDFRDMT 3	FLDR 2	TRGRESCL 1	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel - Intel(R) Xeon(R) Silver 4112 CPU @ 2.60GHz 
+4 projects that contain a total of 1597 records were loaded.
+
+	109 issues
+	1448 requirements
+	23 requirement documents
+	0 test cases
+	0 test runs
+	17 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 75.08 GB
+	Available: 25.23 GB
+
+
+6/2/2018 19:39:34 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 3.04 GB, Page File = 8.00 GB, Available Page File = 6.98 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.84 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+06/02/18 19:39:34 <Info>     Low Fragmentation Heap enabled.
+06/02/18 19:39:38 <Error>    CSeapineServerDB::ObtainServerIDDatabaseLock was unable to obtain a database lock because the server reference ID didn't match.
+    DbDir=Server Database
+06/02/18 19:39:38 <Info>     Compacting is starting for the SERVER database.
+06/02/18 19:39:38 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+06/02/18 19:39:38 <Info>     Server log startup for Helix ALM 2017.3.0 Build 8 (Windows/x64)
+06/02/18 19:39:50 <Error>    The external integration service cannot start. module.js:471     throw err;     ^  Error: Cannot find module 'is-posix-bracket'     at Function.Module._resolveFilename (module.js:469:15)     at Function.Module._load (module.js:417:25)     at Module.require (module.js:497:17)     at require (internal/module.js:20:19)     at Object.<anonymous> (C:\Program Files\Perforce\Helix ALM\ExternalIntegrationService\node_modules\forever\node_modules\forever-monitor\node_modules\chokidar\node_modules\anymatch\node_modules\micromatch\node_modules\expand-brackets\index.js:10:22)     at Module._compile (module.js:570:32)     at Object.Module._extensions..js (module.js:579:10)     at Module.load (module.js:487:32)     at tryModuleLoad (module.js:446:12)     at Function.Module._load (module.js:438:3) 
+6/2/2018 19:40:19 Starting [{Largest: 8182.77 GB @ 0x00000001411D0000}, {Free Blocks: 124}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 55.38 MB}, {Mem Comm: 136.37 MB}]
+06/02/18 19:40:19 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.3.0 Build 8 (Windows/x64)]
+6/2/2018 19:40:31 AST (Helix ALM Native)[{Largest: 8182.77 GB @ 0x00000001411D0000}, {Free Blocks: 126}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 68.20 MB}, {Mem Comm: 152.39 MB}]
+				DFCT 80	TSTC 0	TSTR 0	RQMT 1382	RDMT 16	TASK 0
+				USER 28	UGRP 7	RPRT 4	DFLT 15	LINK 83	MAIL 0
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 6	TYPE 10	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 14	CUDFRDMT 3	FLDR 0	TRGRESCL 1	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 1	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/2/2018 19:40:39 AST Sandbox (Helix ALM Native)[{Largest: 8182.77 GB @ 0x00000001411D0000}, {Free Blocks: 127}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 62.17 MB}, {Mem Comm: 159.46 MB}]
+				DFCT 29	TSTC 0	TSTR 0	RQMT 23	RDMT 4	TASK 0
+				USER 24	UGRP 5	RPRT 1	DFLT 0	LINK 6	MAIL 0
+				FOLDPUB 2	FOLDPVT 0	FOLDTYPE 5	TYPE 8	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/2/2018 19:40:44 AST Agile (Helix ALM Native)[{Largest: 8182.77 GB @ 0x00000001411D0000}, {Free Blocks: 129}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 56.72 MB}, {Mem Comm: 164.95 MB}]
+				DFCT 0	TSTC 0	TSTR 0	RQMT 3	RDMT 0	TASK 0
+				USER 10	UGRP 4	RPRT 18	DFLT 22	LINK 0	MAIL 0
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 8	TYPE 2	CUDFDFCT 2	CUDFTSTC 2	CUDFTSTR 2
+				CUDFRQMT 4	CUDFRDMT 0	FLDR 0	TRGRESCL 6	TRGRPREPRE 1	TRGRPREMOD 0
+				TRGRPREEVT 4	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/2/2018 19:40:49 AST Risk Sandbox (Helix ALM Native)[{Largest: 8182.77 GB @ 0x00000001411D0000}, {Free Blocks: 130}, {Mem Free: 8191.77 GB}, {Mem Rsrv: 67.34 MB}, {Mem Comm: 171.18 MB}]
+				DFCT 0	TSTC 0	TSTR 0	RQMT 40	RDMT 3	TASK 0
+				USER 24	UGRP 6	RPRT 3	DFLT 18	LINK 2	MAIL 0
+				FOLDPUB 1	FOLDPVT 1	FOLDTYPE 6	TYPE 9	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 27	CUDFRDMT 3	FLDR 2	TRGRESCL 1	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel - Intel(R) Xeon(R) Silver 4112 CPU @ 2.60GHz 
+4 projects that contain a total of 1597 records were loaded.
+
+	109 issues
+	1448 requirements
+	23 requirement documents
+	0 test cases
+	0 test runs
+	17 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 75.08 GB
+	Available: 25.23 GB
+
+
+6/6/2018 7:16:3 <System Info> Processor = x64, Processors = 1, Physical Mem = 4.00 GB, Available Physical Mem = 331.60 MB, Page File = 8.00 GB, Available Page File = 4.12 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.84 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+06/06/18 07:16:03 <Info>     Low Fragmentation Heap enabled.
+06/06/18 07:16:03 <Error>    CSeapineServerDB::ObtainServerIDDatabaseLock was unable to obtain a database lock because the server reference ID didn't match.
+    DbDir=Server Database
+06/06/18 07:16:03 <Info>     Compacting is starting for the SERVER database.
+06/06/18 07:16:03 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+06/06/18 07:16:03 <Info>     Server log startup for Helix ALM 2017.3.0 Build 8 (Windows/x64)
+06/06/18 07:16:04 <Error>    The external integration service cannot start. module.js:471     throw err;     ^  Error: Cannot find module 'is-posix-bracket'     at Function.Module._resolveFilename (module.js:469:15)     at Function.Module._load (module.js:417:25)     at Module.require (module.js:497:17)     at require (internal/module.js:20:19)     at Object.<anonymous> (C:\Program Files\Perforce\Helix ALM\ExternalIntegrationService\node_modules\forever\node_modules\forever-monitor\node_modules\chokidar\node_modules\anymatch\node_modules\micromatch\node_modules\expand-brackets\index.js:10:22)     at Module._compile (module.js:570:32)     at Object.Module._extensions..js (module.js:579:10)     at Module.load (module.js:487:32)     at tryModuleLoad (module.js:446:12)     at Function.Module._load (module.js:438:3) 
+6/6/2018 7:16:8 Starting [{Largest: 8182.71 GB @ 0x0000000140C60000}, {Free Blocks: 118}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 55.43 MB}, {Mem Comm: 136.32 MB}]
+06/06/18 07:16:08 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.3.0 Build 8 (Windows/x64)]
+6/6/2018 7:16:13 AST (Helix ALM Native)[{Largest: 8182.71 GB @ 0x0000000140C60000}, {Free Blocks: 121}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 65.66 MB}, {Mem Comm: 154.94 MB}]
+				DFCT 80	TSTC 0	TSTR 0	RQMT 1540	RDMT 18	TASK 0
+				USER 30	UGRP 7	RPRT 8	DFLT 27	LINK 90	MAIL 0
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 6	TYPE 14	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 27	CUDFRDMT 3	FLDR 1	TRGRESCL 1	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 1	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/6/2018 7:16:18 AST Sandbox (Helix ALM Native)[{Largest: 8182.71 GB @ 0x0000000140C60000}, {Free Blocks: 122}, {Mem Free: 8191.78 GB}, {Mem Rsrv: 60.15 MB}, {Mem Comm: 161.49 MB}]
+				DFCT 29	TSTC 0	TSTR 0	RQMT 23	RDMT 4	TASK 0
+				USER 24	UGRP 5	RPRT 1	DFLT 0	LINK 6	MAIL 0
+				FOLDPUB 2	FOLDPVT 0	FOLDTYPE 5	TYPE 8	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/6/2018 7:16:22 AST Agile (Helix ALM Native)[{Largest: 8182.71 GB @ 0x0000000140C60000}, {Free Blocks: 124}, {Mem Free: 8191.77 GB}, {Mem Rsrv: 71.39 MB}, {Mem Comm: 167.09 MB}]
+				DFCT 0	TSTC 0	TSTR 0	RQMT 3	RDMT 0	TASK 0
+				USER 10	UGRP 4	RPRT 18	DFLT 22	LINK 0	MAIL 0
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 8	TYPE 2	CUDFDFCT 2	CUDFTSTC 2	CUDFTSTR 2
+				CUDFRQMT 4	CUDFRDMT 0	FLDR 0	TRGRESCL 6	TRGRPREPRE 1	TRGRPREMOD 0
+				TRGRPREEVT 4	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+6/6/2018 7:16:27 AST Risk Sandbox (Helix ALM Native)[{Largest: 8182.71 GB @ 0x0000000140C60000}, {Free Blocks: 126}, {Mem Free: 8191.77 GB}, {Mem Rsrv: 66.73 MB}, {Mem Comm: 172.80 MB}]
+				DFCT 0	TSTC 0	TSTR 0	RQMT 40	RDMT 3	TASK 0
+				USER 27	UGRP 6	RPRT 3	DFLT 18	LINK 2	MAIL 0
+				FOLDPUB 1	FOLDPVT 1	FOLDTYPE 6	TYPE 9	CUDFDFCT 0	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 27	CUDFRDMT 3	FLDR 2	TRGRESCL 1	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel - Intel(R) Xeon(R) Silver 4112 CPU @ 2.60GHz 
+4 projects that contain a total of 1757 records were loaded.
+
+	109 issues
+	1606 requirements
+	25 requirement documents
+	0 test cases
+	0 test runs
+	17 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Perforce\Helix ALM\
+	Drive name: 
+	File system type: NTFS
+	Size: 75.08 GB
+	Available: 12.07 GB
+
