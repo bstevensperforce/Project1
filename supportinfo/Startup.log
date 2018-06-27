@@ -1,0 +1,2237 @@
+
+2/18/2015 15:56:3	<System Info> Processor = x64, Processors = 1, Physical Mem = 1.75 GB, Available Physical Mem = 689.21 MB, Page File = 3.50 GB, Available Page File = 2.50 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.86 GB, Page Size = 4096.00 bytes, Microsoft  Service Pack 1 build - 7601
+02/18/15 15:56:03 <Info>     Low Fragmentation Heap enabled.
+02/18/15 15:56:14 <Info>     The journal_mode pragma was successfully changed from delete to wal in the SERVER database.
+02/18/15 15:56:14 <Info>     Compacting is starting for the SERVER database.
+02/18/15 15:56:14 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+02/18/15 15:56:14 <Info>     Server log startup for TestTrack 2015.0.1 Build 23 (Windows/x64)
+02/18/15 15:56:15 <Error>    The TestTrack Server was unable to establish a connection with License Server on initialization.
+2/18/2015 15:56:19	Starting [{Largest: 8181.69 GB @ 0x000000018004B000}, {Free Blocks: 124}, {Mem Free: 8191.83 GB}, {Mem Rsrv: 56.85 MB}, {Mem Comm: 114.96 MB}]
+02/18/15 15:56:19 <Info>     TestTrack Server initialized. Accepting connection requests. [2015.0.1 Build 23 (Windows/x64)]
+2/18/2015 15:57:26	Sample Project (TestTrack Native)[{Largest: 8181.69 GB @ 0x000000018004B000}, {Free Blocks: 128}, {Mem Free: 8191.82 GB}, {Mem Rsrv: 56.55 MB}, {Mem Comm: 127.63 MB}]
+				DFCT 40	TSTC 46	TSTR 101	RQMT 156	RDMT 6	TASK 0
+				USER 14	UGRP 8	RPRT 32	DFLT 41	LINK 43	MAIL 15
+				FOLDPUB 3	FOLDPVT 0	FOLDTYPE 6	TYPE 5	CUDFDFCT 5	CUDFTSTC 6	CUDFTSTR 7
+				CUDFRQMT 9	CUDFRDMT 3	FLDR 0	TRGRESCL 15	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 7	TRGRPREEXE 0	TRGRPOSTEXE 0
+2/18/2015 15:57:27	Sample Scrum Project (TestTrack Native)[{Largest: 8181.69 GB @ 0x000000018004B000}, {Free Blocks: 129}, {Mem Free: 8191.80 GB}, {Mem Rsrv: 66.14 MB}, {Mem Comm: 134.89 MB}]
+				DFCT 11	TSTC 16	TSTR 16	RQMT 39	RDMT 6	TASK 0
+				USER 8	UGRP 4	RPRT 17	DFLT 18	LINK 36	MAIL 3
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 8	TYPE 2	CUDFDFCT 2	CUDFTSTC 2	CUDFTSTR 2
+				CUDFRQMT 4	CUDFRDMT 0	FLDR 0	TRGRESCL 6	TRGRPREPRE 1	TRGRPREMOD 0
+				TRGRPREEVT 4	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+2/19/2015 2:45:58	<System Info> Processor = x64, Processors = 1, Physical Mem = 1.75 GB, Available Physical Mem = 1.34 GB, Page File = 3.50 GB, Available Page File = 3.10 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.86 GB, Page Size = 4096.00 bytes, Microsoft  Service Pack 1 build - 7601
+02/19/15 02:45:58 <Info>     Low Fragmentation Heap enabled.
+02/19/15 02:46:02 <Info>     The journal_mode pragma was successfully changed from delete to wal in the SERVER database.
+02/19/15 02:46:02 <Info>     Compacting is starting for the SERVER database.
+02/19/15 02:46:02 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+02/19/15 02:46:02 <Info>     Server log startup for TestTrack 2015.0.1 Build 23 (Windows/x64)
+2/19/2015 2:46:4	Starting [{Largest: 8181.85 GB @ 0x000000018004B000}, {Free Blocks: 114}, {Mem Free: 8191.84 GB}, {Mem Rsrv: 55.72 MB}, {Mem Comm: 111.30 MB}]
+02/19/15 02:46:04 <Info>     TestTrack Server initialized. Accepting connection requests. [2015.0.1 Build 23 (Windows/x64)]
+2/19/2015 2:46:8	Sample Project (TestTrack Native)[{Largest: 8181.85 GB @ 0x000000018004B000}, {Free Blocks: 115}, {Mem Free: 8191.82 GB}, {Mem Rsrv: 56.55 MB}, {Mem Comm: 123.51 MB}]
+				DFCT 40	TSTC 46	TSTR 101	RQMT 156	RDMT 6	TASK 0
+				USER 14	UGRP 8	RPRT 32	DFLT 41	LINK 43	MAIL 15
+				FOLDPUB 3	FOLDPVT 0	FOLDTYPE 6	TYPE 5	CUDFDFCT 5	CUDFTSTC 6	CUDFTSTR 7
+				CUDFRQMT 9	CUDFRDMT 3	FLDR 0	TRGRESCL 15	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 7	TRGRPREEXE 0	TRGRPOSTEXE 0
+2/19/2015 2:46:9	Sample Scrum Project (TestTrack Native)[{Largest: 8181.85 GB @ 0x000000018004B000}, {Free Blocks: 117}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 66.69 MB}, {Mem Comm: 130.23 MB}]
+				DFCT 11	TSTC 16	TSTR 16	RQMT 39	RDMT 6	TASK 0
+				USER 8	UGRP 4	RPRT 17	DFLT 18	LINK 36	MAIL 3
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 8	TYPE 2	CUDFDFCT 2	CUDFTSTC 2	CUDFTSTR 2
+				CUDFRQMT 4	CUDFRDMT 0	FLDR 0	TRGRESCL 6	TRGRPREPRE 1	TRGRPREMOD 0
+				TRGRPREEVT 4	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+2/19/2015 21:32:21	<System Info> Processor = x64, Processors = 1, Physical Mem = 1.75 GB, Available Physical Mem = 1.38 GB, Page File = 3.50 GB, Available Page File = 3.11 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.86 GB, Page Size = 4096.00 bytes, Microsoft  Service Pack 1 build - 7601
+02/19/15 21:32:21 <Info>     Low Fragmentation Heap enabled.
+02/19/15 21:32:23 <Info>     The journal_mode pragma was successfully changed from delete to wal in the SERVER database.
+02/19/15 21:32:23 <Info>     Compacting is starting for the SERVER database.
+02/19/15 21:32:23 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+02/19/15 21:32:24 <Info>     Server log startup for TestTrack 2015.0.1 Build 23 (Windows/x64)
+2/19/2015 21:32:26	Starting [{Largest: 8181.79 GB @ 0x000000018004B000}, {Free Blocks: 115}, {Mem Free: 8191.84 GB}, {Mem Rsrv: 55.58 MB}, {Mem Comm: 111.45 MB}]
+02/19/15 21:32:26 <Info>     TestTrack Server initialized. Accepting connection requests. [2015.0.1 Build 23 (Windows/x64)]
+2/19/2015 21:32:29	Sample Project (TestTrack Native)[{Largest: 8181.79 GB @ 0x000000018004B000}, {Free Blocks: 115}, {Mem Free: 8191.82 GB}, {Mem Rsrv: 56.51 MB}, {Mem Comm: 123.56 MB}]
+				DFCT 40	TSTC 46	TSTR 101	RQMT 156	RDMT 6	TASK 0
+				USER 14	UGRP 8	RPRT 32	DFLT 41	LINK 43	MAIL 15
+				FOLDPUB 3	FOLDPVT 0	FOLDTYPE 6	TYPE 5	CUDFDFCT 5	CUDFTSTC 6	CUDFTSTR 7
+				CUDFRQMT 9	CUDFRDMT 3	FLDR 0	TRGRESCL 15	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 7	TRGRPREEXE 0	TRGRPOSTEXE 0
+2/19/2015 21:32:30	Sample Scrum Project (TestTrack Native)[{Largest: 8181.79 GB @ 0x000000018004B000}, {Free Blocks: 117}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 66.44 MB}, {Mem Comm: 130.48 MB}]
+				DFCT 11	TSTC 16	TSTR 16	RQMT 39	RDMT 6	TASK 0
+				USER 8	UGRP 4	RPRT 17	DFLT 18	LINK 36	MAIL 3
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 8	TYPE 2	CUDFDFCT 2	CUDFTSTC 2	CUDFTSTR 2
+				CUDFRQMT 4	CUDFRDMT 0	FLDR 0	TRGRESCL 6	TRGRPREPRE 1	TRGRPREMOD 0
+				TRGRPREEVT 4	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+03/04/15 15:41:38 <Warning>  TestTrack Server is already running.  An attempt to start a second instance of the server was discarded.
+03/04/15 15:41:42 <Warning>  TestTrack Server is already running.  An attempt to start a second instance of the server was discarded.
+
+3/4/2015 15:41:48	<System Info> Processor = x64, Processors = 1, Physical Mem = 1.75 GB, Available Physical Mem = 0.99 GB, Page File = 3.50 GB, Available Page File = 2.49 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.86 GB, Page Size = 4096.00 bytes, Microsoft  Service Pack 1 build - 7601
+03/04/15 15:41:48 <Info>     Low Fragmentation Heap enabled.
+03/04/15 15:41:49 <Info>     The journal_mode pragma was successfully changed from delete to wal in the SERVER database.
+03/04/15 15:41:49 <Info>     Compacting is starting for the SERVER database.
+03/04/15 15:41:49 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+03/04/15 15:41:49 <Info>     Server log startup for TestTrack 2015.0.1 Build 23 (Windows/x64)
+3/4/2015 15:41:50	Starting [{Largest: 8181.61 GB @ 0x000000018004B000}, {Free Blocks: 115}, {Mem Free: 8191.83 GB}, {Mem Rsrv: 55.61 MB}, {Mem Comm: 115.37 MB}]
+03/04/15 15:41:50 <Info>     TestTrack Server initialized. Accepting connection requests. [2015.0.1 Build 23 (Windows/x64)]
+3/4/2015 15:41:52	Sample Project (TestTrack Native)[{Largest: 8181.61 GB @ 0x000000018004B000}, {Free Blocks: 117}, {Mem Free: 8191.82 GB}, {Mem Rsrv: 56.01 MB}, {Mem Comm: 128.00 MB}]
+				DFCT 40	TSTC 46	TSTR 101	RQMT 156	RDMT 6	TASK 0
+				USER 17	UGRP 8	RPRT 32	DFLT 41	LINK 43	MAIL 15
+				FOLDPUB 3	FOLDPVT 0	FOLDTYPE 6	TYPE 5	CUDFDFCT 5	CUDFTSTC 6	CUDFTSTR 7
+				CUDFRQMT 9	CUDFRDMT 3	FLDR 0	TRGRESCL 15	TRGRPREPRE 0	TRGRPREMOD 0
+				TRGRPREEVT 0	TRGRPRENOTFY 7	TRGRPREEXE 0	TRGRPOSTEXE 0
+3/4/2015 15:41:53	Sample Scrum Project (TestTrack Native)[{Largest: 8181.61 GB @ 0x000000018004B000}, {Free Blocks: 117}, {Mem Free: 8191.80 GB}, {Mem Rsrv: 65.77 MB}, {Mem Comm: 135.09 MB}]
+				DFCT 11	TSTC 16	TSTR 16	RQMT 39	RDMT 6	TASK 0
+				USER 11	UGRP 4	RPRT 17	DFLT 18	LINK 36	MAIL 3
+				FOLDPUB 1	FOLDPVT 0	FOLDTYPE 8	TYPE 2	CUDFDFCT 2	CUDFTSTC 2	CUDFTSTR 2
+				CUDFRQMT 4	CUDFRDMT 0	FLDR 0	TRGRESCL 6	TRGRPREPRE 1	TRGRPREMOD 0
+				TRGRPREEVT 4	TRGRPRENOTFY 1	TRGRPREEXE 0	TRGRPOSTEXE 0
+3/4/2015 15:42:41	HFN_converted (TestTrack Native)[{Largest: 8181.61 GB @ 0x000000018004B000}, {Free Blocks: 122}, {Mem Free: 8191.45 GB}, {Mem Rsrv: 65.88 MB}, {Mem Comm: 501.06 MB}]
+				DFCT 12639	TSTC 0	TSTR 0	RQMT 0	RDMT 0	TASK 1
+				USER 95	UGRP 6	RPRT 70	DFLT 214	LINK 507	MAIL 0
+				FOLDPUB 2	FOLDPVT 2	FOLDTYPE 7	TYPE 3	CUDFDFCT 21	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 11	TRGRPREMOD 0
+				TRGRPREEVT 2	TRGRPRENOTFY 4	TRGRPREEXE 0	TRGRPOSTEXE 0
+03/04/15 16:14:45 <Warning>  TestTrack Server is already running.  An attempt to start a second instance of the server was discarded.
+03/04/15 16:14:51 <Warning>  TestTrack Server is already running.  An attempt to start a second instance of the server was discarded.
+03/04/15 16:14:56 <Warning>  TestTrack Server is already running.  An attempt to start a second instance of the server was discarded.
+03/04/15 16:15:00 <Warning>  TestTrack Server is already running.  An attempt to start a second instance of the server was discarded.
+03/04/15 16:15:04 <Warning>  TestTrack Server is already running.  An attempt to start a second instance of the server was discarded.
+
+3/4/2015 16:15:10	<System Info> Processor = x64, Processors = 1, Physical Mem = 1.75 GB, Available Physical Mem = 1.00 GB, Page File = 3.50 GB, Available Page File = 2.51 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.86 GB, Page Size = 4096.00 bytes, Microsoft  Service Pack 1 build - 7601
+03/04/15 16:15:10 <Info>     Low Fragmentation Heap enabled.
+03/04/15 16:15:11 <Info>     Compacting is starting for the SERVER database.
+03/04/15 16:15:11 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+03/04/15 16:15:11 <Info>     Server log startup for TestTrack 2015.0.1 Build 23 (Windows/x64)
+3/4/2015 16:15:12	Starting [{Largest: 8181.68 GB @ 0x000000018004B000}, {Free Blocks: 112}, {Mem Free: 8191.83 GB}, {Mem Rsrv: 55.45 MB}, {Mem Comm: 115.52 MB}]
+03/04/15 16:15:12 <Info>     TestTrack Server initialized. Accepting connection requests. [2015.0.1 Build 23 (Windows/x64)]
+3/4/2015 16:15:41	HFN_converted (TestTrack Native)[{Largest: 8181.68 GB @ 0x000000018004B000}, {Free Blocks: 115}, {Mem Free: 8191.46 GB}, {Mem Rsrv: 65.67 MB}, {Mem Comm: 483.04 MB}]
+				DFCT 12639	TSTC 0	TSTR 0	RQMT 0	RDMT 0	TASK 1
+				USER 95	UGRP 6	RPRT 70	DFLT 214	LINK 507	MAIL 0
+				FOLDPUB 2	FOLDPVT 2	FOLDTYPE 7	TYPE 3	CUDFDFCT 21	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 11	TRGRPREMOD 0
+				TRGRPREEVT 2	TRGRPRENOTFY 4	TRGRPREEXE 0	TRGRPOSTEXE 0
+3/4/2015 16:18:5	HFN (TestTrack Native)[{Largest: 8181.68 GB @ 0x000000018004B000}, {Free Blocks: 116}, {Mem Free: 8191.46 GB}, {Mem Rsrv: 63.57 MB}, {Mem Comm: 485.47 MB}]
+				DFCT 12639	TSTC 0	TSTR 0	RQMT 0	RDMT 0	TASK 1
+				USER 95	UGRP 6	RPRT 70	DFLT 214	LINK 507	MAIL 0
+				FOLDPUB 2	FOLDPVT 2	FOLDTYPE 7	TYPE 3	CUDFDFCT 21	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 11	TRGRPREMOD 0
+				TRGRPREEVT 2	TRGRPRENOTFY 4	TRGRPREEXE 0	TRGRPOSTEXE 0
+3/9/2015 8:30:28	HFN (TestTrack Native)[{Largest: 8181.68 GB @ 0x000000018004B000}, {Free Blocks: 123}, {Mem Free: 8191.46 GB}, {Mem Rsrv: 60.34 MB}, {Mem Comm: 488.13 MB}]
+				DFCT 12680	TSTC 0	TSTR 0	RQMT 0	RDMT 0	TASK 1
+				USER 96	UGRP 6	RPRT 70	DFLT 214	LINK 507	MAIL 0
+				FOLDPUB 2	FOLDPVT 2	FOLDTYPE 7	TYPE 3	CUDFDFCT 21	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 11	TRGRPREMOD 0
+				TRGRPREEVT 2	TRGRPRENOTFY 4	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+3/9/2015 8:47:9	<System Info> Processor = x64, Processors = 1, Physical Mem = 1.75 GB, Available Physical Mem = 1.25 GB, Page File = 3.50 GB, Available Page File = 2.42 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.86 GB, Page Size = 4096.00 bytes, Microsoft  Service Pack 1 build - 7601
+03/09/15 08:47:09 <Info>     Low Fragmentation Heap enabled.
+03/09/15 08:47:10 <Info>     The journal_mode pragma was successfully changed from delete to wal in the SERVER database.
+03/09/15 08:47:11 <Info>     Compacting is starting for the SERVER database.
+03/09/15 08:47:11 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+03/09/15 08:47:11 <Info>     Server log startup for TestTrack 2015.0.1 Build 23 (Windows/x64)
+3/9/2015 8:47:22	Starting [{Largest: 8181.60 GB @ 0x000000018004B000}, {Free Blocks: 113}, {Mem Free: 8191.83 GB}, {Mem Rsrv: 55.64 MB}, {Mem Comm: 115.34 MB}]
+03/09/15 08:47:22 <Info>     TestTrack Server initialized. Accepting connection requests. [2015.0.1 Build 23 (Windows/x64)]
+3/9/2015 8:48:19	HFN (TestTrack Native)[{Largest: 8181.60 GB @ 0x000000018004B000}, {Free Blocks: 118}, {Mem Free: 8191.47 GB}, {Mem Rsrv: 62.63 MB}, {Mem Comm: 484.40 MB}]
+				DFCT 12680	TSTC 0	TSTR 0	RQMT 0	RDMT 0	TASK 1
+				USER 96	UGRP 6	RPRT 70	DFLT 214	LINK 507	MAIL 0
+				FOLDPUB 2	FOLDPVT 2	FOLDTYPE 7	TYPE 3	CUDFDFCT 21	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 11	TRGRPREMOD 0
+				TRGRPREEVT 2	TRGRPRENOTFY 4	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+************************************************
+Server Status Report
+************************************************
+06/17/15 17:52:52
+Databases: 1 Global Users: 160
+Memory:
+[{Largest: 8181.60 GB}, {Free Blocks: 131}, {Mem Free: 8191.41 GB}, {Mem Rsrv: 71.34 MB}, {Mem Comm: 531.16 MB}]
+
+Threads:
+Number of threads: 6    Web Requests: 31144
+ Socket: 3660 [199.227.105.70] Thread: 677032  Rqsts[841]  Session [0x4b36e5ed]  Busy [3 : 1.000000 secs]  Bfrd: 0
+ Socket: 3944 [199.227.105.70] Thread: 678972  Rqsts[82]  Session [0xf83389f5]  Busy [3 : 16.000000 secs]  Bfrd: 0
+ Socket: 4284 [199.227.105.70] Thread: 679096  Rqsts[91]  Session [0x1c57b327]  Busy [63 : 44.000000 secs]  Bfrd: 0
+ Socket: 2608 [199.227.105.70] Thread: 679832  Rqsts[65]  Session [0x4d4f4c60]  Busy [63 : 22.000000 secs]  Bfrd: 0
+ Socket: 3916 [199.227.105.70] Thread: 678724  Rqsts[28]  Session [0xb97a64a6]  Busy [7 : 46.000000 secs]  Bfrd: 0
+ Socket: 3560 [199.227.105.70] Thread: 679516  Rqsts[11]  Session [0xf9e28054]  Busy [3 : 31.000000 secs]  Bfrd: 0
+
+Thread Status Report Time: 00:00:00
+
+Sessions:
+Number of UserSessions: 6 
+ Session: 0xf9e28054 Wed, 17 Jun 2015 21:51:31 GMT
+      Davie Del Bosque [Client]  [199.227.105.70] [3  Wed, 17 Jun 2015 21:52:21 GMT]
+      HFN
+ Session: 0xb97a64a6 Wed, 17 Jun 2015 21:42:18 GMT
+      Sumeyko M Jones [Client]  [199.227.105.70] [7  Wed, 17 Jun 2015 21:52:06 GMT]
+      HFN
+ Session: 0x4d4f4c60 Wed, 17 Jun 2015 21:19:06 GMT
+      Dan Hill [Client]  [199.227.105.70] [63  Wed, 17 Jun 2015 21:52:30 GMT]
+      HFN
+ Session: 0x1c57b327 Wed, 17 Jun 2015 21:11:17 GMT
+      Betty Williams [Client]  [199.227.105.70] [63  Wed, 17 Jun 2015 21:52:08 GMT]
+      HFN
+ Session: 0xf83389f5 Wed, 17 Jun 2015 21:04:37 GMT
+      Kimberly D Mathis [Client]  [199.227.105.70] [3  Wed, 17 Jun 2015 21:52:36 GMT]
+      HFN
+ Session: 0x4b36e5ed Wed, 17 Jun 2015 14:03:47 GMT
+      David Chen [Client]  [199.227.105.70] [3  Wed, 17 Jun 2015 21:52:51 GMT]
+      HFN
+
+Session Status Report Time: 00:00:00
+
+Server Maint Thread: 103932; Status: End
+Proj: HFN; Maint Thread: 103616; Esc. Thread: 0; Status: StartLoop
+
+Status Report Time: 00:00:277
+
+************************************************
+
+
+************************************************
+Server Status Report
+************************************************
+06/24/15 09:31:31
+Databases: 1 Global Users: 160
+Memory:
+[{Largest: 8181.60 GB}, {Free Blocks: 133}, {Mem Free: 8191.41 GB}, {Mem Rsrv: 62.06 MB}, {Mem Comm: 539.44 MB}]
+
+Threads:
+Number of threads: 5    Web Requests: 32459
+ Socket: 1544 [199.227.105.70] Thread: 706272  Rqsts[3996]  Session [0xfa00b835]  Busy [3 : 19.000000 secs]  Bfrd: 0
+ Socket: 3936 [107.198.162.135] Thread: 717524  Rqsts[52]  Session [0xb263e77e]  Bfrd: 0
+ Socket: 3504 [199.227.105.70] Thread: 717052  Rqsts[34]  Session [0xcd8fa176]  Busy [3 : 1.000000 secs]  Bfrd: 0
+ Socket: 1816 [199.227.105.70] Thread: 717208  Rqsts[28]  Session [0xe1590007]  Busy [67 : 26.000000 secs]  Bfrd: 0
+ Socket: 3580 [199.227.105.70] Thread: 716560  Rqsts[10]  Session [0xb3f564ef]  Busy [7 : 27.000000 secs]  Bfrd: 0
+
+Thread Status Report Time: 00:00:00
+
+Sessions:
+Number of UserSessions: 5 
+ Session: 0xb3f564ef Wed, 24 Jun 2015 13:31:02 GMT
+      Tammy Wagner [Client]  [199.227.105.70] [7  Wed, 24 Jun 2015 13:31:04 GMT]
+      HFN
+ Session: 0xe1590007 Wed, 24 Jun 2015 13:26:41 GMT
+      Dan McNally [Client]  [199.227.105.70] [67  Wed, 24 Jun 2015 13:31:05 GMT]
+      HFN
+ Session: 0xcd8fa176 Wed, 24 Jun 2015 13:19:32 GMT
+      Stephanie Werbiski [Client]  [199.227.105.70] [3  Wed, 24 Jun 2015 13:31:30 GMT]
+      HFN
+ Session: 0xb263e77e Wed, 24 Jun 2015 13:13:06 GMT
+      Mark Hollingsworth [Client]  [107.198.162.135] [7  Wed, 24 Jun 2015 13:31:03 GMT]
+      HFN
+ Session: 0xfa00b835 Mon, 22 Jun 2015 15:19:43 GMT
+      David Chen [Client]  [199.227.105.70] [3  Wed, 24 Jun 2015 13:31:12 GMT]
+      HFN
+
+Session Status Report Time: 00:00:00
+
+Server Maint Thread: 103932; Status: End
+Proj: HFN; Maint Thread: 103616; Esc. Thread: 0; Status: StartLoop
+
+Status Report Time: 00:00:222
+
+************************************************
+
+
+************************************************
+Server Status Report
+************************************************
+07/12/15 16:04:47
+Databases: 1 Global Users: 160
+Memory:
+[{Largest: 8181.60 GB}, {Free Blocks: 134}, {Mem Free: 8191.40 GB}, {Mem Rsrv: 71.90 MB}, {Mem Comm: 544.41 MB}]
+
+Threads:
+Number of threads: 4    Web Requests: 32459
+ Socket: 2172 [199.227.105.70] Thread: 797788  Rqsts[6939]  Session [0xa485fe83]  Busy [3 : 20.000000 secs]  Bfrd: 0
+ Socket: 1472 [199.227.105.70] Thread: 821944  Rqsts[387]  Session [0x3dbfe5c]  Busy [7 : 34.000000 secs]  Bfrd: 0
+ Socket: 1556 [199.227.105.70] Thread: 822948  Rqsts[84]  Session [0x86a3bae7]  Bfrd: 0
+ Socket: 3568 [199.227.105.70] Thread: 821760  Rqsts[63]  Session [0x6ffb0251]  Busy [3 : 21.000000 secs]  Bfrd: 0
+
+Thread Status Report Time: 00:00:17
+
+Sessions:
+Number of UserSessions: 4 
+ Session: 0x6ffb0251 Sun, 12 Jul 2015 19:45:27 GMT
+      Kathleen Henley [Client]  [199.227.105.70] [3  Sun, 12 Jul 2015 20:04:26 GMT]
+      HFN
+ Session: 0x86a3bae7 Sun, 12 Jul 2015 19:42:49 GMT
+      Wayne Finley [Client]  [199.227.105.70] [3  Sun, 12 Jul 2015 20:03:47 GMT]
+      HFN
+ Session: 0x3dbfe5c Sun, 12 Jul 2015 17:52:43 GMT
+      Betty Williams [Client]  [199.227.105.70] [7  Sun, 12 Jul 2015 20:04:13 GMT]
+      HFN
+ Session: 0xa485fe83 Wed, 8 Jul 2015 15:16:06 GMT
+      David Chen [Client]  [199.227.105.70] [3  Sun, 12 Jul 2015 20:04:27 GMT]
+      HFN
+
+Session Status Report Time: 00:00:27
+
+Server Maint Thread: 103932; Status: SessionTimeout; Time: 00:00:07
+Proj: HFN; Maint Thread: 103616; Esc. Thread: 0; Status: StyleSheetImportTime; Time: 00:00:29
+
+Status Report Time: 00:01:551
+
+************************************************
+
+
+7/13/2015 2:2:14	<System Info> Processor = x64, Processors = 1, Physical Mem = 1.75 GB, Available Physical Mem = 1.40 GB, Page File = 3.50 GB, Available Page File = 3.13 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.86 GB, Page Size = 4096.00 bytes, Microsoft  Service Pack 1 build - 7601
+07/13/15 02:02:14 <Info>     Low Fragmentation Heap enabled.
+07/13/15 02:02:19 <Info>     Compacting is starting for the SERVER database.
+07/13/15 02:02:19 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+07/13/15 02:02:20 <Info>     Server log startup for TestTrack 2015.0.1 Build 23 (Windows/x64)
+7/13/2015 2:2:36	Starting [{Largest: 8181.79 GB @ 0x000000018004B000}, {Free Blocks: 110}, {Mem Free: 8191.83 GB}, {Mem Rsrv: 58.78 MB}, {Mem Comm: 116.19 MB}]
+07/13/15 02:02:36 <Info>     TestTrack Server initialized. Accepting connection requests. [2015.0.1 Build 23 (Windows/x64)]
+7/13/2015 2:5:5	HFN (TestTrack Native)[{Largest: 8181.79 GB @ 0x000000018004B000}, {Free Blocks: 114}, {Mem Free: 8191.42 GB}, {Mem Rsrv: 65.41 MB}, {Mem Comm: 529.06 MB}]
+				DFCT 14308	TSTC 0	TSTR 0	RQMT 0	RDMT 0	TASK 1
+				USER 103	UGRP 6	RPRT 72	DFLT 218	LINK 530	MAIL 0
+				FOLDPUB 2	FOLDPVT 2	FOLDTYPE 7	TYPE 3	CUDFDFCT 21	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 11	TRGRPREMOD 0
+				TRGRPREEVT 2	TRGRPRENOTFY 4	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+7/18/2015 10:6:28	<System Info> Processor = x64, Processors = 2, Physical Mem = 3.50 GB, Available Physical Mem = 3.06 GB, Page File = 7.00 GB, Available Page File = 6.53 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.86 GB, Page Size = 4096.00 bytes, Microsoft  Service Pack 1 build - 7601
+07/18/15 10:06:28 <Info>     Low Fragmentation Heap enabled.
+07/18/15 10:06:33 <Info>     The journal_mode pragma was successfully changed from delete to wal in the SERVER database.
+07/18/15 10:06:33 <Info>     Compacting is starting for the SERVER database.
+07/18/15 10:06:34 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+07/18/15 10:06:34 <Info>     Server log startup for TestTrack 2015.0.1 Build 23 (Windows/x64)
+7/18/2015 10:6:58	Starting [{Largest: 8181.77 GB @ 0x000000018004B000}, {Free Blocks: 113}, {Mem Free: 8191.83 GB}, {Mem Rsrv: 59.19 MB}, {Mem Comm: 116.78 MB}]
+07/18/15 10:06:58 <Info>     TestTrack Server initialized. Accepting connection requests. [2015.0.1 Build 23 (Windows/x64)]
+7/18/2015 10:10:34	HFN (TestTrack Native)[{Largest: 8181.77 GB @ 0x000000018004B000}, {Free Blocks: 118}, {Mem Free: 8191.42 GB}, {Mem Rsrv: 64.86 MB}, {Mem Comm: 531.62 MB}]
+				DFCT 14379	TSTC 0	TSTR 0	RQMT 0	RDMT 0	TASK 1
+				USER 105	UGRP 6	RPRT 72	DFLT 218	LINK 530	MAIL 0
+				FOLDPUB 2	FOLDPVT 2	FOLDTYPE 7	TYPE 3	CUDFDFCT 21	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 11	TRGRPREMOD 0
+				TRGRPREEVT 2	TRGRPRENOTFY 4	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+8/17/2015 21:40:46	<System Info> Processor = x64, Processors = 2, Physical Mem = 3.50 GB, Available Physical Mem = 3.00 GB, Page File = 7.00 GB, Available Page File = 6.50 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.86 GB, Page Size = 4096.00 bytes, Microsoft  Service Pack 1 build - 7601
+08/17/15 21:40:46 <Info>     Low Fragmentation Heap enabled.
+08/17/15 21:40:50 <Info>     The journal_mode pragma was successfully changed from delete to wal in the SERVER database.
+08/17/15 21:40:50 <Info>     Compacting is starting for the SERVER database.
+08/17/15 21:40:51 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+08/17/15 21:40:51 <Info>     Server log startup for TestTrack 2015.0.1 Build 23 (Windows/x64)
+8/17/2015 21:40:54	Starting [{Largest: 8181.81 GB @ 0x000000018004B000}, {Free Blocks: 113}, {Mem Free: 8191.83 GB}, {Mem Rsrv: 58.94 MB}, {Mem Comm: 113.09 MB}]
+08/17/15 21:40:54 <Info>     TestTrack Server initialized. Accepting connection requests. [2015.0.1 Build 23 (Windows/x64)]
+8/17/2015 21:43:19	HFN (TestTrack Native)[{Largest: 8181.81 GB @ 0x000000018004B000}, {Free Blocks: 119}, {Mem Free: 8191.42 GB}, {Mem Rsrv: 58.24 MB}, {Mem Comm: 535.31 MB}]
+				DFCT 14776	TSTC 0	TSTR 0	RQMT 0	RDMT 0	TASK 1
+				USER 107	UGRP 6	RPRT 72	DFLT 221	LINK 536	MAIL 0
+				FOLDPUB 2	FOLDPVT 2	FOLDTYPE 7	TYPE 3	CUDFDFCT 21	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 11	TRGRPREMOD 0
+				TRGRPREEVT 2	TRGRPRENOTFY 4	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+9/15/2015 2:47:8	<System Info> Processor = x64, Processors = 2, Physical Mem = 3.50 GB, Available Physical Mem = 2.25 GB, Page File = 7.00 GB, Available Page File = 5.88 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.85 GB, Page Size = 4096.00 bytes, Microsoft  Service Pack 1 build - 7601
+09/15/15 02:47:08 <Info>     Low Fragmentation Heap enabled.
+09/15/15 02:47:09 <Info>     The journal_mode pragma was successfully changed from delete to wal in the SERVER database.
+09/15/15 02:47:09 <Info>     Compacting is starting for the SERVER database.
+09/15/15 02:47:10 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+09/15/15 02:47:10 <Info>     Server log startup for TestTrack 2015.1.1 Build 33 (Windows/x64)
+9/15/2015 2:47:13	Starting [{Largest: 8181.72 GB @ 0x000000018004B000}, {Free Blocks: 127}, {Mem Free: 8191.82 GB}, {Mem Rsrv: 59.59 MB}, {Mem Comm: 125.61 MB}]
+09/15/15 02:47:13 <Info>     TestTrack Server initialized. Accepting connection requests. [2015.1.1 Build 33 (Windows/x64)]
+9/15/2015 2:49:8	HFN (TestTrack Native)[{Largest: 8181.72 GB @ 0x000000018004B000}, {Free Blocks: 131}, {Mem Free: 8191.39 GB}, {Mem Rsrv: 60.08 MB}, {Mem Comm: 563.45 MB}]
+				DFCT 15234	TSTC 0	TSTR 0	RQMT 0	RDMT 0	TASK 1
+				USER 107	UGRP 6	RPRT 72	DFLT 224	LINK 542	MAIL 0
+				FOLDPUB 2	FOLDPVT 2	FOLDTYPE 7	TYPE 3	CUDFDFCT 21	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 11	TRGRPREMOD 0
+				TRGRPREEVT 2	TRGRPRENOTFY 4	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+9/21/2015 21:52:44	<System Info> Processor = x64, Processors = 2, Physical Mem = 3.50 GB, Available Physical Mem = 3.00 GB, Page File = 7.00 GB, Available Page File = 6.48 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.86 GB, Page Size = 4096.00 bytes, Microsoft  Service Pack 1 build - 7601
+09/21/15 21:52:44 <Info>     Low Fragmentation Heap enabled.
+09/21/15 21:52:47 <Info>     The journal_mode pragma was successfully changed from delete to wal in the SERVER database.
+09/21/15 21:52:48 <Info>     Compacting is starting for the SERVER database.
+09/21/15 21:52:48 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+09/21/15 21:52:48 <Info>     Server log startup for TestTrack 2015.1.1 Build 33 (Windows/x64)
+9/21/2015 21:52:51	Starting [{Largest: 8181.78 GB @ 0x000000018004B000}, {Free Blocks: 111}, {Mem Free: 8191.83 GB}, {Mem Rsrv: 57.84 MB}, {Mem Comm: 118.65 MB}]
+09/21/15 21:52:52 <Info>     TestTrack Server initialized. Accepting connection requests. [2015.1.1 Build 33 (Windows/x64)]
+9/21/2015 21:55:14	HFN (TestTrack Native)[{Largest: 8181.78 GB @ 0x000000018004B000}, {Free Blocks: 117}, {Mem Free: 8191.38 GB}, {Mem Rsrv: 68.32 MB}, {Mem Comm: 561.30 MB}]
+				DFCT 15451	TSTC 0	TSTR 0	RQMT 0	RDMT 0	TASK 1
+				USER 107	UGRP 6	RPRT 72	DFLT 224	LINK 542	MAIL 0
+				FOLDPUB 2	FOLDPVT 2	FOLDTYPE 7	TYPE 3	CUDFDFCT 21	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 11	TRGRPREMOD 0
+				TRGRPREEVT 2	TRGRPRENOTFY 4	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+************************************************
+Server Status Report
+************************************************
+12/17/15 14:27:34
+Databases: 1 Global Users: 171
+Memory:
+[{Largest: 8181.78 GB}, {Free Blocks: 135}, {Mem Free: 8191.30 GB}, {Mem Rsrv: 66.41 MB}, {Mem Comm: 652.33 MB}]
+
+Threads:
+Number of threads: 9    Web Requests: 105598
+ Socket: 4496 [162.246.139.165] Thread: 491756  Rqsts[2657]  Session [0x63dc647c]  Busy [3 : 12.000000 secs]  Bfrd: 0
+ Socket: 2632 [162.246.139.165] Thread: 495692  Rqsts[911]  Session [0xe36a392c]  Bfrd: 0
+ Socket: 3704 [162.246.139.165] Thread: 496116  Rqsts[676]  Session [0x54122856]  Busy [3 : 25.000000 secs]  Bfrd: 0
+ Socket: 2952 [162.246.139.165] Thread: 495764  Rqsts[388]  Session [0x360b4972]  Busy [3 : 18.000000 secs]  Bfrd: 0
+ Socket: 2452 [162.246.139.165] Thread: 496988  Rqsts[262]  Session [0x87633a4c]  Bfrd: 0
+ Socket: 4188 [162.246.139.165] Thread: 498408  Rqsts[197]  Session [0xffe316c3]  Busy [465 : 20.000000 secs]  Bfrd: 0
+ Socket: 1140 [162.246.139.165] Thread: 497984  Rqsts[72]  Session [0x12053559]  Bfrd: 0
+ Socket: 3956 [162.246.139.165] Thread: 498420  Rqsts[91]  Session [0x108c9055]  Busy [362 : 25.000000 secs]  Bfrd: 0
+ Socket: 1004 [162.246.139.165] Thread: 497936  Rqsts[10]  Session [0x641c56aa]  Bfrd: 0
+
+Thread Status Report Time: 00:00:00
+
+Sessions:
+Number of UserSessions: 9 
+ Session: 0x641c56aa Thu, 17 Dec 2015 19:26:22 GMT
+      Kim Doyle [Client]  [162.246.139.165] [3  Thu, 17 Dec 2015 19:26:37 GMT]
+      HFN
+ Session: 0x108c9055 Thu, 17 Dec 2015 19:20:12 GMT
+      Adam Knese [Client]  [162.246.139.165] [362  Thu, 17 Dec 2015 19:27:09 GMT]
+      [Export XML: 495992] [Export XML][Working][-1][162.246.139.165][442][0]
+      HFN
+ Session: 0x12053559 Thu, 17 Dec 2015 19:07:58 GMT
+      Wayne Finley [Client]  [162.246.139.165] [3  Thu, 17 Dec 2015 19:26:57 GMT]
+      HFN
+ Session: 0xffe316c3 Thu, 17 Dec 2015 17:53:23 GMT
+      Taylor Mohrle [Client]  [162.246.139.165] [465  Thu, 17 Dec 2015 19:27:14 GMT]
+      HFN
+ Session: 0x87633a4c Thu, 17 Dec 2015 17:23:58 GMT
+      Kimberly D Mathis [Client]  [162.246.139.165] [3  Thu, 17 Dec 2015 19:26:50 GMT]
+      HFN
+ Session: 0x360b4972 Thu, 17 Dec 2015 16:24:17 GMT
+      David Chen [Client]  [162.246.139.165] [3  Thu, 17 Dec 2015 19:27:16 GMT]
+      HFN
+ Session: 0x54122856 Thu, 17 Dec 2015 14:55:07 GMT
+      Robin McLaughlin [Client]  [162.246.139.165] [3  Thu, 17 Dec 2015 19:27:09 GMT]
+      HFN
+ Session: 0xe36a392c Thu, 17 Dec 2015 13:09:04 GMT
+      Carl Kriz [Client]  [162.246.139.165] [3  Thu, 17 Dec 2015 19:27:06 GMT]
+      HFN
+ Session: 0x63dc647c Wed, 16 Dec 2015 15:06:00 GMT
+      Ezra Ibrahim [Client]  [162.246.139.165] [3  Thu, 17 Dec 2015 19:27:22 GMT]
+      HFN
+
+Session Status Report Time: 00:00:00
+
+Server Maint Thread: 2236; Status: End
+Proj: HFN; Maint Thread: 1016; Esc. Thread: 0; Status: UpdateReportPlugins; Time: 00:00:25
+
+Status Report Time: 00:00:16
+
+************************************************
+
+
+************************************************
+Lock Status Report - Write Lock Fail Details
+12/17/2015 2:27:47 PM
+************************************************
+Thread 1016 failed to get a write lock.
+[Current Writer Info]
+ - At log time, no write lock was found.
+[Current Reader(s) Info]
+ - Thread 495992 has had a read lock for 00:01:25 that was obtained at 12/17/2015 2:26:22 PM.
+************************************************
+
+************************************************
+Server Status Report
+************************************************
+12/17/15 14:29:44
+Databases: 1 Global Users: 171
+Memory:
+[{Largest: 8181.78 GB}, {Free Blocks: 133}, {Mem Free: 8191.30 GB}, {Mem Rsrv: 68.12 MB}, {Mem Comm: 652.64 MB}]
+
+Threads:
+Number of threads: 11    Web Requests: 105598
+ Socket: 4496 [162.246.139.165] Thread: 491756  Rqsts[2659]  Session [0x63dc647c]  Busy [3 : 22.000000 secs]  Bfrd: 0
+ Socket: 2632 [162.246.139.165] Thread: 495692  Rqsts[913]  Session [0xe36a392c]  Bfrd: 0
+ Socket: 3704 [162.246.139.165] Thread: 496116  Rqsts[680]  Session [0x54122856]  Bfrd: 0
+ Socket: 2952 [162.246.139.165] Thread: 495764  Rqsts[390]  Session [0x360b4972]  Bfrd: 0
+ Socket: 2452 [162.246.139.165] Thread: 496988  Rqsts[268]  Session [0x87633a4c]  Bfrd: 0
+ Socket: 4188 [162.246.139.165] Thread: 498408  Rqsts[201]  Session [0xffe316c3]  Busy [3 : 25.000000 secs]  Bfrd: 0
+ Socket: 1140 [162.246.139.165] Thread: 497984  Rqsts[74]  Session [0x12053559]  Bfrd: 0
+ Socket: 3956 [162.246.139.165] Thread: 498420  Rqsts[185]  Session [0x108c9055]  Busy [362 : 25.000000 secs]  Bfrd: 0
+ Socket: 1004 [162.246.139.165] Thread: 497936  Rqsts[13]  Session [0x641c56aa]  Busy [7 : 18.000000 secs]  Bfrd: 0
+ Socket: 3680 [162.246.139.165] Thread: 498316  Rqsts[11]  Session [0xf2a734a2]  Bfrd: 0
+ Socket: 4216 [162.246.139.165] Thread: 498572  Rqsts[4]  Session [0x43ad76b6]  Busy [5 : 26.000000 secs]  Bfrd: 0
+
+Thread Status Report Time: 00:00:00
+
+Sessions:
+Number of UserSessions: 10 
+ Session: 0xf2a734a2 Thu, 17 Dec 2015 19:29:15 GMT
+      Sumeyko M Jones [Client]  [162.246.139.165] [662  Thu, 17 Dec 2015 19:29:18 GMT]
+      HFN
+ Session: 0x641c56aa Thu, 17 Dec 2015 19:26:22 GMT
+      Kim Doyle [Client]  [162.246.139.165] [7  Thu, 17 Dec 2015 19:29:26 GMT]
+      HFN
+ Session: 0x108c9055 Thu, 17 Dec 2015 19:20:12 GMT
+      Adam Knese [Client]  [162.246.139.165] [362  Thu, 17 Dec 2015 19:29:19 GMT]
+      [Export XML: 495992] [Export XML][Working][-1][162.246.139.165][572][0]
+      HFN
+ Session: 0x12053559 Thu, 17 Dec 2015 19:07:58 GMT
+      Wayne Finley [Client]  [162.246.139.165] [3  Thu, 17 Dec 2015 19:28:57 GMT]
+      HFN
+ Session: 0xffe316c3 Thu, 17 Dec 2015 17:53:23 GMT
+      Taylor Mohrle [Client]  [162.246.139.165] [3  Thu, 17 Dec 2015 19:29:19 GMT]
+      HFN
+ Session: 0x87633a4c Thu, 17 Dec 2015 17:23:58 GMT
+      Kimberly D Mathis [Client]  [162.246.139.165] [3  Thu, 17 Dec 2015 19:28:50 GMT]
+      HFN
+ Session: 0x360b4972 Thu, 17 Dec 2015 16:24:17 GMT
+      David Chen [Client]  [162.246.139.165] [3  Thu, 17 Dec 2015 19:29:16 GMT]
+      HFN
+ Session: 0x54122856 Thu, 17 Dec 2015 14:55:07 GMT
+      Robin McLaughlin [Client]  [162.246.139.165] [3  Thu, 17 Dec 2015 19:29:09 GMT]
+      HFN
+ Session: 0xe36a392c Thu, 17 Dec 2015 13:09:04 GMT
+      Carl Kriz [Client]  [162.246.139.165] [3  Thu, 17 Dec 2015 19:29:06 GMT]
+      HFN
+ Session: 0x63dc647c Wed, 16 Dec 2015 15:06:00 GMT
+      Ezra Ibrahim [Client]  [162.246.139.165] [3  Thu, 17 Dec 2015 19:29:22 GMT]
+      HFN
+
+Session Status Report Time: 00:00:00
+
+Server Maint Thread: 2236; Status: End
+Proj: HFN; Maint Thread: 1016; Esc. Thread: 0; Status: StartLoop
+
+Status Report Time: 00:00:21
+
+************************************************
+
+
+************************************************
+Lock Status Report - Write Lock Fail Details
+12/17/2015 2:29:56 PM
+************************************************
+Thread 498572 failed to get a write lock.
+[Current Writer Info]
+ - At log time, no write lock was found.
+[Current Reader(s) Info]
+ - Thread 495992 has had a read lock for 00:03:34 that was obtained at 12/17/2015 2:26:22 PM.
+************************************************
+
+************************************************
+Lock Status Report - Write Lock Fail Details
+12/17/2015 2:30:35 PM
+************************************************
+Thread 497876 failed to get a write lock.
+[Current Writer Info]
+ - Thread 498408 has had an intention to write lock for 00:00:00 that was obtained at 12/17/2015 2:30:35 PM.
+[Current Reader(s) Info]
+ - Thread 495992 has had a read lock for 00:04:13 that was obtained at 12/17/2015 2:26:22 PM.
+************************************************
+
+3/27/2016 0:16:50	<System Info> Processor = x64, Processors = 2, Physical Mem = 3.50 GB, Available Physical Mem = 3.04 GB, Page File = 7.00 GB, Available Page File = 6.51 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.85 GB, Page Size = 4096.00 bytes, Microsoft  Service Pack 1 build - 7601
+03/27/16 00:16:50 <Info>     Low Fragmentation Heap enabled.
+03/27/16 00:16:54 <Info>     The journal_mode pragma was successfully changed from delete to wal in the SERVER database.
+03/27/16 00:16:55 <Info>     Compacting is starting for the SERVER database.
+03/27/16 00:16:59 <Info>     Compacting was successfully completed for the SERVER database in 4 seconds.
+03/27/16 00:16:59 <Info>     Server log startup for TestTrack 2015.1.1 Build 33 (Windows/x64)
+3/27/2016 0:17:3	Starting [{Largest: 8181.75 GB @ 0x000000018004B000}, {Free Blocks: 113}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 62.02 MB}, {Mem Comm: 127.66 MB}]
+03/27/16 00:17:03 <Info>     TestTrack Server initialized. Accepting connection requests. [2015.1.1 Build 33 (Windows/x64)]
+3/27/2016 0:20:16	HFN (TestTrack Native)[{Largest: 8181.75 GB @ 0x000000018004B000}, {Free Blocks: 119}, {Mem Free: 8191.22 GB}, {Mem Rsrv: 60.35 MB}, {Mem Comm: 733.60 MB}]
+				DFCT 19152	TSTC 0	TSTR 0	RQMT 0	RDMT 0	TASK 1
+				USER 124	UGRP 6	RPRT 73	DFLT 260	LINK 577	MAIL 0
+				FOLDPUB 2	FOLDPVT 2	FOLDTYPE 7	TYPE 3	CUDFDFCT 21	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 11	TRGRPREMOD 0
+				TRGRPREEVT 2	TRGRPRENOTFY 4	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+************************************************
+Server Status Report
+************************************************
+06/10/16 11:30:32
+Databases: 1 Global Users: 181
+Memory:
+[{Largest: 8181.75 GB}, {Free Blocks: 169}, {Mem Free: 8191.12 GB}, {Mem Rsrv: 103.87 MB}, {Mem Comm: 800.55 MB}]
+
+Threads:
+Number of threads: 46    Web Requests: 1476157
+ Socket: 2928 [170.138.104.250] Thread: 393452  Rqsts[2140]  Session [0x14d5b0c9]  Bfrd: 0
+ Socket: 4836 [170.138.104.250] Thread: 393272  Rqsts[2542]  Session [0xf20e74ba]  Bfrd: 0
+ Socket: 4248 [170.138.104.250] Thread: 392656  Rqsts[469]  Session [0x1fd47b78]  Busy [3 : 10.000000 secs]  Bfrd: 0
+ Socket: 2604 [170.138.104.250] Thread: 394016  Rqsts[282]  Session [0xd4b7c162]  Bfrd: 0
+ Socket: 1520 [170.138.104.250] Thread: 392748  Rqsts[183]  Session [0xf03be80e]  Bfrd: 0
+ Socket: 5748 [170.138.104.250] Thread: 393348  Rqsts[61]  Session [0xea31a0f5]  Busy [3 : 15.000000 secs]  Bfrd: 0
+ Socket: 5148 [13.64.168.11] Thread: 394180  Rqsts[0]  Bfrd: 0
+ Socket: 3112 [13.64.168.11] Thread: 393976  Rqsts[0]  Bfrd: 0
+ Socket: 4864 [13.64.168.11] Thread: 389028  Rqsts[0]  Bfrd: 0
+ Socket: 4892 [13.64.168.11] Thread: 388768  Rqsts[0]  Bfrd: 0
+ Socket: 5356 [13.64.168.11] Thread: 394060  Rqsts[0]  Bfrd: 0
+ Socket: 5740 [13.64.168.11] Thread: 394232  Rqsts[0]  Bfrd: 0
+ Socket: 5892 [13.64.168.11] Thread: 393792  Rqsts[0]  Bfrd: 0
+ Socket: 2940 [13.64.168.11] Thread: 393964  Rqsts[0]  Bfrd: 0
+ Socket: 5428 [170.138.104.250] Thread: 392356  Rqsts[83]  Session [0x33168b3f]  Busy [362 : 25.000000 secs]  Bfrd: 0
+ Socket: 4968 [13.64.168.11] Thread: 392988  Rqsts[0]  Bfrd: 0
+ Socket: 4652 [13.64.168.11] Thread: 391140  Rqsts[0]  Bfrd: 0
+ Socket: 5036 [13.64.168.11] Thread: 390324  Rqsts[0]  Bfrd: 0
+ Socket: 2012 [13.64.168.11] Thread: 391300  Rqsts[0]  Bfrd: 0
+ Socket: 3208 [13.64.168.11] Thread: 392496  Rqsts[0]  Bfrd: 0
+ Socket: 4212 [13.64.168.11] Thread: 2184  Rqsts[0]  Bfrd: 0
+ Socket: 1404 [13.64.168.11] Thread: 390084  Rqsts[0]  Bfrd: 0
+ Socket: 5632 [13.64.168.11] Thread: 391480  Rqsts[0]  Bfrd: 0
+ Socket: 6080 [13.64.168.11] Thread: 393532  Rqsts[0]  Bfrd: 0
+ Socket: 996 [13.64.168.11] Thread: 393936  Rqsts[0]  Bfrd: 0
+ Socket: 4660 [13.64.168.11] Thread: 391596  Rqsts[0]  Bfrd: 0
+ Socket: 4628 [13.64.168.11] Thread: 392404  Rqsts[0]  Bfrd: 0
+ Socket: 5836 [13.64.168.11] Thread: 392716  Rqsts[0]  Bfrd: 0
+ Socket: 5388 [13.64.168.11] Thread: 393460  Rqsts[0]  Bfrd: 0
+ Socket: 3564 [170.138.104.250] Thread: 394000  Rqsts[20]  Session [0x2b21fa73]  Bfrd: 0
+ Socket: 3212 [13.64.168.11] Thread: 391068  Rqsts[0]  Bfrd: 0
+ Socket: 4572 [13.64.168.11] Thread: 390648  Rqsts[0]  Bfrd: 0
+ Socket: 5304 [13.64.168.11] Thread: 388516  Rqsts[0]  Bfrd: 0
+ Socket: 1452 [13.64.168.11] Thread: 393036  Rqsts[0]  Bfrd: 0
+ Socket: 5484 [13.64.168.11] Thread: 393376  Rqsts[0]  Bfrd: 0
+ Socket: 4972 [13.64.168.11] Thread: 391120  Rqsts[0]  Bfrd: 0
+ Socket: 5292 [13.64.168.11] Thread: 393732  Rqsts[0]  Bfrd: 0
+ Socket: 3444 [13.64.168.11] Thread: 393888  Rqsts[0]  Bfrd: 0
+ Socket: 5580 [13.64.168.11] Thread: 393836  Rqsts[0]  Bfrd: 0
+ Socket: 3784 [13.64.168.11] Thread: 392292  Rqsts[0]  Bfrd: 0
+ Socket: 5928 [13.64.168.11] Thread: 394176  Rqsts[0]  Bfrd: 0
+ Socket: 4388 [13.64.168.11] Thread: 391880  Rqsts[0]  Bfrd: 0
+ Socket: 6092 [13.64.168.11] Thread: 393028  Rqsts[0]  Bfrd: 0
+ Socket: 5880 [127.0.0.1] Thread: 392428  Rqsts[4]  Session [0x628efd0a]  Busy [5 : 25.000000 secs]  Bfrd: 0
+ Socket: 4872 [127.0.0.1] Thread: 390184  Rqsts[1]  Session [0xd44a4e22]  Busy [1 : 21.000000 secs]  Bfrd: 0
+ Socket: 5196 [13.64.168.11] Thread: 375016  Rqsts[0]  Bfrd: 0
+
+Thread Status Report Time: 00:00:00
+
+Sessions:
+Number of UserSessions: 10 
+ Session: 0x2b21fa73 Fri, 10 Jun 2016 15:24:54 GMT
+      Kim Doyle [Client]  [170.138.104.250] [68  Fri, 10 Jun 2016 15:29:52 GMT]
+      HFN
+ Session: 0x33168b3f Fri, 10 Jun 2016 15:19:02 GMT
+      Danial levitan [Client]  [170.138.104.250] [362  Fri, 10 Jun 2016 15:30:07 GMT]
+      [Report: 388656] [Report][Working][1][170.138.104.250][34][0] - [Issues] [List] [NonDetailReport.xslt] [Filter: 0] [Generating XML] [6/10/2016 11:29:58] [Prep: 0] [XML: 0] [Trans: 0]
+      HFN
+ Session: 0x8a6bf809 [web] Fri, 10 Jun 2016 15:18:46 GMT
+      Rajamohan Putta [Web]  [127.0.0.1/104.129.204.74] [68  Fri, 10 Jun 2016 15:29:57 GMT]
+      HFN
+ Session: 0xea31a0f5 Fri, 10 Jun 2016 15:08:18 GMT
+      Betty Williams [Client]  [170.138.104.250] [3  Fri, 10 Jun 2016 15:30:17 GMT]
+      HFN
+ Session: 0xd44a4e22 [web] Fri, 10 Jun 2016 15:08:03 GMT
+      Brett Ortwerth [Web]  [127.0.0.1/170.138.104.250] [68  Fri, 10 Jun 2016 15:30:07 GMT]
+      HFN
+ Session: 0xf03be80e Fri, 10 Jun 2016 14:23:49 GMT
+      Mike Meyer [Client]  [170.138.104.250] [68  Fri, 10 Jun 2016 15:29:49 GMT]
+      HFN
+ Session: 0xd4b7c162 Fri, 10 Jun 2016 13:15:54 GMT
+      Robin McLaughlin [Client]  [170.138.104.250] [68  Fri, 10 Jun 2016 15:29:54 GMT]
+      HFN
+ Session: 0x1fd47b78 Fri, 10 Jun 2016 12:20:22 GMT
+      Ezra Ibrahim [Client]  [170.138.104.250] [3  Fri, 10 Jun 2016 15:30:22 GMT]
+      HFN
+ Session: 0xf20e74ba Thu, 9 Jun 2016 15:27:18 GMT
+      KimberlyAdminisource! D Mathis [Client]  [170.138.104.250] [3  Fri, 10 Jun 2016 15:29:35 GMT]
+      HFN
+ Session: 0x14d5b0c9 Thu, 9 Jun 2016 14:42:21 GMT
+      David Chen [Client]  [170.138.104.250] [3  Fri, 10 Jun 2016 15:29:36 GMT]
+      HFN
+
+Session Status Report Time: 00:00:00
+
+Server Maint Thread: 2216; Status: End
+Proj: HFN; Maint Thread: 2264; Esc. Thread: 0; Status: StartLoop
+
+Status Report Time: 00:00:20
+
+************************************************
+
+
+************************************************
+Server Status Report
+************************************************
+06/10/16 11:38:32
+Databases: 1 Global Users: 181
+Memory:
+[{Largest: 8181.75 GB}, {Free Blocks: 166}, {Mem Free: 8191.11 GB}, {Mem Rsrv: 105.84 MB}, {Mem Comm: 800.60 MB}]
+
+Threads:
+Number of threads: 48    Web Requests: 1476259
+ Socket: 2928 [170.138.104.250] Thread: 393452  Rqsts[2153]  Session [0x14d5b0c9]  Bfrd: 0
+ Socket: 4836 [170.138.104.250] Thread: 393272  Rqsts[2556]  Session [0xf20e74ba]  Bfrd: 0
+ Socket: 4248 [170.138.104.250] Thread: 392656  Rqsts[483]  Session [0x1fd47b78]  Busy [3 : 10.000000 secs]  Bfrd: 0
+ Socket: 2604 [170.138.104.250] Thread: 394016  Rqsts[296]  Session [0xd4b7c162]  Bfrd: 0
+ Socket: 1520 [170.138.104.250] Thread: 392748  Rqsts[198]  Session [0xf03be80e]  Bfrd: 0
+ Socket: 5748 [170.138.104.250] Thread: 393348  Rqsts[83]  Session [0xea31a0f5]  Busy [3 : 15.000000 secs]  Bfrd: 0
+ Socket: 5428 [170.138.104.250] Thread: 392356  Rqsts[130]  Session [0x33168b3f]  Busy [362 : 25.000000 secs]  Bfrd: 0
+ Socket: 4660 [13.64.168.11] Thread: 391596  Rqsts[0]  Bfrd: 0
+ Socket: 4628 [13.64.168.11] Thread: 392404  Rqsts[0]  Bfrd: 0
+ Socket: 5836 [13.64.168.11] Thread: 392716  Rqsts[0]  Bfrd: 0
+ Socket: 5388 [13.64.168.11] Thread: 393460  Rqsts[0]  Bfrd: 0
+ Socket: 3564 [170.138.104.250] Thread: 394000  Rqsts[34]  Session [0x2b21fa73]  Bfrd: 0
+ Socket: 3212 [13.64.168.11] Thread: 391068  Rqsts[0]  Bfrd: 0
+ Socket: 4572 [13.64.168.11] Thread: 390648  Rqsts[0]  Bfrd: 0
+ Socket: 5304 [13.64.168.11] Thread: 388516  Rqsts[0]  Bfrd: 0
+ Socket: 1452 [13.64.168.11] Thread: 393036  Rqsts[0]  Bfrd: 0
+ Socket: 5484 [13.64.168.11] Thread: 393376  Rqsts[0]  Bfrd: 0
+ Socket: 4972 [13.64.168.11] Thread: 391120  Rqsts[0]  Bfrd: 0
+ Socket: 5292 [13.64.168.11] Thread: 393732  Rqsts[0]  Bfrd: 0
+ Socket: 3444 [13.64.168.11] Thread: 393888  Rqsts[0]  Bfrd: 0
+ Socket: 5580 [13.64.168.11] Thread: 393836  Rqsts[0]  Bfrd: 0
+ Socket: 3784 [13.64.168.11] Thread: 392292  Rqsts[0]  Bfrd: 0
+ Socket: 5928 [13.64.168.11] Thread: 394176  Rqsts[0]  Bfrd: 0
+ Socket: 4388 [13.64.168.11] Thread: 391880  Rqsts[0]  Bfrd: 0
+ Socket: 6092 [13.64.168.11] Thread: 393028  Rqsts[0]  Bfrd: 0
+ Socket: 5196 [13.64.168.11] Thread: 375016  Rqsts[0]  Bfrd: 0
+ Socket: 6096 [13.64.168.11] Thread: 388196  Rqsts[0]  Bfrd: 0
+ Socket: 6012 [13.64.168.11] Thread: 393616  Rqsts[0]  Bfrd: 0
+ Socket: 3396 [13.64.168.11] Thread: 393704  Rqsts[0]  Bfrd: 0
+ Socket: 4772 [13.64.168.11] Thread: 391164  Rqsts[0]  Bfrd: 0
+ Socket: 4864 [13.64.168.11] Thread: 393420  Rqsts[0]  Bfrd: 0
+ Socket: 1220 [13.64.168.11] Thread: 393412  Rqsts[0]  Bfrd: 0
+ Socket: 1788 [13.64.168.11] Thread: 392572  Rqsts[0]  Bfrd: 0
+ Socket: 4180 [13.64.168.11] Thread: 386068  Rqsts[0]  Bfrd: 0
+ Socket: 5404 [13.64.168.11] Thread: 393840  Rqsts[0]  Bfrd: 0
+ Socket: 5216 [13.64.168.11] Thread: 392544  Rqsts[0]  Bfrd: 0
+ Socket: 3968 [13.64.168.11] Thread: 393560  Rqsts[0]  Bfrd: 0
+ Socket: 5008 [13.64.168.11] Thread: 393340  Rqsts[0]  Bfrd: 0
+ Socket: 2516 [13.64.168.11] Thread: 392460  Rqsts[0]  Bfrd: 0
+ Socket: 6048 [13.64.168.11] Thread: 393608  Rqsts[0]  Bfrd: 0
+ Socket: 5512 [13.64.168.11] Thread: 393808  Rqsts[0]  Bfrd: 0
+ Socket: 1204 [13.64.168.11] Thread: 393044  Rqsts[0]  Bfrd: 0
+ Socket: 4752 [13.64.168.11] Thread: 391868  Rqsts[0]  Bfrd: 0
+ Socket: 5980 [13.64.168.11] Thread: 392092  Rqsts[0]  Bfrd: 0
+ Socket: 1368 [127.0.0.1] Thread: 393824  Rqsts[4]  Session [0x2067fed2]  Busy [5 : 25.000000 secs]  Bfrd: 0
+ Socket: 4056 [127.0.0.1] Thread: 394064  Rqsts[1]  Session [0xd44a4e22]  Busy [1 : 21.000000 secs]  Bfrd: 0
+ Socket: 5564 [13.64.168.11] Thread: 390448  Rqsts[0]  Bfrd: 0
+ Socket: 3392 [127.0.0.1] Thread: 393200  Rqsts[1]  Busy [1 : 7.000000 secs]  Bfrd: 0
+
+Thread Status Report Time: 00:00:00
+
+Sessions:
+Number of UserSessions: 10 
+ Session: 0x2b21fa73 Fri, 10 Jun 2016 15:24:54 GMT
+      Kim Doyle [Client]  [170.138.104.250] [68  Fri, 10 Jun 2016 15:37:52 GMT]
+      HFN
+ Session: 0x33168b3f Fri, 10 Jun 2016 15:19:02 GMT
+      Danial levitan [Client]  [170.138.104.250] [362  Fri, 10 Jun 2016 15:38:07 GMT]
+      [Report: 392648] [Report][Working][1][170.138.104.250][29][0] - [Issues] [List] [NonDetailReport.xslt] [Filter: 0] [Generating XML] [6/10/2016 11:38:03] [Prep: 8] [XML: 0] [Trans: 0]
+      HFN
+ Session: 0x8a6bf809 [web] Fri, 10 Jun 2016 15:18:46 GMT
+      Rajamohan Putta [Web]  [127.0.0.1/104.129.204.74] [68  Fri, 10 Jun 2016 15:37:58 GMT]
+      HFN
+ Session: 0xea31a0f5 Fri, 10 Jun 2016 15:08:18 GMT
+      Betty Williams [Client]  [170.138.104.250] [3  Fri, 10 Jun 2016 15:38:17 GMT]
+      HFN
+ Session: 0xd44a4e22 [web] Fri, 10 Jun 2016 15:08:03 GMT
+      Brett Ortwerth [Web]  [127.0.0.1/170.138.104.250] [501  Fri, 10 Jun 2016 15:38:07 GMT]
+      HFN
+ Session: 0xf03be80e Fri, 10 Jun 2016 14:23:49 GMT
+      Mike Meyer [Client]  [170.138.104.250] [68  Fri, 10 Jun 2016 15:37:49 GMT]
+      HFN
+ Session: 0xd4b7c162 Fri, 10 Jun 2016 13:15:54 GMT
+      Robin McLaughlin [Client]  [170.138.104.250] [68  Fri, 10 Jun 2016 15:37:54 GMT]
+      HFN
+ Session: 0x1fd47b78 Fri, 10 Jun 2016 12:20:22 GMT
+      Ezra Ibrahim [Client]  [170.138.104.250] [3  Fri, 10 Jun 2016 15:38:22 GMT]
+      HFN
+ Session: 0xf20e74ba Thu, 9 Jun 2016 15:27:18 GMT
+      KimberlyAdminisource! D Mathis [Client]  [170.138.104.250] [68  Fri, 10 Jun 2016 15:37:35 GMT]
+      HFN
+ Session: 0x14d5b0c9 Thu, 9 Jun 2016 14:42:21 GMT
+      David Chen [Client]  [170.138.104.250] [68  Fri, 10 Jun 2016 15:37:36 GMT]
+      HFN
+
+Session Status Report Time: 00:00:00
+
+Server Maint Thread: 2216; Status: End
+Proj: HFN; Maint Thread: 2264; Esc. Thread: 0; Status: StartLoop
+
+Status Report Time: 00:00:20
+
+************************************************
+
+
+************************************************
+Lock Status Report - Write Lock Fail Details
+6/10/2016 11:38:44 AM
+************************************************
+Thread 393824 failed to get a write lock.
+[Current Writer Info]
+ - At log time, no write lock was found.
+[Current Reader(s) Info]
+ - Thread 392648 has had a read lock for 00:00:41 that was obtained at 6/10/2016 11:38:03 AM.
+************************************************
+
+************************************************
+Server Status Report
+************************************************
+07/13/16 14:27:19
+Databases: 1 Global Users: 181
+Memory:
+[{Largest: 8181.75 GB}, {Free Blocks: 161}, {Mem Free: 8191.10 GB}, {Mem Rsrv: 102.46 MB}, {Mem Comm: 817.77 MB}]
+
+Threads:
+Number of threads: 46    Web Requests: 1667443
+ Socket: 6000 [170.138.104.250] Thread: 391096  Rqsts[498]  Session [0xce7b3fd1]  Bfrd: 0
+ Socket: 3648 [170.138.104.250] Thread: 390732  Rqsts[414]  Session [0xfec91a73]  Busy [3 : 9.000000 secs]  Bfrd: 0
+ Socket: 5964 [170.138.104.250] Thread: 393008  Rqsts[481]  Session [0x1e985a6f]  Bfrd: 0
+ Socket: 5552 [170.138.104.250] Thread: 392680  Rqsts[310]  Session [0xfdc8e07e]  Bfrd: 0
+ Socket: 4844 [13.64.168.11] Thread: 393568  Rqsts[0]  Bfrd: 0
+ Socket: 3708 [13.64.168.11] Thread: 393364  Rqsts[0]  Bfrd: 0
+ Socket: 5948 [13.64.168.11] Thread: 393760  Rqsts[0]  Bfrd: 0
+ Socket: 1272 [13.64.168.11] Thread: 392248  Rqsts[0]  Bfrd: 0
+ Socket: 3120 [13.64.168.11] Thread: 392892  Rqsts[0]  Bfrd: 0
+ Socket: 5880 [170.138.104.250] Thread: 391300  Rqsts[41]  Session [0x965292cc]  Busy [3 : 18.000000 secs]  Bfrd: 0
+ Socket: 1772 [13.64.168.11] Thread: 391940  Rqsts[0]  Bfrd: 0
+ Socket: 3112 [13.64.168.11] Thread: 390576  Rqsts[0]  Bfrd: 0
+ Socket: 6516 [13.64.168.11] Thread: 393264  Rqsts[0]  Bfrd: 0
+ Socket: 6588 [13.64.168.11] Thread: 392624  Rqsts[0]  Bfrd: 0
+ Socket: 5656 [13.64.168.11] Thread: 392836  Rqsts[0]  Bfrd: 0
+ Socket: 5180 [13.64.168.11] Thread: 383288  Rqsts[0]  Bfrd: 0
+ Socket: 5424 [170.138.104.250] Thread: 387564  Rqsts[40]  Session [0x120158b2]  Bfrd: 0
+ Socket: 5396 [13.64.168.11] Thread: 392648  Rqsts[0]  Bfrd: 0
+ Socket: 6544 [13.64.168.11] Thread: 392304  Rqsts[0]  Bfrd: 0
+ Socket: 1556 [13.64.168.11] Thread: 393608  Rqsts[0]  Bfrd: 0
+ Socket: 5720 [13.64.168.11] Thread: 390340  Rqsts[0]  Bfrd: 0
+ Socket: 4452 [13.64.168.11] Thread: 394140  Rqsts[0]  Bfrd: 0
+ Socket: 6020 [13.64.168.11] Thread: 391016  Rqsts[0]  Bfrd: 0
+ Socket: 5940 [13.64.168.11] Thread: 393652  Rqsts[0]  Bfrd: 0
+ Socket: 3792 [13.64.168.11] Thread: 393588  Rqsts[0]  Bfrd: 0
+ Socket: 5684 [13.64.168.11] Thread: 391412  Rqsts[0]  Bfrd: 0
+ Socket: 1420 [13.64.168.11] Thread: 393308  Rqsts[0]  Bfrd: 0
+ Socket: 4624 [13.64.168.11] Thread: 393028  Rqsts[0]  Bfrd: 0
+ Socket: 4688 [13.64.168.11] Thread: 392452  Rqsts[0]  Bfrd: 0
+ Socket: 3700 [170.138.104.250] Thread: 390324  Rqsts[21]  Session [0x7ab250e]  Bfrd: 0
+ Socket: 4192 [13.64.168.11] Thread: 390768  Rqsts[0]  Bfrd: 0
+ Socket: 1220 [13.64.168.11] Thread: 393532  Rqsts[0]  Bfrd: 0
+ Socket: 5000 [13.64.168.11] Thread: 332712  Rqsts[0]  Bfrd: 0
+ Socket: 4616 [13.64.168.11] Thread: 390944  Rqsts[0]  Bfrd: 0
+ Socket: 5976 [170.138.104.250] Thread: 392572  Rqsts[50]  Session [0xad6ea8a]  Busy [362 : 25.000000 secs]  Bfrd: 0
+ Socket: 2608 [13.64.168.11] Thread: 385000  Rqsts[0]  Bfrd: 0
+ Socket: 4796 [13.64.168.11] Thread: 393592  Rqsts[0]  Bfrd: 0
+ Socket: 6432 [13.64.168.11] Thread: 393472  Rqsts[0]  Bfrd: 0
+ Socket: 5160 [13.64.168.11] Thread: 390964  Rqsts[0]  Bfrd: 0
+ Socket: 4100 [13.64.168.11] Thread: 331964  Rqsts[0]  Bfrd: 0
+ Socket: 5952 [13.64.168.11] Thread: 393196  Rqsts[0]  Bfrd: 0
+ Socket: 3660 [13.64.168.11] Thread: 392348  Rqsts[0]  Bfrd: 0
+ Socket: 5528 [13.64.168.11] Thread: 393440  Rqsts[0]  Bfrd: 0
+ Socket: 5488 [13.64.168.11] Thread: 392600  Rqsts[0]  Bfrd: 0
+ Socket: 6124 [127.0.0.1] Thread: 393032  Rqsts[4]  Session [0xf84eeeb7]  Busy [5 : 25.000000 secs]  Bfrd: 0
+ Socket: 5224 [13.64.168.11] Thread: 392580  Rqsts[0]  Bfrd: 0
+
+Thread Status Report Time: 00:00:00
+
+Sessions:
+Number of UserSessions: 9 
+ Session: 0xad6ea8a Wed, 13 Jul 2016 18:23:26 GMT
+      Danial levitan [Client]  [170.138.104.250] [362  Wed, 13 Jul 2016 18:26:54 GMT]
+      [Export XML: 393812] [Export XML][Working][-1][170.138.104.250][233][0]
+      HFN
+ Session: 0x7ab250e Wed, 13 Jul 2016 18:21:29 GMT
+      Veronica Lockhart [Client]  [170.138.104.250] [7  Wed, 13 Jul 2016 18:26:28 GMT]
+      HFN
+ Session: 0x120158b2 Wed, 13 Jul 2016 18:17:05 GMT
+      Kim Doyle [Client]  [170.138.104.250] [7  Wed, 13 Jul 2016 18:26:43 GMT]
+      HFN
+ Session: 0x965292cc Wed, 13 Jul 2016 18:14:03 GMT
+      Tony Dirkers [Client]  [170.138.104.250] [3  Wed, 13 Jul 2016 18:27:01 GMT]
+      HFN
+ Session: 0x7bd35248 [web] Wed, 13 Jul 2016 18:13:43 GMT
+      Vijaya Maguluri [Web]  [127.0.0.1/170.138.104.250] [68  Wed, 13 Jul 2016 18:26:54 GMT]
+      HFN
+ Session: 0xfdc8e07e Wed, 13 Jul 2016 15:33:48 GMT
+      David Chen [Client]  [170.138.104.250] [3  Wed, 13 Jul 2016 18:26:49 GMT]
+      HFN
+ Session: 0x1e985a6f Wed, 13 Jul 2016 14:35:43 GMT
+      KimberlyAdminisource! D Mathis [Client]  [170.138.104.250] [7  Wed, 13 Jul 2016 18:26:44 GMT]
+      HFN
+ Session: 0xfec91a73 Wed, 13 Jul 2016 14:11:08 GMT
+      Ezra Ibrahim [Client]  [170.138.104.250] [3  Wed, 13 Jul 2016 18:27:10 GMT]
+      HFN
+ Session: 0xce7b3fd1 Wed, 13 Jul 2016 13:17:30 GMT
+      Robin McLaughlin [Client]  [170.138.104.250] [7  Wed, 13 Jul 2016 18:26:35 GMT]
+      HFN
+
+Session Status Report Time: 00:00:00
+
+Server Maint Thread: 2216; Status: End
+Proj: HFN; Maint Thread: 2264; Esc. Thread: 0; Status: StartLoop
+
+Status Report Time: 00:00:17
+
+************************************************
+
+
+************************************************
+Lock Status Report - Write Lock Fail Details
+7/13/2016 2:27:31 PM
+************************************************
+Thread 393032 failed to get a write lock.
+[Current Writer Info]
+ - At log time, no write lock was found.
+[Current Reader(s) Info]
+ - Thread 393812 has had a read lock for 00:01:06 that was obtained at 7/13/2016 2:26:25 PM.
+************************************************
+
+************************************************
+Server Status Report
+************************************************
+07/13/16 14:28:25
+Databases: 1 Global Users: 181
+Memory:
+[{Largest: 8181.75 GB}, {Free Blocks: 162}, {Mem Free: 8191.10 GB}, {Mem Rsrv: 103.20 MB}, {Mem Comm: 818.04 MB}]
+
+Threads:
+Number of threads: 45    Web Requests: 1667449
+ Socket: 6000 [170.138.104.250] Thread: 391096  Rqsts[499]  Session [0xce7b3fd1]  Bfrd: 0
+ Socket: 3648 [170.138.104.250] Thread: 390732  Rqsts[415]  Session [0xfec91a73]  Busy [3 : 15.000000 secs]  Bfrd: 0
+ Socket: 5964 [170.138.104.250] Thread: 393008  Rqsts[482]  Session [0x1e985a6f]  Bfrd: 0
+ Socket: 5552 [170.138.104.250] Thread: 392680  Rqsts[311]  Session [0xfdc8e07e]  Bfrd: 0
+ Socket: 1272 [13.64.168.11] Thread: 392248  Rqsts[0]  Bfrd: 0
+ Socket: 3120 [13.64.168.11] Thread: 392892  Rqsts[0]  Bfrd: 0
+ Socket: 5880 [170.138.104.250] Thread: 391300  Rqsts[42]  Session [0x965292cc]  Busy [3 : 24.000000 secs]  Bfrd: 0
+ Socket: 1772 [13.64.168.11] Thread: 391940  Rqsts[0]  Bfrd: 0
+ Socket: 3112 [13.64.168.11] Thread: 390576  Rqsts[0]  Bfrd: 0
+ Socket: 6516 [13.64.168.11] Thread: 393264  Rqsts[0]  Bfrd: 0
+ Socket: 6588 [13.64.168.11] Thread: 392624  Rqsts[0]  Bfrd: 0
+ Socket: 5656 [13.64.168.11] Thread: 392836  Rqsts[0]  Bfrd: 0
+ Socket: 5180 [13.64.168.11] Thread: 383288  Rqsts[0]  Bfrd: 0
+ Socket: 5424 [170.138.104.250] Thread: 387564  Rqsts[41]  Session [0x120158b2]  Bfrd: 0
+ Socket: 5396 [13.64.168.11] Thread: 392648  Rqsts[0]  Bfrd: 0
+ Socket: 6544 [13.64.168.11] Thread: 392304  Rqsts[0]  Bfrd: 0
+ Socket: 1556 [13.64.168.11] Thread: 393608  Rqsts[0]  Bfrd: 0
+ Socket: 5720 [13.64.168.11] Thread: 390340  Rqsts[0]  Bfrd: 0
+ Socket: 4452 [13.64.168.11] Thread: 394140  Rqsts[0]  Bfrd: 0
+ Socket: 6020 [13.64.168.11] Thread: 391016  Rqsts[0]  Bfrd: 0
+ Socket: 5940 [13.64.168.11] Thread: 393652  Rqsts[0]  Bfrd: 0
+ Socket: 3792 [13.64.168.11] Thread: 393588  Rqsts[0]  Bfrd: 0
+ Socket: 5684 [13.64.168.11] Thread: 391412  Rqsts[0]  Bfrd: 0
+ Socket: 1420 [13.64.168.11] Thread: 393308  Rqsts[0]  Bfrd: 0
+ Socket: 4624 [13.64.168.11] Thread: 393028  Rqsts[0]  Bfrd: 0
+ Socket: 4688 [13.64.168.11] Thread: 392452  Rqsts[0]  Bfrd: 0
+ Socket: 3700 [170.138.104.250] Thread: 390324  Rqsts[22]  Session [0x7ab250e]  Bfrd: 0
+ Socket: 4192 [13.64.168.11] Thread: 390768  Rqsts[0]  Bfrd: 0
+ Socket: 1220 [13.64.168.11] Thread: 393532  Rqsts[0]  Bfrd: 0
+ Socket: 5000 [13.64.168.11] Thread: 332712  Rqsts[0]  Bfrd: 0
+ Socket: 4616 [13.64.168.11] Thread: 390944  Rqsts[0]  Bfrd: 0
+ Socket: 5976 [170.138.104.250] Thread: 392572  Rqsts[75]  Session [0xad6ea8a]  Busy [362 : 30.000000 secs]  Bfrd: 0
+ Socket: 2608 [13.64.168.11] Thread: 385000  Rqsts[0]  Bfrd: 0
+ Socket: 4796 [13.64.168.11] Thread: 393592  Rqsts[0]  Bfrd: 0
+ Socket: 6432 [13.64.168.11] Thread: 393472  Rqsts[0]  Bfrd: 0
+ Socket: 5160 [13.64.168.11] Thread: 390964  Rqsts[0]  Bfrd: 0
+ Socket: 4100 [13.64.168.11] Thread: 331964  Rqsts[0]  Bfrd: 0
+ Socket: 5952 [13.64.168.11] Thread: 393196  Rqsts[0]  Bfrd: 0
+ Socket: 3660 [13.64.168.11] Thread: 392348  Rqsts[0]  Bfrd: 0
+ Socket: 5528 [13.64.168.11] Thread: 393440  Rqsts[0]  Bfrd: 0
+ Socket: 5488 [13.64.168.11] Thread: 392600  Rqsts[0]  Bfrd: 0
+ Socket: 5224 [13.64.168.11] Thread: 392580  Rqsts[0]  Bfrd: 0
+ Socket: 5456 [13.64.168.11] Thread: 391736  Rqsts[0]  Bfrd: 0
+ Socket: 4164 [127.0.0.1] Thread: 390808  Rqsts[4]  Session [0x43fff742]  Busy [5 : 31.000000 secs]  Bfrd: 0
+ Socket: 6292 [13.64.168.11] Thread: 393620  Rqsts[0]  Bfrd: 0
+
+Thread Status Report Time: 00:00:00
+
+Sessions:
+Number of UserSessions: 9 
+ Session: 0xad6ea8a Wed, 13 Jul 2016 18:23:26 GMT
+      Danial levitan [Client]  [170.138.104.250] [362  Wed, 13 Jul 2016 18:27:55 GMT]
+      [Export XML: 393812] [Export XML][Working][-1][170.138.104.250][299][0]
+      HFN
+ Session: 0x7ab250e Wed, 13 Jul 2016 18:21:29 GMT
+      Veronica Lockhart [Client]  [170.138.104.250] [3  Wed, 13 Jul 2016 18:27:27 GMT]
+      HFN
+ Session: 0x120158b2 Wed, 13 Jul 2016 18:17:05 GMT
+      Kim Doyle [Client]  [170.138.104.250] [3  Wed, 13 Jul 2016 18:27:43 GMT]
+      HFN
+ Session: 0x965292cc Wed, 13 Jul 2016 18:14:03 GMT
+      Tony Dirkers [Client]  [170.138.104.250] [3  Wed, 13 Jul 2016 18:28:01 GMT]
+      HFN
+ Session: 0x7bd35248 [web] Wed, 13 Jul 2016 18:13:43 GMT
+      Vijaya Maguluri [Web]  [127.0.0.1/170.138.104.250] [68  Wed, 13 Jul 2016 18:27:54 GMT]
+      HFN
+ Session: 0xfdc8e07e Wed, 13 Jul 2016 15:33:48 GMT
+      David Chen [Client]  [170.138.104.250] [3  Wed, 13 Jul 2016 18:27:49 GMT]
+      HFN
+ Session: 0x1e985a6f Wed, 13 Jul 2016 14:35:43 GMT
+      KimberlyAdminisource! D Mathis [Client]  [170.138.104.250] [3  Wed, 13 Jul 2016 18:27:44 GMT]
+      HFN
+ Session: 0xfec91a73 Wed, 13 Jul 2016 14:11:08 GMT
+      Ezra Ibrahim [Client]  [170.138.104.250] [3  Wed, 13 Jul 2016 18:28:10 GMT]
+      HFN
+ Session: 0xce7b3fd1 Wed, 13 Jul 2016 13:17:30 GMT
+      Robin McLaughlin [Client]  [170.138.104.250] [3  Wed, 13 Jul 2016 18:27:35 GMT]
+      HFN
+
+Session Status Report Time: 00:00:00
+
+Server Maint Thread: 2216; Status: End
+Proj: HFN; Maint Thread: 2264; Esc. Thread: 0; Status: StartLoop
+
+Status Report Time: 00:00:18
+
+************************************************
+
+
+************************************************
+Lock Status Report - Write Lock Fail Details
+7/13/2016 2:28:31 PM
+************************************************
+Thread 390808 failed to get a write lock.
+[Current Writer Info]
+ - At log time, no write lock was found.
+[Current Reader(s) Info]
+ - Thread 393812 has had a read lock for 00:02:06 that was obtained at 7/13/2016 2:26:25 PM.
+************************************************
+
+************************************************
+Server Status Report
+************************************************
+08/16/16 14:44:26
+Databases: 1 Global Users: 183
+Memory:
+[{Largest: 8181.75 GB}, {Free Blocks: 167}, {Mem Free: 8191.07 GB}, {Mem Rsrv: 102.89 MB}, {Mem Comm: 847.96 MB}]
+
+Threads:
+Number of threads: 45    Web Requests: 1879789
+ Socket: 2844 [170.138.104.250] Thread: 393520  Rqsts[691]  Session [0x2c5168c5]  Bfrd: 0
+ Socket: 4920 [170.138.104.250] Thread: 393892  Rqsts[424]  Session [0x44ff1bad]  Busy [362 : 25.000000 secs]  Bfrd: 0
+ Socket: 1560 [170.138.104.250] Thread: 393124  Rqsts[208]  Session [0xe1e77f1e]  Bfrd: 0
+ Socket: 5284 [170.138.104.250] Thread: 388284  Rqsts[146]  Session [0x84f424e1]  Bfrd: 0
+ Socket: 5536 [170.138.104.250] Thread: 394524  Rqsts[106]  Session [0xaf185c53]  Busy [3 : 20.000000 secs]  Bfrd: 0
+ Socket: 5452 [13.64.168.11] Thread: 394504  Rqsts[0]  Bfrd: 0
+ Socket: 2708 [13.64.168.11] Thread: 393948  Rqsts[0]  Bfrd: 0
+ Socket: 6408 [13.64.168.11] Thread: 393540  Rqsts[0]  Bfrd: 0
+ Socket: 6472 [13.64.168.11] Thread: 394776  Rqsts[0]  Bfrd: 0
+ Socket: 3084 [13.64.168.11] Thread: 392328  Rqsts[0]  Bfrd: 0
+ Socket: 4280 [13.64.168.11] Thread: 393024  Rqsts[0]  Bfrd: 0
+ Socket: 3952 [13.64.168.11] Thread: 394440  Rqsts[0]  Bfrd: 0
+ Socket: 968 [13.64.168.11] Thread: 393340  Rqsts[0]  Bfrd: 0
+ Socket: 5224 [13.64.168.11] Thread: 393832  Rqsts[0]  Bfrd: 0
+ Socket: 4940 [13.64.168.11] Thread: 331568  Rqsts[0]  Bfrd: 0
+ Socket: 3904 [13.64.168.11] Thread: 394836  Rqsts[0]  Bfrd: 0
+ Socket: 2200 [13.64.168.11] Thread: 393372  Rqsts[0]  Bfrd: 0
+ Socket: 4380 [13.64.168.11] Thread: 394232  Rqsts[0]  Bfrd: 0
+ Socket: 3984 [13.64.168.11] Thread: 394980  Rqsts[0]  Bfrd: 0
+ Socket: 4540 [13.64.168.11] Thread: 394384  Rqsts[0]  Bfrd: 0
+ Socket: 3376 [170.138.104.250] Thread: 392060  Rqsts[30]  Session [0xda5dc22a]  Bfrd: 0
+ Socket: 6452 [13.64.168.11] Thread: 394900  Rqsts[0]  Bfrd: 0
+ Socket: 6380 [13.64.168.11] Thread: 393924  Rqsts[0]  Bfrd: 0
+ Socket: 6004 [13.64.168.11] Thread: 394620  Rqsts[0]  Bfrd: 0
+ Socket: 2928 [13.64.168.11] Thread: 394016  Rqsts[0]  Bfrd: 0
+ Socket: 5768 [170.138.104.250] Thread: 392092  Rqsts[27]  Session [0xe4a71176]  Bfrd: 0
+ Socket: 6332 [13.64.168.11] Thread: 390644  Rqsts[0]  Bfrd: 0
+ Socket: 5400 [13.64.168.11] Thread: 394628  Rqsts[0]  Bfrd: 0
+ Socket: 5112 [13.64.168.11] Thread: 390188  Rqsts[0]  Bfrd: 0
+ Socket: 1032 [13.64.168.11] Thread: 393360  Rqsts[0]  Bfrd: 0
+ Socket: 4412 [13.64.168.11] Thread: 394372  Rqsts[0]  Bfrd: 0
+ Socket: 5876 [13.64.168.11] Thread: 395196  Rqsts[0]  Bfrd: 0
+ Socket: 1076 [13.64.168.11] Thread: 393536  Rqsts[0]  Bfrd: 0
+ Socket: 5480 [13.64.168.11] Thread: 361172  Rqsts[0]  Bfrd: 0
+ Socket: 6056 [13.64.168.11] Thread: 392632  Rqsts[0]  Bfrd: 0
+ Socket: 5828 [13.64.168.11] Thread: 394788  Rqsts[0]  Bfrd: 0
+ Socket: 4536 [13.64.168.11] Thread: 394220  Rqsts[0]  Bfrd: 0
+ Socket: 4040 [13.64.168.11] Thread: 393208  Rqsts[0]  Bfrd: 0
+ Socket: 3548 [13.64.168.11] Thread: 394728  Rqsts[0]  Bfrd: 0
+ Socket: 3504 [13.64.168.11] Thread: 394616  Rqsts[0]  Bfrd: 0
+ Socket: 5848 [13.64.168.11] Thread: 390068  Rqsts[0]  Bfrd: 0
+ Socket: 2992 [13.64.168.11] Thread: 394040  Rqsts[0]  Bfrd: 0
+ Socket: 6640 [170.138.104.250] Thread: 394148  Rqsts[4]  Session [0x2818c600]  Busy [5 : 25.000000 secs]  Bfrd: 0
+ Socket: 5884 [127.0.0.1] Thread: 391456  Rqsts[4]  Session [0xdbf09b27]  Busy [5 : 6.000000 secs]  Bfrd: 0
+ Socket: 2660 [13.64.168.11] Thread: 393532  Rqsts[0]  Bfrd: 0
+
+Thread Status Report Time: 00:00:00
+
+Sessions:
+Number of UserSessions: 8 
+ Session: 0xe4a71176 Tue, 16 Aug 2016 18:37:37 GMT
+      Kim Doyle [Client]  [170.138.104.250] [7  Tue, 16 Aug 2016 18:43:36 GMT]
+      HFN
+ Session: 0xda5dc22a Tue, 16 Aug 2016 18:35:43 GMT
+      Shahhamed Hussainisyed [Client]  [170.138.104.250] [7  Tue, 16 Aug 2016 18:43:42 GMT]
+      HFN
+ Session: 0xc4da883f [web] Tue, 16 Aug 2016 18:16:27 GMT
+      Vijaya Maguluri [Web]  [127.0.0.1/104.129.204.81] [614  Tue, 16 Aug 2016 18:44:20 GMT]
+      HFN
+ Session: 0xaf185c53 Tue, 16 Aug 2016 18:16:07 GMT
+      Danial levitan [Client]  [170.138.104.250] [3  Tue, 16 Aug 2016 18:44:06 GMT]
+      HFN
+ Session: 0x84f424e1 Tue, 16 Aug 2016 17:58:52 GMT
+      Mike Meyer [Client]  [170.138.104.250] [677  Tue, 16 Aug 2016 18:44:00 GMT]
+      HFN
+ Session: 0xe1e77f1e Tue, 16 Aug 2016 17:17:33 GMT
+      KimberlyAdminisource! D Mathis [Client]  [170.138.104.250] [7  Tue, 16 Aug 2016 18:43:44 GMT]
+      HFN
+ Session: 0x44ff1bad Tue, 16 Aug 2016 15:26:43 GMT
+      Robin McLaughlin [Client]  [170.138.104.250] [362  Tue, 16 Aug 2016 18:44:01 GMT]
+      [Report: 392368] [Report][Working][1][170.138.104.250][35][0] - [Issues] [Detail] [IssueDetailReport.xslt] [Filter: 0] [Generating XML] [8/16/2016 14:43:51] [Prep: 0] [XML: 0] [Trans: 0]
+      HFN
+ Session: 0x2c5168c5 Tue, 16 Aug 2016 14:09:24 GMT
+      Ezra Ibrahim [Client]  [170.138.104.250] [68  Tue, 16 Aug 2016 18:43:26 GMT]
+      HFN
+
+Session Status Report Time: 00:00:00
+
+Server Maint Thread: 2216; Status: End
+Proj: HFN; Maint Thread: 2264; Esc. Thread: 0; Status: StartLoop
+
+Status Report Time: 00:00:23
+
+************************************************
+
+
+************************************************
+Lock Status Report - Write Lock Fail Details
+8/16/2016 2:44:38 PM
+************************************************
+Thread 394148 failed to get a write lock.
+[Current Writer Info]
+ - Thread 391456 has had an intention to write lock for 00:00:00 that was obtained at 8/16/2016 2:44:38 PM.
+[Current Reader(s) Info]
+ - Thread 392368 has had a read lock for 00:00:47 that was obtained at 8/16/2016 2:43:51 PM.
+************************************************
+
+************************************************
+Lock Status Report - Write Lock Fail Details
+8/16/2016 2:45:16 PM
+************************************************
+Thread 391456 failed to get a write lock.
+[Current Writer Info]
+ - Thread 395032 has had an intention to write lock for 00:00:00 that was obtained at 8/16/2016 2:45:16 PM.
+[Current Reader(s) Info]
+ - Thread 392368 has had a read lock for 00:01:25 that was obtained at 8/16/2016 2:43:51 PM.
+************************************************
+
+************************************************
+Server Status Report
+************************************************
+08/16/16 14:45:41
+Databases: 1 Global Users: 183
+Memory:
+[{Largest: 8181.75 GB}, {Free Blocks: 170}, {Mem Free: 8191.07 GB}, {Mem Rsrv: 107.80 MB}, {Mem Comm: 848.09 MB}]
+
+Threads:
+Number of threads: 48    Web Requests: 1879795
+ Socket: 2844 [170.138.104.250] Thread: 393520  Rqsts[695]  Session [0x2c5168c5]  Busy [3 : 15.000000 secs]  Bfrd: 0
+ Socket: 4920 [170.138.104.250] Thread: 393892  Rqsts[428]  Session [0x44ff1bad]  Busy [362 : 25.000000 secs]  Bfrd: 0
+ Socket: 1560 [170.138.104.250] Thread: 393124  Rqsts[211]  Session [0xe1e77f1e]  Busy [7 : 25.000000 secs]  Bfrd: 0
+ Socket: 5284 [170.138.104.250] Thread: 388284  Rqsts[147]  Session [0x84f424e1]  Bfrd: 0
+ Socket: 5536 [170.138.104.250] Thread: 394524  Rqsts[109]  Session [0xaf185c53]  Busy [62 : 25.000000 secs]  Bfrd: 0
+ Socket: 6408 [13.64.168.11] Thread: 393540  Rqsts[0]  Bfrd: 0
+ Socket: 6472 [13.64.168.11] Thread: 394776  Rqsts[0]  Bfrd: 0
+ Socket: 3084 [13.64.168.11] Thread: 392328  Rqsts[0]  Bfrd: 0
+ Socket: 4280 [13.64.168.11] Thread: 393024  Rqsts[0]  Bfrd: 0
+ Socket: 3952 [13.64.168.11] Thread: 394440  Rqsts[0]  Bfrd: 0
+ Socket: 968 [13.64.168.11] Thread: 393340  Rqsts[0]  Bfrd: 0
+ Socket: 5224 [13.64.168.11] Thread: 393832  Rqsts[0]  Bfrd: 0
+ Socket: 4940 [13.64.168.11] Thread: 331568  Rqsts[0]  Bfrd: 0
+ Socket: 3904 [13.64.168.11] Thread: 394836  Rqsts[0]  Bfrd: 0
+ Socket: 2200 [13.64.168.11] Thread: 393372  Rqsts[0]  Bfrd: 0
+ Socket: 4380 [13.64.168.11] Thread: 394232  Rqsts[0]  Bfrd: 0
+ Socket: 3984 [13.64.168.11] Thread: 394980  Rqsts[0]  Bfrd: 0
+ Socket: 4540 [13.64.168.11] Thread: 394384  Rqsts[0]  Bfrd: 0
+ Socket: 3376 [170.138.104.250] Thread: 392060  Rqsts[33]  Session [0xda5dc22a]  Busy [7 : 25.000000 secs]  Bfrd: 0
+ Socket: 6452 [13.64.168.11] Thread: 394900  Rqsts[0]  Bfrd: 0
+ Socket: 6380 [13.64.168.11] Thread: 393924  Rqsts[0]  Bfrd: 0
+ Socket: 6004 [13.64.168.11] Thread: 394620  Rqsts[0]  Bfrd: 0
+ Socket: 2928 [13.64.168.11] Thread: 394016  Rqsts[0]  Bfrd: 0
+ Socket: 5768 [170.138.104.250] Thread: 392092  Rqsts[31]  Session [0xe4a71176]  Busy [3 : 5.000000 secs]  Bfrd: 0
+ Socket: 6332 [13.64.168.11] Thread: 390644  Rqsts[0]  Bfrd: 0
+ Socket: 5400 [13.64.168.11] Thread: 394628  Rqsts[0]  Bfrd: 0
+ Socket: 5112 [13.64.168.11] Thread: 390188  Rqsts[0]  Bfrd: 0
+ Socket: 1032 [13.64.168.11] Thread: 393360  Rqsts[0]  Bfrd: 0
+ Socket: 4412 [13.64.168.11] Thread: 394372  Rqsts[0]  Bfrd: 0
+ Socket: 5876 [13.64.168.11] Thread: 395196  Rqsts[0]  Bfrd: 0
+ Socket: 1076 [13.64.168.11] Thread: 393536  Rqsts[0]  Bfrd: 0
+ Socket: 5480 [13.64.168.11] Thread: 361172  Rqsts[0]  Bfrd: 0
+ Socket: 6056 [13.64.168.11] Thread: 392632  Rqsts[0]  Bfrd: 0
+ Socket: 5828 [13.64.168.11] Thread: 394788  Rqsts[0]  Bfrd: 0
+ Socket: 4536 [13.64.168.11] Thread: 394220  Rqsts[0]  Bfrd: 0
+ Socket: 4040 [13.64.168.11] Thread: 393208  Rqsts[0]  Bfrd: 0
+ Socket: 3548 [13.64.168.11] Thread: 394728  Rqsts[0]  Bfrd: 0
+ Socket: 3504 [13.64.168.11] Thread: 394616  Rqsts[0]  Bfrd: 0
+ Socket: 5848 [13.64.168.11] Thread: 390068  Rqsts[0]  Bfrd: 0
+ Socket: 2992 [13.64.168.11] Thread: 394040  Rqsts[0]  Bfrd: 0
+ Socket: 2660 [13.64.168.11] Thread: 393532  Rqsts[0]  Bfrd: 0
+ Socket: 5944 [170.138.104.250] Thread: 395032  Rqsts[4]  Session [0xcb7f0b7d]  Busy [5 : 31.000000 secs]  Bfrd: 0
+ Socket: 1204 [13.64.168.11] Thread: 394420  Rqsts[0]  Bfrd: 0
+ Socket: 6512 [170.138.104.250] Thread: 393680  Rqsts[5]  Busy [4 : 23.000000 secs]  Bfrd: 0
+ Socket: 4744 [13.64.168.11] Thread: 394700  Rqsts[0]  Bfrd: 0
+ Socket: 2812 [127.0.0.1] Thread: 393788  Rqsts[1]  Session [0xc4da883f]  Busy [1 : 25.000000 secs]  Bfrd: 0
+ Socket: 5404 [127.0.0.1] Thread: 393244  Rqsts[4]  Session [0x4a4777be]  Busy [5 : 21.000000 secs]  Bfrd: 0
+ Socket: 5860 [13.64.168.11] Thread: 393764  Rqsts[0]  Bfrd: 0
+
+Thread Status Report Time: 00:00:00
+
+Sessions:
+Number of UserSessions: 8 
+ Session: 0xe4a71176 Tue, 16 Aug 2016 18:37:37 GMT
+      Kim Doyle [Client]  [170.138.104.250] [3  Tue, 16 Aug 2016 18:45:36 GMT]
+      HFN
+ Session: 0xda5dc22a Tue, 16 Aug 2016 18:35:43 GMT
+      Shahhamed Hussainisyed [Client]  [170.138.104.250] [7  Tue, 16 Aug 2016 18:45:16 GMT]
+      HFN
+ Session: 0xc4da883f [web] Tue, 16 Aug 2016 18:16:27 GMT
+      Vijaya Maguluri [Web]  [127.0.0.1/104.129.204.81] [657  Tue, 16 Aug 2016 18:45:20 GMT]
+      HFN
+ Session: 0xaf185c53 Tue, 16 Aug 2016 18:16:07 GMT
+      Danial levitan [Client]  [170.138.104.250] [62  Tue, 16 Aug 2016 18:45:16 GMT]
+      HFN
+ Session: 0x84f424e1 Tue, 16 Aug 2016 17:58:52 GMT
+      Mike Meyer [Client]  [170.138.104.250] [3  Tue, 16 Aug 2016 18:44:51 GMT]
+      HFN
+ Session: 0xe1e77f1e Tue, 16 Aug 2016 17:17:33 GMT
+      KimberlyAdminisource! D Mathis [Client]  [170.138.104.250] [7  Tue, 16 Aug 2016 18:45:16 GMT]
+      HFN
+ Session: 0x44ff1bad Tue, 16 Aug 2016 15:26:43 GMT
+      Robin McLaughlin [Client]  [170.138.104.250] [362  Tue, 16 Aug 2016 18:45:16 GMT]
+      [Report: 392368] [Report][Working][1][170.138.104.250][110][0] - [Issues] [Detail] [IssueDetailReport.xslt] [Filter: 0] [Generating XML] [8/16/2016 14:43:51] [Prep: 0] [XML: 0] [Trans: 0]
+      HFN
+ Session: 0x2c5168c5 Tue, 16 Aug 2016 14:09:24 GMT
+      Ezra Ibrahim [Client]  [170.138.104.250] [3  Tue, 16 Aug 2016 18:45:26 GMT]
+      HFN
+
+Session Status Report Time: 00:00:00
+
+Server Maint Thread: 2216; Status: End
+Proj: HFN; Maint Thread: 2264; Esc. Thread: 0; Status: StartLoop
+
+Status Report Time: 00:00:17
+
+************************************************
+
+
+************************************************
+Lock Status Report - Write Lock Fail Details
+8/16/2016 2:45:54 PM
+************************************************
+Thread 395032 failed to get a write lock.
+[Current Writer Info]
+ - Thread 393244 has had an intention to write lock for 00:00:00 that was obtained at 8/16/2016 2:45:54 PM.
+[Current Reader(s) Info]
+ - Thread 392368 has had a read lock for 00:02:03 that was obtained at 8/16/2016 2:43:51 PM.
+************************************************
+
+************************************************
+Lock Status Report - Write Lock Fail Details
+8/16/2016 2:46:31 PM
+************************************************
+Thread 393244 failed to get a write lock.
+[Current Writer Info]
+ - At log time, no write lock was found.
+[Current Reader(s) Info]
+ - Thread 392368 has had a read lock for 00:02:40 that was obtained at 8/16/2016 2:43:51 PM.
+************************************************
+
+************************************************
+Server Status Report
+************************************************
+10/27/16 14:50:02
+Databases: 1 Global Users: 184
+Memory:
+[{Largest: 8181.75 GB}, {Free Blocks: 167}, {Mem Free: 8191.03 GB}, {Mem Rsrv: 112.39 MB}, {Mem Comm: 884.88 MB}]
+
+Threads:
+Number of threads: 44    Web Requests: 2307319
+ Socket: 3288 [170.138.104.250] Thread: 394328  Rqsts[13828]  Session [0x7294c3d]  Busy [3 : 14.000000 secs]  Bfrd: 0
+ Socket: 6860 [170.138.104.250] Thread: 393616  Rqsts[2866]  Session [0xa7098396]  Bfrd: 0
+ Socket: 6480 [170.138.104.250] Thread: 393816  Rqsts[2022]  Session [0xcdc7da52]  Bfrd: 0
+ Socket: 5140 [170.138.104.250] Thread: 393512  Rqsts[545]  Session [0x4ecc64c2]  Busy [362 : 24.000000 secs]  Bfrd: 0
+ Socket: 4560 [170.138.104.250] Thread: 105624  Rqsts[204]  Session [0x48ebedaf]  Busy [3 : 8.000000 secs]  Bfrd: 0
+ Socket: 4980 [170.138.104.250] Thread: 394056  Rqsts[48]  Session [0x863782a4]  Bfrd: 0
+ Socket: 6588 [13.64.168.11] Thread: 393804  Rqsts[0]  Bfrd: 0
+ Socket: 5388 [13.64.168.11] Thread: 393504  Rqsts[0]  Bfrd: 0
+ Socket: 6916 [13.64.168.11] Thread: 395040  Rqsts[0]  Bfrd: 0
+ Socket: 5820 [13.64.168.11] Thread: 393372  Rqsts[0]  Bfrd: 0
+ Socket: 4780 [13.64.168.11] Thread: 394640  Rqsts[0]  Bfrd: 0
+ Socket: 6392 [13.64.168.11] Thread: 394816  Rqsts[0]  Bfrd: 0
+ Socket: 4944 [13.64.168.11] Thread: 394948  Rqsts[0]  Bfrd: 0
+ Socket: 4184 [13.64.168.11] Thread: 390596  Rqsts[0]  Bfrd: 0
+ Socket: 6176 [13.64.168.11] Thread: 393788  Rqsts[0]  Bfrd: 0
+ Socket: 1396 [13.64.168.11] Thread: 392488  Rqsts[0]  Bfrd: 0
+ Socket: 4200 [13.64.168.11] Thread: 392288  Rqsts[0]  Bfrd: 0
+ Socket: 7276 [13.64.168.11] Thread: 387348  Rqsts[0]  Bfrd: 0
+ Socket: 6972 [13.64.168.11] Thread: 393540  Rqsts[0]  Bfrd: 0
+ Socket: 7032 [13.64.168.11] Thread: 393548  Rqsts[0]  Bfrd: 0
+ Socket: 3884 [13.64.168.11] Thread: 394352  Rqsts[0]  Bfrd: 0
+ Socket: 2764 [13.64.168.11] Thread: 17636  Rqsts[0]  Bfrd: 0
+ Socket: 3856 [13.64.168.11] Thread: 392128  Rqsts[0]  Bfrd: 0
+ Socket: 6904 [13.64.168.11] Thread: 390148  Rqsts[0]  Bfrd: 0
+ Socket: 4264 [13.64.168.11] Thread: 395076  Rqsts[0]  Bfrd: 0
+ Socket: 6348 [13.64.168.11] Thread: 393444  Rqsts[0]  Bfrd: 0
+ Socket: 1784 [13.64.168.11] Thread: 394016  Rqsts[0]  Bfrd: 0
+ Socket: 5844 [13.64.168.11] Thread: 393288  Rqsts[0]  Bfrd: 0
+ Socket: 2620 [13.64.168.11] Thread: 287984  Rqsts[0]  Bfrd: 0
+ Socket: 4188 [13.64.168.11] Thread: 392336  Rqsts[0]  Bfrd: 0
+ Socket: 6920 [13.64.168.11] Thread: 391580  Rqsts[0]  Bfrd: 0
+ Socket: 5072 [13.64.168.11] Thread: 390964  Rqsts[0]  Bfrd: 0
+ Socket: 4988 [13.64.168.11] Thread: 393644  Rqsts[0]  Bfrd: 0
+ Socket: 4160 [13.64.168.11] Thread: 393756  Rqsts[0]  Bfrd: 0
+ Socket: 4812 [13.64.168.11] Thread: 390516  Rqsts[0]  Bfrd: 0
+ Socket: 3320 [170.138.104.250] Thread: 390848  Rqsts[18]  Session [0xe55f252]  Bfrd: 0
+ Socket: 4268 [13.64.168.11] Thread: 393976  Rqsts[0]  Bfrd: 0
+ Socket: 5536 [13.64.168.11] Thread: 392760  Rqsts[0]  Bfrd: 0
+ Socket: 4700 [13.64.168.11] Thread: 394980  Rqsts[0]  Bfrd: 0
+ Socket: 4272 [13.64.168.11] Thread: 393972  Rqsts[0]  Bfrd: 0
+ Socket: 4016 [13.64.168.11] Thread: 393588  Rqsts[0]  Bfrd: 0
+ Socket: 3492 [13.64.168.11] Thread: 394424  Rqsts[0]  Bfrd: 0
+ Socket: 3824 [127.0.0.1] Thread: 394868  Rqsts[4]  Session [0x64f3f58b]  Busy [5 : 25.000000 secs]  Bfrd: 0
+ Socket: 3992 [13.64.168.11] Thread: 393900  Rqsts[0]  Bfrd: 0
+
+Thread Status Report Time: 00:00:00
+
+Sessions:
+Number of UserSessions: 9 
+ Session: 0xe55f252 Thu, 27 Oct 2016 18:47:18 GMT
+      Betty Williams [Client]  [170.138.104.250] [68  Thu, 27 Oct 2016 18:49:22 GMT]
+      HFN
+ Session: 0x863782a4 Thu, 27 Oct 2016 18:34:19 GMT
+      Wayne Finley [Client]  [170.138.104.250] [3  Thu, 27 Oct 2016 18:49:18 GMT]
+      HFN
+ Session: 0x3612290 [web] Thu, 27 Oct 2016 18:24:21 GMT
+      Vijaya Maguluri [Web]  [127.0.0.1/104.129.204.86] [68  Thu, 27 Oct 2016 18:48:57 GMT]
+      HFN
+ Session: 0x48ebedaf Thu, 27 Oct 2016 18:10:57 GMT
+      Tony Dirkers [Client]  [170.138.104.250] [3  Thu, 27 Oct 2016 18:49:54 GMT]
+      HFN
+ Session: 0x4ecc64c2 Thu, 27 Oct 2016 14:28:32 GMT
+      Robin McLaughlin [Client]  [170.138.104.250] [362  Thu, 27 Oct 2016 18:49:38 GMT]
+      [Report: 393520] Last Report: [Type: Issues] [Report: Detail] [Start: 10/27/2016 14:48:26] [End: 10/27/2016 14:48:27] [Prep: 0] [XML: 0] [Trans: 1] [Status: Not Running].[Export XML: 389544] [Export XML][Working][2][170.138.104.250][15690][0]
+      HFN
+ Session: 0xcdc7da52 Wed, 26 Oct 2016 20:32:52 GMT
+      KimberlyAdminisource! D Mathis [Client]  [170.138.104.250] [3  Thu, 27 Oct 2016 18:49:11 GMT]
+      HFN
+ Session: 0xa7098396 Wed, 26 Oct 2016 12:43:40 GMT
+      Ezra Ibrahim [Client]  [170.138.104.250] [3  Thu, 27 Oct 2016 18:49:03 GMT]
+      HFN
+ Session: 0x90a3049 [web] Mon, 24 Oct 2016 17:46:40 GMT
+      KimberlyAdminisource! D Mathis [Web]  [127.0.0.1/64.72.56.251] [68  Thu, 27 Oct 2016 18:49:37 GMT]
+      HFN
+ Session: 0x7294c3d Wed, 19 Oct 2016 20:26:06 GMT
+      David Chen [Client]  [170.138.104.250] [3  Thu, 27 Oct 2016 18:49:48 GMT]
+      HFN
+
+Session Status Report Time: 00:00:00
+
+Server Maint Thread: 2216; Status: End
+Proj: HFN; Maint Thread: 2264; Esc. Thread: 0; Status: StartLoop
+
+Status Report Time: 00:00:47
+
+************************************************
+
+
+************************************************
+Lock Status Report - Write Lock Fail Details
+10/27/2016 2:50:14 PM
+************************************************
+Thread 394868 failed to get a write lock.
+[Current Writer Info]
+ - Thread 394892 has had an intention to write lock for 00:00:00 that was obtained at 10/27/2016 2:50:14 PM.
+[Current Reader(s) Info]
+ - Thread 389544 has had a read lock for 00:00:38 that was obtained at 10/27/2016 2:49:36 PM.
+************************************************
+
+************************************************
+Lock Status Report - Write Lock Fail Details
+10/27/2016 2:50:52 PM
+************************************************
+Thread 394892 failed to get a write lock.
+[Current Writer Info]
+ - At log time, no write lock was found.
+[Current Reader(s) Info]
+ - Thread 389544 has had a read lock for 00:01:16 that was obtained at 10/27/2016 2:49:36 PM.
+************************************************
+
+************************************************
+Server Status Report
+************************************************
+10/27/16 14:51:17
+Databases: 1 Global Users: 184
+Memory:
+[{Largest: 8181.75 GB}, {Free Blocks: 166}, {Mem Free: 8191.02 GB}, {Mem Rsrv: 113.38 MB}, {Mem Comm: 884.91 MB}]
+
+Threads:
+Number of threads: 45    Web Requests: 2307326
+ Socket: 3288 [170.138.104.250] Thread: 394328 Receive(): The socket connection has been reset. Rqsts[13829]  Session [0x7294c3d]  Bfrd: 0
+ Socket: 6860 [170.138.104.250] Thread: 393616  Rqsts[2869]  Session [0xa7098396]  Busy [3 : 14.000000 secs]  Bfrd: 0
+ Socket: 6480 [170.138.104.250] Thread: 393816  Rqsts[2025]  Session [0xcdc7da52]  Busy [3 : 6.000000 secs]  Bfrd: 0
+ Socket: 5140 [170.138.104.250] Thread: 393512  Rqsts[549]  Session [0x4ecc64c2]  Busy [362 : 24.000000 secs]  Bfrd: 0
+ Socket: 4560 [170.138.104.250] Thread: 105624  Rqsts[206]  Session [0x48ebedaf]  Busy [3 : 23.000000 secs]  Bfrd: 0
+ Socket: 4980 [170.138.104.250] Thread: 394056  Rqsts[50]  Session [0x863782a4]  Bfrd: 0
+ Socket: 5820 [13.64.168.11] Thread: 393372  Rqsts[0]  Bfrd: 0
+ Socket: 4780 [13.64.168.11] Thread: 394640  Rqsts[0]  Bfrd: 0
+ Socket: 6392 [13.64.168.11] Thread: 394816  Rqsts[0]  Bfrd: 0
+ Socket: 4944 [13.64.168.11] Thread: 394948  Rqsts[0]  Bfrd: 0
+ Socket: 4184 [13.64.168.11] Thread: 390596  Rqsts[0]  Bfrd: 0
+ Socket: 6176 [13.64.168.11] Thread: 393788  Rqsts[0]  Bfrd: 0
+ Socket: 1396 [13.64.168.11] Thread: 392488  Rqsts[0]  Bfrd: 0
+ Socket: 4200 [13.64.168.11] Thread: 392288  Rqsts[0]  Bfrd: 0
+ Socket: 7276 [13.64.168.11] Thread: 387348  Rqsts[0]  Bfrd: 0
+ Socket: 6972 [13.64.168.11] Thread: 393540  Rqsts[0]  Bfrd: 0
+ Socket: 7032 [13.64.168.11] Thread: 393548  Rqsts[0]  Bfrd: 0
+ Socket: 3884 [13.64.168.11] Thread: 394352  Rqsts[0]  Bfrd: 0
+ Socket: 2764 [13.64.168.11] Thread: 17636  Rqsts[0]  Bfrd: 0
+ Socket: 3856 [13.64.168.11] Thread: 392128  Rqsts[0]  Bfrd: 0
+ Socket: 6904 [13.64.168.11] Thread: 390148  Rqsts[0]  Bfrd: 0
+ Socket: 4264 [13.64.168.11] Thread: 395076  Rqsts[0]  Bfrd: 0
+ Socket: 6348 [13.64.168.11] Thread: 393444  Rqsts[0]  Bfrd: 0
+ Socket: 1784 [13.64.168.11] Thread: 394016  Rqsts[0]  Bfrd: 0
+ Socket: 5844 [13.64.168.11] Thread: 393288  Rqsts[0]  Bfrd: 0
+ Socket: 2620 [13.64.168.11] Thread: 287984  Rqsts[0]  Bfrd: 0
+ Socket: 4188 [13.64.168.11] Thread: 392336  Rqsts[0]  Bfrd: 0
+ Socket: 6920 [13.64.168.11] Thread: 391580  Rqsts[0]  Bfrd: 0
+ Socket: 5072 [13.64.168.11] Thread: 390964  Rqsts[0]  Bfrd: 0
+ Socket: 4988 [13.64.168.11] Thread: 393644  Rqsts[0]  Bfrd: 0
+ Socket: 4160 [13.64.168.11] Thread: 393756  Rqsts[0]  Bfrd: 0
+ Socket: 4812 [13.64.168.11] Thread: 390516  Rqsts[0]  Bfrd: 0
+ Socket: 3320 [170.138.104.250] Thread: 390848  Rqsts[21]  Session [0xe55f252]  Busy [62 : 25.000000 secs]  Bfrd: 0
+ Socket: 4268 [13.64.168.11] Thread: 393976  Rqsts[0]  Bfrd: 0
+ Socket: 5536 [13.64.168.11] Thread: 392760  Rqsts[0]  Bfrd: 0
+ Socket: 4700 [13.64.168.11] Thread: 394980  Rqsts[0]  Bfrd: 0
+ Socket: 4272 [13.64.168.11] Thread: 393972  Rqsts[0]  Bfrd: 0
+ Socket: 4016 [13.64.168.11] Thread: 393588  Rqsts[0]  Bfrd: 0
+ Socket: 3492 [13.64.168.11] Thread: 394424  Rqsts[0]  Bfrd: 0
+ Socket: 3992 [13.64.168.11] Thread: 393900  Rqsts[0]  Bfrd: 0
+ Socket: 2828 [13.64.168.11] Thread: 393880  Rqsts[0]  Bfrd: 0
+ Socket: 4832 [170.138.104.250] Thread: 391940  Rqsts[5]  Busy [4 : 22.000000 secs]  Bfrd: 0
+ Socket: 6108 [13.64.168.11] Thread: 389696  Rqsts[0]  Bfrd: 0
+ Socket: 5748 [127.0.0.1] Thread: 394712  Rqsts[1]  Session [0x3612290]  Busy [1 : 12.000000 secs]  Bfrd: 0
+ Socket: 3752 [13.64.168.11] Thread: 259568  Rqsts[0]  Bfrd: 0
+
+Thread Status Report Time: 00:00:00
+
+Sessions:
+Number of UserSessions: 9 
+ Session: 0xe55f252 Thu, 27 Oct 2016 18:47:18 GMT
+      Betty Williams [Client]  [170.138.104.250] [62  Thu, 27 Oct 2016 18:50:52 GMT]
+      HFN
+ Session: 0x863782a4 Thu, 27 Oct 2016 18:34:19 GMT
+      Wayne Finley [Client]  [170.138.104.250] [68  Thu, 27 Oct 2016 18:50:48 GMT]
+      HFN
+ Session: 0x3612290 [web] Thu, 27 Oct 2016 18:24:21 GMT
+      Vijaya Maguluri [Web]  [127.0.0.1/104.129.204.86] [68  Thu, 27 Oct 2016 18:50:03 GMT]
+      HFN
+ Session: 0x48ebedaf Thu, 27 Oct 2016 18:10:57 GMT
+      Tony Dirkers [Client]  [170.138.104.250] [3  Thu, 27 Oct 2016 18:50:54 GMT]
+      HFN
+ Session: 0x4ecc64c2 Thu, 27 Oct 2016 14:28:32 GMT
+      Robin McLaughlin [Client]  [170.138.104.250] [362  Thu, 27 Oct 2016 18:50:53 GMT]
+      [Report: 393520] Last Report: [Type: Issues] [Report: Detail] [Start: 10/27/2016 14:48:26] [End: 10/27/2016 14:48:27] [Prep: 0] [XML: 0] [Trans: 1] [Status: Not Running].[Export XML: 389544] [Export XML][Working][2][170.138.104.250][15765][0]
+      HFN
+ Session: 0xcdc7da52 Wed, 26 Oct 2016 20:32:52 GMT
+      KimberlyAdminisource! D Mathis [Client]  [170.138.104.250] [3  Thu, 27 Oct 2016 18:51:11 GMT]
+      HFN
+ Session: 0xa7098396 Wed, 26 Oct 2016 12:43:40 GMT
+      Ezra Ibrahim [Client]  [170.138.104.250] [3  Thu, 27 Oct 2016 18:51:03 GMT]
+      HFN
+ Session: 0x90a3049 [web] Mon, 24 Oct 2016 17:46:40 GMT
+      KimberlyAdminisource! D Mathis [Web]  [127.0.0.1/64.72.56.251] [68  Thu, 27 Oct 2016 18:50:52 GMT]
+      HFN
+ Session: 0x7294c3d Wed, 19 Oct 2016 20:26:06 GMT
+      David Chen [Client]  [170.138.104.250] [68  Thu, 27 Oct 2016 18:50:14 GMT]
+      HFN
+
+Session Status Report Time: 00:00:00
+
+Server Maint Thread: 2216; Status: End
+Proj: HFN; Maint Thread: 2264; Esc. Thread: 0; Status: StartLoop
+
+Status Report Time: 00:00:20
+
+************************************************
+
+
+************************************************
+Lock Status Report - Write Lock Fail Details
+10/27/2016 2:51:29 PM
+************************************************
+Current Thread 390848 failed to get a write lock after having obtained an intention to write lock for 00:00:37
+ that was obtained at 10/27/2016 2:50:52 PM.
+[Current Reader(s) Info]
+ - Thread 389544 has had a read lock for 00:01:53 that was obtained at 10/27/2016 2:49:36 PM.
+************************************************
+
+************************************************
+Lock Status Report - Write Lock Fail Details
+10/27/2016 2:52:07 PM
+************************************************
+Thread 2264 failed to get a write lock.
+[Current Writer Info]
+ - Thread 394628 has had an intention to write lock for 00:00:00 that was obtained at 10/27/2016 2:52:07 PM.
+[Current Reader(s) Info]
+ - Thread 389544 has had a read lock for 00:02:31 that was obtained at 10/27/2016 2:49:36 PM.
+************************************************
+
+************************************************
+Server Status Report
+************************************************
+10/27/16 14:52:32
+Databases: 1 Global Users: 184
+Memory:
+[{Largest: 8181.75 GB}, {Free Blocks: 166}, {Mem Free: 8191.02 GB}, {Mem Rsrv: 116.32 MB}, {Mem Comm: 884.99 MB}]
+
+Threads:
+Number of threads: 46    Web Requests: 2307336
+ Socket: 3288 [170.138.104.250] Thread: 394328 Receive(): The socket connection has been reset. Rqsts[13829]  Session [0x7294c3d]  Bfrd: 0
+ Socket: 6860 [170.138.104.250] Thread: 393616  Rqsts[2870]  Session [0xa7098396]  Bfrd: 0
+ Socket: 6480 [170.138.104.250] Thread: 393816  Rqsts[2026]  Session [0xcdc7da52]  Busy [3 : 21.000000 secs]  Bfrd: 0
+ Socket: 5140 [170.138.104.250] Thread: 393512  Rqsts[552]  Session [0x4ecc64c2]  Busy [362 : 24.000000 secs]  Bfrd: 0
+ Socket: 4560 [170.138.104.250] Thread: 105624  Rqsts[207]  Session [0x48ebedaf]  Bfrd: 0
+ Socket: 4980 [170.138.104.250] Thread: 394056  Rqsts[52]  Session [0x863782a4]  Busy [3 : 14.000000 secs]  Bfrd: 0
+ Socket: 4944 [13.64.168.11] Thread: 394948  Rqsts[0]  Bfrd: 0
+ Socket: 4184 [13.64.168.11] Thread: 390596  Rqsts[0]  Bfrd: 0
+ Socket: 6176 [13.64.168.11] Thread: 393788  Rqsts[0]  Bfrd: 0
+ Socket: 1396 [13.64.168.11] Thread: 392488  Rqsts[0]  Bfrd: 0
+ Socket: 4200 [13.64.168.11] Thread: 392288  Rqsts[0]  Bfrd: 0
+ Socket: 7276 [13.64.168.11] Thread: 387348  Rqsts[0]  Bfrd: 0
+ Socket: 6972 [13.64.168.11] Thread: 393540  Rqsts[0]  Bfrd: 0
+ Socket: 7032 [13.64.168.11] Thread: 393548  Rqsts[0]  Bfrd: 0
+ Socket: 3884 [13.64.168.11] Thread: 394352  Rqsts[0]  Bfrd: 0
+ Socket: 2764 [13.64.168.11] Thread: 17636  Rqsts[0]  Bfrd: 0
+ Socket: 3856 [13.64.168.11] Thread: 392128  Rqsts[0]  Bfrd: 0
+ Socket: 6904 [13.64.168.11] Thread: 390148  Rqsts[0]  Bfrd: 0
+ Socket: 4264 [13.64.168.11] Thread: 395076  Rqsts[0]  Bfrd: 0
+ Socket: 6348 [13.64.168.11] Thread: 393444  Rqsts[0]  Bfrd: 0
+ Socket: 1784 [13.64.168.11] Thread: 394016  Rqsts[0]  Bfrd: 0
+ Socket: 5844 [13.64.168.11] Thread: 393288  Rqsts[0]  Bfrd: 0
+ Socket: 2620 [13.64.168.11] Thread: 287984  Rqsts[0]  Bfrd: 0
+ Socket: 4188 [13.64.168.11] Thread: 392336  Rqsts[0]  Bfrd: 0
+ Socket: 6920 [13.64.168.11] Thread: 391580  Rqsts[0]  Bfrd: 0
+ Socket: 5072 [13.64.168.11] Thread: 390964  Rqsts[0]  Bfrd: 0
+ Socket: 4988 [13.64.168.11] Thread: 393644  Rqsts[0]  Bfrd: 0
+ Socket: 4160 [13.64.168.11] Thread: 393756  Rqsts[0]  Bfrd: 0
+ Socket: 4812 [13.64.168.11] Thread: 390516  Rqsts[0]  Bfrd: 0
+ Socket: 3320 [170.138.104.250] Thread: 390848  Rqsts[23]  Session [0xe55f252]  Busy [3 : 15.000000 secs]  Bfrd: 0
+ Socket: 4268 [13.64.168.11] Thread: 393976  Rqsts[0]  Bfrd: 0
+ Socket: 5536 [13.64.168.11] Thread: 392760  Rqsts[0]  Bfrd: 0
+ Socket: 4700 [13.64.168.11] Thread: 394980  Rqsts[0]  Bfrd: 0
+ Socket: 4272 [13.64.168.11] Thread: 393972  Rqsts[0]  Bfrd: 0
+ Socket: 4016 [13.64.168.11] Thread: 393588  Rqsts[0]  Bfrd: 0
+ Socket: 3492 [13.64.168.11] Thread: 394424  Rqsts[0]  Bfrd: 0
+ Socket: 3992 [13.64.168.11] Thread: 393900  Rqsts[0]  Bfrd: 0
+ Socket: 2828 [13.64.168.11] Thread: 393880  Rqsts[0]  Bfrd: 0
+ Socket: 6108 [13.64.168.11] Thread: 389696  Rqsts[0]  Bfrd: 0
+ Socket: 3752 [13.64.168.11] Thread: 259568  Rqsts[0]  Bfrd: 0
+ Socket: 5868 [13.64.168.11] Thread: 394984  Rqsts[0]  Bfrd: 0
+ Socket: 3984 [127.0.0.1] Thread: 394628  Rqsts[4]  Session [0x7583c8b1]  Busy [5 : 55.000000 secs]  Bfrd: 0
+ Socket: 3376 [170.138.104.250] Thread: 394584  Rqsts[5]  Busy [4 : 23.000000 secs]  Bfrd: 0
+ Socket: 4372 [13.64.168.11] Thread: 393560  Rqsts[0]  Bfrd: 0
+ Socket: 2712 [127.0.0.1] Thread: 390644  Rqsts[3]  Busy [4 : 16.000000 secs]  Bfrd: 0
+ Socket: 7152 [13.64.168.11] Thread: 394172  Rqsts[0]  Bfrd: 0
+
+Thread Status Report Time: 00:00:00
+
+Sessions:
+Number of UserSessions: 9 
+ Session: 0xe55f252 Thu, 27 Oct 2016 18:47:18 GMT
+      Betty Williams [Client]  [170.138.104.250] [3  Thu, 27 Oct 2016 18:52:17 GMT]
+      HFN
+ Session: 0x863782a4 Thu, 27 Oct 2016 18:34:19 GMT
+      Wayne Finley [Client]  [170.138.104.250] [3  Thu, 27 Oct 2016 18:52:18 GMT]
+      HFN
+ Session: 0x3612290 [web] Thu, 27 Oct 2016 18:24:21 GMT
+      Vijaya Maguluri [Web]  [127.0.0.1/104.129.204.86] [68  Thu, 27 Oct 2016 18:51:59 GMT]
+      HFN
+ Session: 0x48ebedaf Thu, 27 Oct 2016 18:10:57 GMT
+      Tony Dirkers [Client]  [170.138.104.250] [3  Thu, 27 Oct 2016 18:51:54 GMT]
+      HFN
+ Session: 0x4ecc64c2 Thu, 27 Oct 2016 14:28:32 GMT
+      Robin McLaughlin [Client]  [170.138.104.250] [362  Thu, 27 Oct 2016 18:52:08 GMT]
+      [Report: 393520] Last Report: [Type: Issues] [Report: Detail] [Start: 10/27/2016 14:48:26] [End: 10/27/2016 14:48:27] [Prep: 0] [XML: 0] [Trans: 1] [Status: Not Running].[Export XML: 389544] [Export XML][Working][2][170.138.104.250][15840][0]
+      HFN
+ Session: 0xcdc7da52 Wed, 26 Oct 2016 20:32:52 GMT
+      KimberlyAdminisource! D Mathis [Client]  [170.138.104.250] [3  Thu, 27 Oct 2016 18:52:11 GMT]
+      HFN
+ Session: 0xa7098396 Wed, 26 Oct 2016 12:43:40 GMT
+      Ezra Ibrahim [Client]  [170.138.104.250] [3  Thu, 27 Oct 2016 18:52:03 GMT]
+      HFN
+ Session: 0x90a3049 [web] Mon, 24 Oct 2016 17:46:40 GMT
+      KimberlyAdminisource! D Mathis [Web]  [127.0.0.1/64.72.56.251] [68  Thu, 27 Oct 2016 18:51:37 GMT]
+      HFN
+ Session: 0x7294c3d Wed, 19 Oct 2016 20:26:06 GMT
+      David Chen [Client]  [170.138.104.250] [68  Thu, 27 Oct 2016 18:50:14 GMT]
+      HFN
+
+Session Status Report Time: 00:00:00
+
+Server Maint Thread: 2216; Status: End
+Proj: HFN; Maint Thread: 2264; Esc. Thread: 0; Status: StartLoop
+
+Status Report Time: 00:00:23
+
+************************************************
+
+
+1/11/2017 0:3:4 <System Info> Processor = x64, Processors = 2, Physical Mem = 3.50 GB, Available Physical Mem = 3.03 GB, Page File = 7.00 GB, Available Page File = 6.49 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.85 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+01/11/17 00:03:04 <Info>     Low Fragmentation Heap enabled.
+01/11/17 00:03:06 <Info>     The journal_mode pragma was successfully changed from delete to wal in the SERVER database.
+01/11/17 00:03:07 <Info>     Compacting is starting for the SERVER database.
+01/11/17 00:03:20 <Info>     Compacting was successfully completed for the SERVER database in 13 seconds.
+01/11/17 00:03:20 <Info>     Server log startup for TestTrack 2016.1.0 Build 23 (Windows/x64)
+01/11/17 00:03:25 <Activity> Connection error from [170.138.104.250]: The TestTrack Server you are connecting to was updated to a newer version. 
+You must install the new version of the TestTrack Client. 
+1/11/2017 0:3:26 Starting [{Largest: 8182.72 GB @ 0x0000000140E80000}, {Free Blocks: 129}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 61.20 MB}, {Mem Comm: 136.16 MB}]
+01/11/17 00:03:26 <Info>     TestTrack Server initialized. Accepting connection requests. [2016.1.0 Build 23 (Windows/x64)]
+
+
+CPU: GenuineIntel -        Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz 
+0 projects that contain a total of 0 records were loaded.
+
+	0 issues
+	0 requirements
+	0 requirement documents
+	0 test cases
+	0 test runs
+	0 folders
+1/11/2017 0:05:42 SQL query "select COUNT(*) from DEFECTEVTS where ProjectID = ? " took 3421 milliseconds. Parameters:
+	[ProjectID]=1
+1/11/2017 0:6:0 HFN (TestTrack Native)[{Largest: 8182.72 GB @ 0x0000000140E80000}, {Free Blocks: 134}, {Mem Free: 8191.05 GB}, {Mem Rsrv: 58.99 MB}, {Mem Comm: 914.22 MB}]
+				DFCT 24279	TSTC 0	TSTR 0	RQMT 0	RDMT 0	TASK 1
+				USER 137	UGRP 6	RPRT 77	DFLT 276	LINK 612	MAIL 0
+				FOLDPUB 2	FOLDPVT 3	FOLDTYPE 7	TYPE 3	CUDFDFCT 21	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 11	TRGRPREMOD 0
+				TRGRPREEVT 2	TRGRPRENOTFY 4	TRGRPREEXE 0	TRGRPOSTEXE 0
+1/11/2017 0:22:10 SQL query "insert into MSGLOG(idRecord, logdate, loglevel, message, errornum, dbname, username) values(?, ?, ?, ?, ?, ?, ?)" took 2765 milliseconds. Parameters:
+	[idRecord]=756840
+	[logdate]=2017-01-11T05:22:08
+	[loglevel]=3
+	[message]=ThreadMgr removed a potential denial of service for thread 37...
+	[errornum]=0
+	[dbname]=
+	[username]=
+1/18/2017 0:09:48 SQL query "insert into MSGLOG(idRecord, logdate, loglevel, message, errornum, dbname, username) values(?, ?, ?, ?, ?, ?, ?)" took 3062 milliseconds. Parameters:
+	[idRecord]=758426
+	[logdate]=2017-01-18T05:09:45
+	[loglevel]=3
+	[message]=ThreadMgr removed a potential denial of service for thread 23...
+	[errornum]=0
+	[dbname]=
+	[username]=
+
+************************************************
+Server Status Report
+************************************************
+06/06/17 01:52:12
+Databases: 0 Global Users: 194
+Memory:
+[{Largest: 8182.72 GB}, {Free Blocks: 143}, {Mem Free: 8190.91 GB}, {Mem Rsrv: 264.30 MB}, {Mem Comm: 852.59 MB}]
+
+Threads:
+Number of threads: 0    Web Requests: 976298
+
+Thread Status Report Time: 00:00:00
+
+Sessions:
+Number of UserSessions: 0 
+
+Session Status Report Time: 00:00:01
+
+Server Maint Thread: 2716; Status: End
+
+Status Report Time: 00:21:540
+
+************************************************
+
+
+6/6/2017 2:7:46 <System Info> Processor = x64, Processors = 2, Physical Mem = 3.50 GB, Available Physical Mem = 1.69 GB, Page File = 7.00 GB, Available Page File = 3.16 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.84 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+06/06/17 02:07:46 <Info>     Low Fragmentation Heap enabled.
+06/06/17 02:07:46 <Info>     Compacting is starting for the SERVER database.
+06/06/17 02:08:02 <Info>     Compacting was successfully completed for the SERVER database in 15 seconds.
+06/06/17 02:08:02 <Info>     Server log startup for Helix ALM 2017.1.1 Build 18 (Windows/x64)
+06/06/17 02:08:07 <Activity> Connection error from [170.138.104.250]: The Helix ALM Server you are connecting to was updated to a newer version. 
+You must install the new version of the Helix ALM Client. 
+6/6/2017 2:8:21 Starting [{Largest: 8182.49 GB @ 0x00000001413A7000}, {Free Blocks: 126}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 60.78 MB}, {Mem Comm: 138.77 MB}]
+06/06/17 02:08:21 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.1.1 Build 18 (Windows/x64)]
+6/6/2017 2:9:56 HFN (Helix ALM Native)[{Largest: 8182.49 GB @ 0x00000001413A7000}, {Free Blocks: 132}, {Mem Free: 8190.94 GB}, {Mem Rsrv: 63.38 MB}, {Mem Comm: 1.00 GB}]
+				DFCT 27593	TSTC 0	TSTR 0	RQMT 0	RDMT 0	TASK 1
+				USER 142	UGRP 6	RPRT 80	DFLT 321	LINK 1357	MAIL 0
+				FOLDPUB 2	FOLDPVT 3	FOLDTYPE 7	TYPE 3	CUDFDFCT 21	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 11	TRGRPREMOD 0
+				TRGRPREEVT 2	TRGRPRENOTFY 4	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel -        Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz 
+1 projects that contain a total of 27605 records were loaded.
+
+	27593 issues
+	0 requirements
+	0 requirement documents
+	0 test cases
+	0 test runs
+	12 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Seapine\TestTrack\
+	Drive name: 
+	File system type: NTFS
+	Size: 127.00 GB
+	Available: 72.48 GB
+
+
+************************************************
+Server Status Report
+************************************************
+07/12/17 11:27:04
+Databases: 1 Global Users: 195
+Memory:
+[{Largest: 8182.49 GB}, {Free Blocks: 151}, {Mem Free: 8190.88 GB}, {Mem Rsrv: 65.47 MB}, {Mem Comm: 1.05 GB}]
+
+Threads:
+Number of threads: 7    Web Requests: 216910
+ Socket: 3076 [170.138.104.250] Thread: 4968  Rqsts[1643]  Session [0x53d6ad7c]  Bfrd: 0
+ Socket: 2728 [170.138.104.250] Thread: 1880  Rqsts[318]  Session [0x1ff6197f]  Bfrd: 0
+ Socket: 3212 [170.138.104.250] Thread: 4844  Rqsts[270]  Session [0x5e8b6c14]  Busy [62 : 10.000000 secs]  Bfrd: 0
+ Socket: 1360 [170.138.104.250] Thread: 2404  Rqsts[178]  Session [0x852cdcff]  Bfrd: 0
+ Socket: 3132 [170.138.104.250] Thread: 3472  Rqsts[77]  Session [0x8558ea6]  Bfrd: 0
+ Socket: 1824 [70.127.161.115] Thread: 4364  Rqsts[97]  Session [0x64863598]  Bfrd: 0
+ Socket: 2612 [127.0.0.1] Thread: 4176  Rqsts[4]  Session [0x29fdb47]  Busy [5 : 25.000000 secs]  Bfrd: 0
+
+Thread Status Report Time: 00:00:00
+
+Sessions:
+Number of Stateless Sessions: 0 
+
+Session Status Report Time: 00:00:00
+
+Server Maint Thread: 4044; Status: End
+Proj: HFN; Maint Thread: 5908; Esc. Thread: 0; Status: StartLoop
+
+Status Report Time: 00:00:31
+
+************************************************
+
+
+************************************************
+Lock Status Report - Write Lock Fail Details
+7/12/2017 11:27:16 AM
+************************************************
+Thread 4176 failed to get a write lock.
+[Current Writer Info]
+ - Thread 4844 has had an intention to write lock for 00:00:00 that was obtained at 7/12/2017 11:27:16 AM.
+[Current Reader(s) Info]
+ - Thread 4856 has had a read lock for 00:00:38 that was obtained at 7/12/2017 11:26:38 AM.
+************************************************
+
+11/20/2017 1:25:37 <System Info> Processor = x64, Processors = 2, Physical Mem = 3.50 GB, Available Physical Mem = 2.91 GB, Page File = 7.00 GB, Available Page File = 6.38 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.84 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+11/20/17 01:25:37 <Info>     Low Fragmentation Heap enabled.
+11/20/17 01:25:38 <Info>     Compacting is starting for the SERVER database.
+11/20/17 01:25:54 <Info>     Compacting was successfully completed for the SERVER database in 16 seconds.
+11/20/17 01:25:54 <Info>     Server log startup for Helix ALM 2017.2.0 Build 25 (Windows/x64)
+11/20/2017 1:26:5 Starting [{Largest: 8182.69 GB @ 0x00000001412AB000}, {Free Blocks: 128}, {Mem Free: 8191.80 GB}, {Mem Rsrv: 60.13 MB}, {Mem Comm: 142.24 MB}]
+11/20/17 01:26:05 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.2.0 Build 25 (Windows/x64)]
+11/20/17 01:26:05 <Info>     Helix ALM Server was started in a cloud environment.
+
+
+CPU: GenuineIntel -        Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz 
+0 projects that contain a total of 0 records were loaded.
+
+	0 issues
+	0 requirements
+	0 requirement documents
+	0 test cases
+	0 test runs
+	0 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Seapine\TestTrack\
+	Drive name: 
+	File system type: NTFS
+	Size: 127.00 GB
+	Available: 67.78 GB
+
+11/20/2017 1:27:35 SQL query "select idRecord, ProjectID, idUser, dateLog, Notes, ParentID, AuditID from DEFLOG where ProjectID = ?  order by ParentID ASC" took 3375 milliseconds. Parameters:
+	[ProjectID]=1
+11/20/2017 1:28:8 HFN (Helix ALM Native)[{Largest: 8182.69 GB @ 0x00000001412AB000}, {Free Blocks: 137}, {Mem Free: 8190.84 GB}, {Mem Rsrv: 57.64 MB}, {Mem Comm: 1.10 GB}]
+				DFCT 30690	TSTC 0	TSTR 0	RQMT 0	RDMT 0	TASK 1
+				USER 144	UGRP 6	RPRT 88	DFLT 356	LINK 1372	MAIL 0
+				FOLDPUB 2	FOLDPVT 3	FOLDTYPE 7	TYPE 3	CUDFDFCT 21	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 11	TRGRPREMOD 0
+				TRGRPREEVT 2	TRGRPRENOTFY 4	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+************************************************
+Server Status Report
+************************************************
+12/05/17 11:51:44
+Databases: 1 Global Users: 196
+Memory:
+[{Largest: 8182.59 GB}, {Free Blocks: 168}, {Mem Free: 8190.70 GB}, {Mem Rsrv: 79.22 MB}, {Mem Comm: 1.22 GB}]
+
+Threads:
+Number of threads: 12    Web Requests: 63909
+ Socket: 2688 [170.138.104.250] Thread: 4980  Rqsts[13021]  Session [0xa5c1f686]  Bfrd: 0
+ Socket: 2036 [170.138.104.250] Thread: 3708  Rqsts[399]  Session [0xb4368b3a]  Bfrd: 0
+ Socket: 1944 [170.138.104.250] Thread: 4740  Rqsts[298]  Session [0xd9d2bea]  Bfrd: 0
+ Socket: 2844 [170.138.104.250] Thread: 3112  Rqsts[210]  Session [0xf23d11c0]  Bfrd: 0
+ Socket: 2976 [170.138.104.250] Thread: 4796  Rqsts[227]  Session [0x10d9b967]  Bfrd: 0
+ Socket: 2680 [170.138.104.250] Thread: 4248  Rqsts[92]  Session [0x7c94756f]  Bfrd: 0
+ Socket: 1664 [170.138.104.250] Thread: 348  Rqsts[77]  Session [0xebfcf37a]  Bfrd: 0
+ Socket: 2068 [170.138.104.250] Thread: 5640  Rqsts[113]  Session [0xa63ea9c1]  Bfrd: 0
+ Socket: 1412 [170.138.104.250] Thread: 2704  Rqsts[52]  Session [0xd8e2f7bc]  Bfrd: 0
+ Socket: 1656 [170.138.104.250] Thread: 3928  Rqsts[48]  Session [0x21b285fe]  Bfrd: 0
+ Socket: 2324 [170.138.104.250] Thread: 2776  Rqsts[18]  Session [0xa067424]  Bfrd: 0
+ Socket: 1280 [198.187.27.6] Thread: 5216  Rqsts[6]  Session [0xb6cd174f]  Busy [697 : 11.000000 secs]  Bfrd: 0
+
+Thread Status Report Time: 00:00:00
+
+Sessions:
+Number of UserSessions: 15 
+ Session: 0xb6cd174f [admin] Tue, 5 Dec 2017 16:51:26 GMT
+      cloudadmin  [198.187.27.6] [0  Tue, 5 Dec 2017 16:51:33 GMT]
+      
+ Session: 0x650e83f [web] Tue, 5 Dec 2017 16:51:19 GMT
+      Mike Meyer [Web]  [127.0.0.1/104.129.196.71] [198  Tue, 5 Dec 2017 16:51:42 GMT]
+      HFN
+ Session: 0xa067424 Tue, 5 Dec 2017 16:49:49 GMT
+      Kishore Puligundla [Client]  [170.138.104.250] [3  Tue, 5 Dec 2017 16:51:05 GMT]
+      HFN
+ Session: 0x21b285fe Tue, 5 Dec 2017 16:44:27 GMT
+      Kimberly D Mathis [Client]  [170.138.104.250] [3  Tue, 5 Dec 2017 16:51:17 GMT]
+      HFN
+ Session: 0xd8e2f7bc Tue, 5 Dec 2017 16:39:56 GMT
+      Rajamohan Putta [Client]  [170.138.104.250] [3  Tue, 5 Dec 2017 16:50:44 GMT]
+      HFN
+ Session: 0xa63ea9c1 Tue, 5 Dec 2017 16:32:08 GMT
+      Sumeyko M Jones [Client]  [170.138.104.250] [62  Tue, 5 Dec 2017 16:51:36 GMT]
+      HFN
+ Session: 0xebfcf37a Tue, 5 Dec 2017 16:29:32 GMT
+      Ezra Ibrahim [Client]  [170.138.104.250] [3  Tue, 5 Dec 2017 16:51:03 GMT]
+      HFN
+ Session: 0x7e5994bf [web] Tue, 5 Dec 2017 16:26:48 GMT
+      Brett Ortwerth [Web]  [127.0.0.1/104.129.204.81] [614  Tue, 5 Dec 2017 16:51:17 GMT]
+      HFN
+ Session: 0x7c94756f Tue, 5 Dec 2017 16:24:48 GMT
+      Robin McLaughlin [Client]  [170.138.104.250] [68  Tue, 5 Dec 2017 16:51:33 GMT]
+      HFN
+ Session: 0xa3c7681b [web] Tue, 5 Dec 2017 16:16:03 GMT
+      Vijaya Maguluri [Web]  [127.0.0.1/104.129.204.81] [68  Tue, 5 Dec 2017 16:50:55 GMT]
+      HFN
+ Session: 0x10d9b967 Tue, 5 Dec 2017 15:58:38 GMT
+      Betty Williams [Client]  [170.138.104.250] [3  Tue, 5 Dec 2017 16:50:48 GMT]
+      HFN
+ Session: 0xf23d11c0 Tue, 5 Dec 2017 15:30:07 GMT
+      Kim Doyle [Client]  [170.138.104.250] [68  Tue, 5 Dec 2017 16:51:31 GMT]
+      HFN
+ Session: 0xd9d2bea Tue, 5 Dec 2017 14:36:08 GMT
+      Scott Walters [Client]  [170.138.104.250] [3  Tue, 5 Dec 2017 16:51:07 GMT]
+      HFN
+ Session: 0xb4368b3a Tue, 5 Dec 2017 14:04:35 GMT
+      Carl Kriz [Client]  [170.138.104.250] [3  Tue, 5 Dec 2017 16:50:46 GMT]
+      HFN
+ Session: 0xa5c1f686 Tue, 28 Nov 2017 15:43:28 GMT
+      David Chen [Client]  [170.138.104.250] [3  Tue, 5 Dec 2017 16:50:50 GMT]
+      HFN
+Number of Stateless Sessions: 0 
+
+Session Status Report Time: 00:00:00
+
+Server Maint Thread: 2840; Status: End
+Proj: HFN; Maint Thread: 3984; Esc. Thread: 0; Status: StartLoop
+
+Status Report Time: 00:00:46
+
+************************************************
+
+
+12/7/2017 5:35:48 <System Info> Processor = x64, Processors = 2, Physical Mem = 3.50 GB, Available Physical Mem = 2.82 GB, Page File = 7.00 GB, Available Page File = 6.29 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.85 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+12/07/17 05:35:48 <Info>     Low Fragmentation Heap enabled.
+12/07/17 05:35:48 <Info>     Compacting is starting for the SERVER database.
+12/07/17 05:36:12 <Info>     Compacting was successfully completed for the SERVER database in 23 seconds.
+12/07/17 05:36:12 <Info>     Server log startup for Helix ALM 2017.2.0 Build 25 (Windows/x64)
+12/7/2017 5:36:16 Starting [{Largest: 8182.70 GB @ 0x0000000140C4B000}, {Free Blocks: 127}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 60.06 MB}, {Mem Comm: 137.22 MB}]
+12/07/17 05:36:16 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.2.0 Build 25 (Windows/x64)]
+12/07/17 05:36:16 <Info>     Helix ALM Server was started in a cloud environment.
+12/7/2017 5:37:56 SQL query "select idRecord, ProjectID, idUser, dateLog, Notes, ParentID, AuditID from DEFLOG where ProjectID = ?  order by ParentID ASC" took 7390 milliseconds. Parameters:
+	[ProjectID]=1
+12/7/2017 5:38:31 HFN (Helix ALM Native)[{Largest: 8182.70 GB @ 0x0000000140C4B000}, {Free Blocks: 133}, {Mem Free: 8190.83 GB}, {Mem Rsrv: 58.55 MB}, {Mem Comm: 1.11 GB}]
+				DFCT 31116	TSTC 0	TSTR 0	RQMT 0	RDMT 0	TASK 1
+				USER 144	UGRP 6	RPRT 89	DFLT 357	LINK 1373	MAIL 0
+				FOLDPUB 2	FOLDPVT 3	FOLDTYPE 7	TYPE 3	CUDFDFCT 21	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 11	TRGRPREMOD 0
+				TRGRPREEVT 2	TRGRPRENOTFY 4	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel -        Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz 
+1 projects that contain a total of 31128 records were loaded.
+
+	31116 issues
+	0 requirements
+	0 requirement documents
+	0 test cases
+	0 test runs
+	12 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Seapine\TestTrack\
+	Drive name: 
+	File system type: NTFS
+	Size: 127.00 GB
+	Available: 67.07 GB
+
+12/7/2017 12:11:02 SQL query "select COUNT(*) from ATTACHMT WHERE ProjectID = ? AND ArchvFile = ? AND idRecord != ?" took 4500 milliseconds. Parameters:
+	[ProjectID]=1
+	[ArchvFile]=00048103.dat
+	[idRecord]=4294967295
+12/13/2017 10:07:09 SQL query "select COUNT(*) from ATTACHMT WHERE ProjectID = ? AND ArchvFile = ? AND idRecord != ?" took 3484 milliseconds. Parameters:
+	[ProjectID]=1
+	[ArchvFile]=00052103.dat
+	[idRecord]=107853
+
+1/3/2018 21:49:4 <System Info> Processor = x64, Processors = 2, Physical Mem = 3.50 GB, Available Physical Mem = 2.76 GB, Page File = 7.00 GB, Available Page File = 6.23 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.84 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+01/03/18 21:49:04 <Info>     Low Fragmentation Heap enabled.
+01/03/18 21:49:09 <Info>     Compacting is starting for the SERVER database.
+01/03/18 21:49:39 <Info>     Compacting was successfully completed for the SERVER database in 30 seconds.
+01/03/18 21:49:40 <Info>     Server log startup for Helix ALM 2017.2.0 Build 25 (Windows/x64)
+1/3/2018 21:50:2 Starting [{Largest: 8182.69 GB @ 0x000000014125B000}, {Free Blocks: 130}, {Mem Free: 8191.80 GB}, {Mem Rsrv: 60.44 MB}, {Mem Comm: 142.80 MB}]
+01/03/18 21:50:02 <Info>     Helix ALM Server initialized. Accepting connection requests. [2017.2.0 Build 25 (Windows/x64)]
+01/03/18 21:50:02 <Info>     Helix ALM Server was started in a cloud environment.
+1/3/2018 21:55:54 SQL query "select idRecord, ProjectID, idUser, dateLog, Notes, ParentID, AuditID from DEFLOG where ProjectID = ?  order by ParentID ASC" took 10875 milliseconds. Parameters:
+	[ProjectID]=1
+1/3/2018 21:56:13 SQL query "select COUNT(*) from DEFECTEVTS where ProjectID = ? " took 3515 milliseconds. Parameters:
+	[ProjectID]=1
+1/3/2018 21:56:35 HFN (Helix ALM Native)[{Largest: 8182.69 GB @ 0x000000014125B000}, {Free Blocks: 135}, {Mem Free: 8190.81 GB}, {Mem Rsrv: 58.62 MB}, {Mem Comm: 1.13 GB}]
+				DFCT 31732	TSTC 0	TSTR 0	RQMT 0	RDMT 0	TASK 1
+				USER 144	UGRP 6	RPRT 89	DFLT 359	LINK 1379	MAIL 0
+				FOLDPUB 2	FOLDPVT 3	FOLDTYPE 7	TYPE 3	CUDFDFCT 21	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 11	TRGRPREMOD 0
+				TRGRPREEVT 2	TRGRPRENOTFY 4	TRGRPREEXE 0	TRGRPOSTEXE 0
+
+
+CPU: GenuineIntel -        Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz 
+1 projects that contain a total of 31744 records were loaded.
+
+	31732 issues
+	0 requirements
+	0 requirement documents
+	0 test cases
+	0 test runs
+	12 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Seapine\TestTrack\
+	Drive name: 
+	File system type: NTFS
+	Size: 127.00 GB
+	Available: 66.83 GB
+
+4/23/2018 0:12:58 SQL query "insert into MSGLOG(idRecord, logdate, loglevel, message, errornum, dbname, username) values(?, ?, ?, ?, ?, ?, ?)" took 2562 milliseconds. Parameters:
+	[idRecord]=778017
+	[logdate]=2018-04-23T04:12:55Z
+	[loglevel]=4
+	[message]=Reconnecting client at 170.138.104.250 Db: HFN, User: levitan...
+	[errornum]=0
+	[dbname]=
+	[username]=
+5/9/2018 10:19:21 SQL query "select COUNT(*) from ATTACHMT WHERE ProjectID = ? AND ArchvFile = ? AND idRecord != ?" took 3156 milliseconds. Parameters:
+	[ProjectID]=1
+	[ArchvFile]=00058692.dat
+	[idRecord]=121583
+
+5/21/2018 2:12:5 <System Info> Processor = x64, Processors = 2, Physical Mem = 3.50 GB, Available Physical Mem = 2.77 GB, Page File = 7.00 GB, Available Page File = 6.26 GB, Virtual Mem = 8192.00 GB, Available Virtual Mem = 8191.84 GB, Page Size = 4096.00 bytes, Microsoft Windows Server 2008 R2 Service Pack 1 build - 7601
+05/21/18 02:12:05 <Info>     Low Fragmentation Heap enabled.
+05/21/18 02:12:07 <Error>    Unable to get ownership lock in TTQtDbUtils::ObtainDatabaseLock because the tables have a version of 10.0 but the server was expecting a version of 18.0tt.
+05/21/18 02:12:09 <Info>     Compacting is starting for the SERVER database.
+05/21/18 02:12:09 <Info>     Compacting was successfully completed for the SERVER database in 0 seconds.
+05/21/18 02:12:09 <Info>     Server log startup for Helix ALM 2018.1.0 Build 15 (Windows/x64)
+05/21/18 02:12:09 <Info>     The server database was successfully upgraded and initialized.
+05/21/18 02:12:22 <Activity> Connection error from [170.138.104.250]: The Helix ALM Server you are connecting to was updated to a newer version. 
+You must install the new version of the Helix ALM Client. 
+5/21/2018 2:12:31 Starting [{Largest: 8182.68 GB @ 0x00000001416BF000}, {Free Blocks: 117}, {Mem Free: 8191.81 GB}, {Mem Rsrv: 58.63 MB}, {Mem Comm: 136.25 MB}]
+05/21/18 02:12:31 <Info>     Helix ALM Server initialized. Accepting connection requests. [2018.1.0 Build 15 (Windows/x64)]
+05/21/18 02:12:31 <Info>     Helix ALM Server was started in a cloud environment.
+
+
+CPU: GenuineIntel -        Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz 
+0 projects that contain a total of 0 records were loaded.
+
+	0 issues
+	0 requirements
+	0 requirement documents
+	0 test cases
+	0 test runs
+	0 folders
+
+
+Server hard drive:
+	Path: C:\Program Files\Seapine\TestTrack\
+	Drive name: 
+	File system type: NTFS
+	Size: 127.00 GB
+	Available: 62.24 GB
+
+5/21/2018 2:16:23 SQL query "select idRecord, ProjectID, idUser, dateLog, Notes, ParentID, AuditID from DEFLOG where ProjectID = ?  order by ParentID ASC" took 3937 milliseconds. Parameters:
+	[ProjectID]=1
+5/21/2018 2:17:22 HFN (Helix ALM Native)[{Largest: 8182.68 GB @ 0x00000001416BF000}, {Free Blocks: 122}, {Mem Free: 8190.74 GB}, {Mem Rsrv: 55.22 MB}, {Mem Comm: 1.21 GB}]
+				DFCT 34556	TSTC 0	TSTR 0	RQMT 0	RDMT 0	TASK 1
+				USER 145	UGRP 6	RPRT 92	DFLT 367	LINK 1415	MAIL 0
+				FOLDPUB 2	FOLDPVT 3	FOLDTYPE 7	TYPE 3	CUDFDFCT 21	CUDFTSTC 4	CUDFTSTR 4
+				CUDFRQMT 7	CUDFRDMT 3	FLDR 0	TRGRESCL 0	TRGRPREPRE 11	TRGRPREMOD 0
+				TRGRPREEVT 2	TRGRPRENOTFY 4	TRGRPREEXE 0	TRGRPOSTEXE 0
+5/24/2018 14:13:45 SQL query "select COUNT(*) from ATTACHMT WHERE ProjectID = ? AND ArchvFile = ? AND idRecord != ?" took 8140 milliseconds. Parameters:
+	[ProjectID]=1
+	[ArchvFile]=00058876.dat
+	[idRecord]=4294967295
+6/8/2018 13:02:49 SQL query "select COUNT(*) from ATTACHMT WHERE ProjectID = ? AND ArchvFile = ? AND idRecord != ?" took 7734 milliseconds. Parameters:
+	[ProjectID]=1
+	[ArchvFile]=00059857.dat
+	[idRecord]=124128
+6/13/2018 8:52:58 SQL query "select COUNT(*) from ATTACHMT WHERE ProjectID = ? AND ArchvFile = ? AND idRecord != ?" took 9109 milliseconds. Parameters:
+	[ProjectID]=1
+	[ArchvFile]=00059792.dat
+	[idRecord]=4294967295
+6/15/2018 9:41:07 SQL query "select idRecord, ProjectID, idUser, dateLog, Notes, ParentID, AuditID from DEFLOG where ProjectID = ? and ParentID = ? " took 3703 milliseconds. Parameters:
+	[ProjectID]=1
+	[ParentID]=34651
+
+************************************************
+Server Status Report
+************************************************
+06/21/18 12:23:58
+Databases: 1 Global Users: 197
+Memory:
+[{Largest: 8182.68 GB}, {Free Blocks: 141}, {Mem Free: 8190.68 GB}, {Mem Rsrv: 70.48 MB}, {Mem Comm: 1.25 GB}]
+
+Threads:
+Number of threads: 9    Web Requests: 152251
+ Socket: 1668 [170.138.104.250] Thread: 5080  Rqsts[437]  Session [0x651ff20f]  Bfrd: 0
+ Socket: 1932 [170.138.104.250] Thread: 3836  Rqsts[227]  Session [0x815e4343]  Bfrd: 0
+ Socket: 1456 [170.138.104.250] Thread: 1564  Rqsts[137]  Session [0xb5afd5e2]  Busy [63 : 8.000000 secs]  Bfrd: 0
+ Socket: 924 [170.138.104.250] Thread: 4240  Rqsts[132]  Session [0xd7630183]  Bfrd: 0
+ Socket: 1712 [170.138.104.250] Thread: 288  Rqsts[144]  Session [0x682d78df]  Bfrd: 0
+ Socket: 1748 [170.138.104.250] Thread: 3192  Rqsts[82]  Session [0x42bd932d]  Bfrd: 0
+ Socket: 1836 [170.138.104.250] Thread: 4500  Rqsts[32]  Session [0xa95d5893]  Bfrd: 0
+ Socket: 2484 [170.138.104.250] Thread: 2512  Rqsts[84]  Session [0xe6fa690d]  Bfrd: 0
+ Socket: 2988 [127.0.0.1] Thread: 4212  Rqsts[4]  Session [0xc68915f0]  Busy [5 : 25.000000 secs]  Bfrd: 0
+
+Thread Status Report Time: 00:00:00
+
+Sessions:
+Number of UserSessions: 10 
+ Session: 0xe6fa690d Thu, 21 Jun 2018 16:21:47 GMT
+      Robin McLaughlin [Client]  [170.138.104.250] [362  Thu, 21 Jun 2018 16:23:57 GMT]
+      [Report: 4908] [Report][Working][1][170.138.104.250][64][0] - [Issues] [Detail] [IssueDetailReport.xslt] [Filter: 0] [Generating XML] [6/21/2018 12:22:54] [Prep: 0] [XML: 0] [Trans: 0]
+      HFN
+ Session: 0x1deef90e [web] [108] Thu, 21 Jun 2018 16:20:07 GMT
+      Joshua Fernandes [Web]  [127.0.0.1/165.225.34.154] [760  Thu, 21 Jun 2018 16:23:24 GMT]
+      HFN
+ Session: 0xa95d5893 Thu, 21 Jun 2018 16:16:12 GMT
+      Dan Hill [Client]  [170.138.104.250] [68  Thu, 21 Jun 2018 16:23:34 GMT]
+      HFN
+ Session: 0xc01b7cec [web] [117] Thu, 21 Jun 2018 15:49:39 GMT
+      Vijaya Maguluri [Web]  [127.0.0.1/165.225.34.154] [68  Thu, 21 Jun 2018 16:23:33 GMT]
+      HFN
+ Session: 0x42bd932d Thu, 21 Jun 2018 15:44:36 GMT
+      Kim Doyle [Client]  [170.138.104.250] [3  Thu, 21 Jun 2018 16:23:54 GMT]
+      HFN
+ Session: 0x682d78df Thu, 21 Jun 2018 15:38:55 GMT
+      Rajamohan Putta [Client]  [170.138.104.250] [68  Thu, 21 Jun 2018 16:23:48 GMT]
+      HFN
+ Session: 0xd7630183 Thu, 21 Jun 2018 15:33:01 GMT
+      Betty Williams [Client]  [170.138.104.250] [68  Thu, 21 Jun 2018 16:23:03 GMT]
+      HFN
+ Session: 0xb5afd5e2 Thu, 21 Jun 2018 15:32:16 GMT
+      Sumeyko M Jones [Client]  [170.138.104.250] [63  Thu, 21 Jun 2018 16:23:50 GMT]
+      HFN
+ Session: 0x815e4343 Thu, 21 Jun 2018 14:51:41 GMT
+      Mike Meyer [Client]  [170.138.104.250] [68  Thu, 21 Jun 2018 16:23:45 GMT]
+      HFN
+ Session: 0x651ff20f Thu, 21 Jun 2018 12:36:50 GMT
+      Carl Kriz [Client]  [170.138.104.250] [3  Thu, 21 Jun 2018 16:23:55 GMT]
+      HFN
+
+Number of collectives: 2
+	[108]:1
+	[117]:1
+
+Number of Stateless Sessions: 0 
+
+Session Status Report Time: 00:00:00
+
+Server Maint Thread: 2008; Status: End
+Proj: HFN; Maint Thread: 3736; Esc. Thread: 0; Status: StartLoop
+
+Status Report Time: 00:00:31
+
+************************************************
+
+
+************************************************
+Lock Status Report - Write Lock Fail Details
+6/21/2018 12:24:11 PM
+************************************************
+Thread 4212 failed to get a write lock.
+[Current Writer Info]
+ - Thread 1564 has had an intention to write lock for 00:00:01 that was obtained at 6/21/2018 12:24:10 PM.
+[Current Reader(s) Info]
+ - Thread 4908 has had a read lock for 00:01:17 that was obtained at 6/21/2018 12:22:54 PM.
+************************************************
+
+************************************************
+Lock Status Report - Write Lock Fail Details
+6/21/2018 12:24:49 PM
+************************************************
+Current Thread 1564 failed to get a write lock after having obtained an intention to write lock for 00:00:39
+ that was obtained at 6/21/2018 12:24:10 PM.
+[Current Reader(s) Info]
+ - Thread 4908 has had a read lock for 00:01:55 that was obtained at 6/21/2018 12:22:54 PM.
+************************************************
+
+************************************************
+Server Status Report
+************************************************
+06/21/18 12:25:14
+Databases: 1 Global Users: 197
+Memory:
+[{Largest: 8182.68 GB}, {Free Blocks: 142}, {Mem Free: 8190.68 GB}, {Mem Rsrv: 69.49 MB}, {Mem Comm: 1.25 GB}]
+
+Threads:
+Number of threads: 9    Web Requests: 152257
+ Socket: 1668 [170.138.104.250] Thread: 5080  Rqsts[439]  Session [0x651ff20f]  Busy [7 : 23.000000 secs]  Bfrd: 0
+ Socket: 1932 [170.138.104.250] Thread: 3836  Rqsts[228]  Session [0x815e4343]  Bfrd: 0
+ Socket: 1456 [170.138.104.250] Thread: 1564  Rqsts[140]  Session [0xb5afd5e2]  Busy [63 : 20.000000 secs]  Bfrd: 0
+ Socket: 924 [170.138.104.250] Thread: 4240  Rqsts[134]  Session [0xd7630183]  Busy [63 : 23.000000 secs]  Bfrd: 0
+ Socket: 1712 [170.138.104.250] Thread: 288  Rqsts[146]  Session [0x682d78df]  Bfrd: 0
+ Socket: 1748 [170.138.104.250] Thread: 3192  Rqsts[83]  Session [0x42bd932d]  Bfrd: 0
+ Socket: 1836 [170.138.104.250] Thread: 4500  Rqsts[36]  Session [0xa95d5893]  Busy [63 : 13.000000 secs]  Bfrd: 0
+ Socket: 2484 [170.138.104.250] Thread: 2512  Rqsts[159]  Session [0xe6fa690d]  Bfrd: 0
+ Socket: 2960 [127.0.0.1] Thread: 2576  Rqsts[4]  Session [0x85322573]  Busy [5 : 49.000000 secs]  Bfrd: 0
+
+Thread Status Report Time: 00:00:00
+
+Sessions:
+Number of UserSessions: 10 
+ Session: 0xe6fa690d Thu, 21 Jun 2018 16:21:47 GMT
+      Robin McLaughlin [Client]  [170.138.104.250] [362  Thu, 21 Jun 2018 16:25:13 GMT]
+      [Report: 4908] [Report][Working][1][170.138.104.250][140][0] - [Issues] [Detail] [IssueDetailReport.xslt] [Filter: 0] [Generating XML] [6/21/2018 12:22:54] [Prep: 0] [XML: 0] [Trans: 0]
+      HFN
+ Session: 0x1deef90e [web] [108] Thu, 21 Jun 2018 16:20:07 GMT
+      Joshua Fernandes [Web]  [127.0.0.1/165.225.34.154] [760  Thu, 21 Jun 2018 16:24:25 GMT]
+      HFN
+ Session: 0xa95d5893 Thu, 21 Jun 2018 16:16:12 GMT
+      Dan Hill [Client]  [170.138.104.250] [63  Thu, 21 Jun 2018 16:25:01 GMT]
+      HFN
+ Session: 0xc01b7cec [web] [117] Thu, 21 Jun 2018 15:49:39 GMT
+      Vijaya Maguluri [Web]  [127.0.0.1/165.225.34.154] [68  Thu, 21 Jun 2018 16:24:41 GMT]
+      HFN
+ Session: 0x42bd932d Thu, 21 Jun 2018 15:44:36 GMT
+      Kim Doyle [Client]  [170.138.104.250] [3  Thu, 21 Jun 2018 16:24:54 GMT]
+      HFN
+ Session: 0x682d78df Thu, 21 Jun 2018 15:38:55 GMT
+      Rajamohan Putta [Client]  [170.138.104.250] [657  Thu, 21 Jun 2018 16:24:11 GMT]
+      HFN
+ Session: 0xd7630183 Thu, 21 Jun 2018 15:33:01 GMT
+      Betty Williams [Client]  [170.138.104.250] [63  Thu, 21 Jun 2018 16:24:51 GMT]
+      HFN
+ Session: 0xb5afd5e2 Thu, 21 Jun 2018 15:32:16 GMT
+      Sumeyko M Jones [Client]  [170.138.104.250] [63  Thu, 21 Jun 2018 16:24:54 GMT]
+      HFN
+ Session: 0x815e4343 Thu, 21 Jun 2018 14:51:41 GMT
+      Mike Meyer [Client]  [170.138.104.250] [3  Thu, 21 Jun 2018 16:24:45 GMT]
+      HFN
+ Session: 0x651ff20f Thu, 21 Jun 2018 12:36:50 GMT
+      Carl Kriz [Client]  [170.138.104.250] [7  Thu, 21 Jun 2018 16:24:51 GMT]
+      HFN
+
+Number of collectives: 2
+	[108]:1
+	[117]:1
+
+Number of Stateless Sessions: 0 
+
+Session Status Report Time: 00:00:00
+
+Server Maint Thread: 2008; Status: End
+Proj: HFN; Maint Thread: 3736; Esc. Thread: 0; Status: ProcessEscalation; Time: 00:00:24
+
+Status Report Time: 00:00:31
+
+************************************************
+
+
+************************************************
+Lock Status Report - Write Lock Fail Details
+6/21/2018 12:25:26 PM
+************************************************
+Thread 2576 failed to get a write lock.
+[Current Writer Info]
+ - Thread 4240 has had an intention to write lock for 00:00:00 that was obtained at 6/21/2018 12:25:26 PM.
+[Current Reader(s) Info]
+ - Thread 4908 has had a read lock for 00:02:32 that was obtained at 6/21/2018 12:22:54 PM.
+************************************************
+
+************************************************
+Lock Status Report - Write Lock Fail Details
+6/21/2018 12:26:05 PM
+************************************************
+Current Thread 4240 failed to get a write lock after having obtained an intention to write lock for 00:00:39
+ that was obtained at 6/21/2018 12:25:26 PM.
+[Current Reader(s) Info]
+ - Thread 4908 has had a read lock for 00:03:11 that was obtained at 6/21/2018 12:22:54 PM.
+************************************************
+
+************************************************
+Server Status Report
+************************************************
+06/26/18 13:19:32
+Databases: 1 Global Users: 197
+Memory:
+[{Largest: 8182.67 GB}, {Free Blocks: 156}, {Mem Free: 8190.67 GB}, {Mem Rsrv: 74.21 MB}, {Mem Comm: 1.26 GB}]
+
+Threads:
+Number of threads: 14    Web Requests: 164737
+ Socket: 1640 [170.138.104.250] Thread: 1264  Rqsts[735]  Session [0x54104ebb]  Bfrd: 0
+ Socket: 3012 [170.138.104.250] Thread: 512  Rqsts[378]  Session [0xbd16bb80]  Bfrd: 0
+ Socket: 2724 [170.138.104.250] Thread: 3780  Rqsts[335]  Session [0x7bc1936a]  Bfrd: 0
+ Socket: 2468 [170.138.104.250] Thread: 4580  Rqsts[436]  Session [0x4fc3dc7d]  Bfrd: 0
+ Socket: 1408 [170.138.104.250] Thread: 1348  Rqsts[171]  Session [0x23710e6b]  Bfrd: 0
+ Socket: 1344 [170.138.104.250] Thread: 1716  Rqsts[157]  Session [0x857c2b30]  Bfrd: 0
+ Socket: 2136 [170.138.104.250] Thread: 3080  Rqsts[117]  Session [0xcdb079c6]  Bfrd: 0
+ Socket: 2400 [170.138.104.250] Thread: 1640  Rqsts[169]  Session [0xaee62c5c]  Bfrd: 0
+ Socket: 1852 [170.138.104.250] Thread: 4492  Rqsts[4]  Bfrd: 0
+ Socket: 972 [170.138.104.250] Thread: 1232  Rqsts[4]  Bfrd: 0
+ Socket: 2776 [170.138.104.250] Thread: 4620  Rqsts[4]  Bfrd: 0
+ Socket: 2496 [170.138.104.250] Thread: 4436  Rqsts[21]  Session [0x12790b70]  Bfrd: 0
+ Socket: 2408 [170.138.104.250] Thread: 2400  Rqsts[4]  Bfrd: 0
+ Socket: 1116 [66.192.76.70] Thread: 1344  Rqsts[11]  Session [0xcec4c387]  Busy [697 : 0.000000 secs]  Bfrd: 0
+
+Thread Status Report Time: 00:00:00
+
+Sessions:
+Number of UserSessions: 11 
+ Session: 0xcec4c387 [admin] Tue, 26 Jun 2018 17:18:18 GMT
+      cloudadmin  [66.192.76.70] [0  Tue, 26 Jun 2018 17:19:32 GMT]
+      
+ Session: 0x12790b70 Tue, 26 Jun 2018 17:14:29 GMT
+      Mike Meyer [Client]  [170.138.104.250] [3  Tue, 26 Jun 2018 17:18:36 GMT]
+      HFN
+ Session: 0xaee62c5c Tue, 26 Jun 2018 16:28:02 GMT
+      Sumeyko M Jones [Client]  [170.138.104.250] [3  Tue, 26 Jun 2018 17:19:15 GMT]
+      HFN
+ Session: 0xcdb079c6 Tue, 26 Jun 2018 16:26:46 GMT
+      Veronica Lockhart [Client]  [170.138.104.250] [3  Tue, 26 Jun 2018 17:19:10 GMT]
+      HFN
+ Session: 0x857c2b30 Tue, 26 Jun 2018 16:02:42 GMT
+      David Chen [Client]  [170.138.104.250] [3  Tue, 26 Jun 2018 17:19:00 GMT]
+      HFN
+ Session: 0x23710e6b Tue, 26 Jun 2018 15:57:14 GMT
+      Danial levitan [Client]  [170.138.104.250] [3  Tue, 26 Jun 2018 17:19:21 GMT]
+      HFN
+ Session: 0x4fc3dc7d Tue, 26 Jun 2018 15:25:22 GMT
+      Rajamohan Putta [Client]  [170.138.104.250] [3  Tue, 26 Jun 2018 17:18:32 GMT]
+      HFN
+ Session: 0x6bc1248a [web] [128] Tue, 26 Jun 2018 15:24:00 GMT
+      Vijaya Maguluri [Web]  [127.0.0.1/165.225.34.154] [68  Tue, 26 Jun 2018 17:18:57 GMT]
+      HFN
+ Session: 0x7bc1936a Tue, 26 Jun 2018 14:48:39 GMT
+      Ezra Ibrahim [Client]  [170.138.104.250] [3  Tue, 26 Jun 2018 17:19:13 GMT]
+      HFN
+ Session: 0xbd16bb80 Tue, 26 Jun 2018 13:58:51 GMT
+      Kim Doyle [Client]  [170.138.104.250] [3  Tue, 26 Jun 2018 17:19:17 GMT]
+      HFN
+ Session: 0x54104ebb Tue, 26 Jun 2018 12:20:40 GMT
+      Carl Kriz [Client]  [170.138.104.250] [3  Tue, 26 Jun 2018 17:18:35 GMT]
+      HFN
+
+Number of collectives: 1
+	[128]:1
+
+Number of Stateless Sessions: 0 
+
+Session Status Report Time: 00:00:00
+
+Server Maint Thread: 2008; Status: End
+Proj: HFN; Maint Thread: 3736; Esc. Thread: 0; Status: StartLoop
+
+Status Report Time: 00:00:31
+
+************************************************
+
