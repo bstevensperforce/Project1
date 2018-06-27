@@ -1,0 +1,8 @@
+Parameter1: "C:\Users\MDiazTe\AppData\Local\Temp\TTf3C7E.tmp.Branch_Product Engineering.Version_80.System_Event_Checking.c" 
+Parameter2: "C:\Users\MDiazTe\AppData\Local\Temp\TTf3C8F.tmp.Branch_Product Engineering.Version_81.System_Event_Checking.c" 
+before WinMergeU call 
+"C:\Program Files (x86)\WinMerge\WinMergeU.exe" "C:\Users\MDiazTe\AppData\Local\Temp\TTf3C7E.tmp.Branch_Product Engineering.Version_80.System_Event_Checking.c" "C:\Users\MDiazTe\AppData\Local\Temp\TTf3C8F.tmp.Branch_Product Engineering.Version_81.System_Event_Checking.c" 
+ERRORLEVEL returned is 0 
+after WinMergeU call 
+. 
+. 
